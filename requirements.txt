@@ -1,3 +1,4 @@
+gensim
 pandas
 together
 openai
@@ -8,6 +9,5 @@ scikit-learn
 tensorflow
 tensorflow-hub
 nltk
-gensim
 transformers
 sentence-transformers
