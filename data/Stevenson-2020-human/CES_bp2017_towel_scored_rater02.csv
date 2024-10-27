@@ -1,0 +1,981 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater02,utility_rater02
+CES201705,13858,867,towel,          ,,,0,0
+CES201705,13859,867,towel,         ,,,0,0
+CES201705,13860,867,towel,           ,,,0,0
+CES201705,13906,872,towel,je kan ermee,,,0,0
+CES201705,16053,952,towel,om doen,,,0,0
+CES201705,16055,952,towel,gebruiken,,,0,0
+CES201705,16359.1,975,towel,7,,,0,0
+CES201705,16634,993,towel,aanmaak voor een vuurtje,aanmaak vuurtje,start fire,4,3
+CES201705,16136,969,towel,absorberen ,absorberen,absorb,2,4
+CES201705,15299,922,towel,achter verbergen,achter verbergen,hide behind,3,4
+CES201705,14846,913,towel,Om je iets af te drogen,af drogen,dry,1,5
+CES201705,15287,923,towel,af te drogen,af drogen,dry,1,5
+CES201705,16009,951,towel,iets afdekken,afdekken,cover,2,5
+CES201705,16412,974,towel,iets afdeken,afdekken,cover,2,5
+CES201705,13963,877,towel,als afdekscherm,afdekscherm,cover screen,2,5
+CES201705,16181,965,towel,iets mee afdichten,afdichten,seal,2,5
+CES201705,13398,849,towel,afdrogen',afdrogen,dry,1,5
+CES201705,13453,853,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,13457,857,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13476,851,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13496,854,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13538,860,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13540,858,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13579,861,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13840,871,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,13845,866,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13857,867,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13877,868,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13902,872,towel,je kan ermee afdrogen,afdrogen,dry,1,5
+CES201705,13915,876,towel,afdrogen,afdrogen,dry,1,5
+CES201705,13961,877,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14087,883,towel,alles afdrogen,afdrogen,dry,1,5
+CES201705,14104,884,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14135,886,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14233,888,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14273,889,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14679,900,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14683,903,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14704,898,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,14719,908,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14723,910,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14728,911,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14770,904,towel,afdrogen,afdrogen,dry,1,5
+CES201705,14775,907,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15080,918,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15259,921,towel,mee afdrogen,afdrogen,dry,1,5
+CES201705,15294,922,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15305,931,towel,Afdrogen,afdrogen,dry,1,5
+CES201705,15310,929,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15331,930,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,15360,935,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15369,933,towel,Afdrogen,afdrogen,dry,1,5
+CES201705,15402,936,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15566,945,towel,Afdrogen,afdrogen,dry,1,5
+CES201705,15593,946,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15605,947,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,15679,949,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15788,950,towel,afdrogen,afdrogen,dry,1,5
+CES201705,15965,954,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16022,9999,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16048,952,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16091,9999,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16149,963,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,16161,968,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16175,965,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16201,967,towel,Afdrogen,afdrogen,dry,1,5
+CES201705,16407,974,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16434,982,towel,afdrogen ,afdrogen,dry,1,5
+CES201705,16535,990,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16544,991,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16625,993,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16635,995,towel,afdrogen,afdrogen,dry,1,5
+CES201705,16687,997,towel,As fdrogen,afdrogen,dry,1,5
+CES201705,14085,883,towel,afdrogen lichaam,afdrogen lichaam,dry body,1,5
+CES201705,14086,883,towel,afdrogen muur,afdrogen muur,dry wall,1,5
+CES201705,14240,888,towel,afdrogen na het schoonmaken,afdrogen schoonmaken,dry clean,1,5
+CES201705,16005,951,towel,afdrogen na het zwemmen ,afdrogen zwemmen,dry off swimming,1,5
+CES201705,15092,918,towel,afdroogdoek,afdroogdoek,drying cloth,1,5
+CES201705,14904,914,towel,afdruipmatje,afdruip matje,drain mat,2,5
+CES201705,15555,944,towel,afdruiprek,afdruiprek,dish rack,2,5
+CES201705,13654,864,towel,afscheiding tussen twee kamers ipv een deur,afscheiding tussen kamers deur,partition between rooms door,3,5
+CES201705,13853,870,towel,iets afschermen,afschermen,shield,2,5
+CES201705,14236,888,towel,afschermen voor de zon,afschermen zon,shield from sun,2,5
+CES201705,14707,898,towel,afstoffen ,afstoffen,dust off,2,5
+CES201705,15358,928,towel,afstoffen,afstoffen,dust off,2,5
+CES201705,15350,926,towel,Afvegen,afvegen,wipe off,2,5
+CES201705,16545,991,towel,afwas,afwas,washing up,2,5
+CES201705,13477,851,towel,afwassen,afwassen,wash up,2,5
+CES201705,14706,898,towel,afwassen ,afwassen,wash up,2,5
+CES201705,16396,981,towel,afwassen duuuhhhh,afwassen,wash up,2,5
+CES201705,16534,990,towel,afwassen ,afwassen,wash up,2,5
+CES201705,14747,899,towel,een aladin maatje maken,Aladdin maatje,Aladdin buddy,5,3
+CES201705,13873,874,towel,je auto mee drogen,auto drogen,car drying,1,5
+CES201705,15990,959,towel,auto raam bedeken tegen zon licht,auto raam bedekken tegen zon licht,Cover car window from sun light,2,5
+CES201705,16222,971,towel,auto raam bedekken voor de zon,auto raam bedekken zon,car window cover sun,2,5
+CES201705,15931,956,towel,auto schoonmaken,auto schoonmaken,car cleaning,2,5
+CES201705,16361,975,towel,automaat,automaat,vending machine,0,0
+CES201705,14692,903,towel,bad,bad,bath,0,0
+CES201705,15081,918,towel,bad,bad,bath,0,0
+CES201705,15209,919,towel,bad,bad,bath,0,0
+CES201705,15224,920,towel,bad,bad,bath,0,0
+CES201705,15568,945,towel,Bad,bad,bath,0,0
+CES201705,16204,967,towel,Bad,bad,bath,0,0
+CES201705,16370,983,towel,baddoeken ,baddoeken,bath towels,1,5
+CES201705,16371,983,towel,badhandjes,badhandjes,bath gloves,1,5
+CES201705,14641,906,towel,badkamer,badkamer,bathroom,0,0
+CES201705,15093,918,towel,badkamer,badkamer,bathroom,0,0
+CES201705,15320,932,towel,badkamer,badkamer,bathroom,0,0
+CES201705,15569,945,towel,Badkamer,badkamer,bathroom,0,0
+CES201705,15784,950,towel,badkamer,badkamer,bathroom,0,0
+CES201705,16202,967,towel,Badkamer,badkamer,bathroom,0,0
+CES201705,16391,977,towel,badkamer,badkamer,bathroom,0,0
+CES201705,14249,887,towel,als badlaken,badlaken,bath towel,1,5
+CES201705,14708,898,towel,badlaken ,badlaken,bath towel,1,5
+CES201705,15079,918,towel,badlaken,badlaken,bath towel,1,5
+CES201705,13969,878,towel,badmat,badmat,bath mat,1,5
+CES201705,14901,914,towel,badmat,badmat,bath mat,1,5
+CES201705,14946,917,towel,badmat,badmat,bath mat,1,5
+CES201705,16695,998,towel,een badmat maken,badmat,bath mat,1,5
+CES201705,15215,919,towel,badstof,badstof,terry cloth,0,0
+CES201705,14737,911,towel,een bal ervan maken,bal ervan,ball of it,2,3
+CES201705,14818,912,towel,bandana,bandana,bandanna,3,4
+CES201705,13527,855,towel,bedekken,bedekken,cover,2,5
+CES201705,14235,888,towel,iets bedekken,bedekken,cover,2,5
+CES201705,14847,913,towel,Iets bedekken,bedekken,cover,2,5
+CES201705,16410,974,towel,iets mee bedeken,bedekken,cover,2,5
+CES201705,14751,899,towel,als bedekking middel gebruiken,bedekking middel,covering agent,2,5
+CES201705,13464,857,towel,bedekt,bedekt,covered,2,5
+CES201705,16520,9999,towel,bedenken,bedenken,think up,2,5
+CES201705,15594,946,towel,beer knuffel maken,beer knuffel,bear hug,4,3
+CES201705,13996.2,880,towel, voor een bepaalde effect,bepaalde effect,certain effect,0,0
+CES201705,14848,913,towel,Beschermen tegen licht,beschermen tegen licht,protect from light,2,5
+CES201705,13841,871,towel,beschermen tegen de zon ,beschermen tegen zon,protect from sun,2,5
+CES201705,13965,877,towel,iets beschermen tegen de zon,beschermen tegen zon,protect from sun,2,5
+CES201705,15324,932,towel,bescherming,bescherming,protection,2,5
+CES201705,14138,886,towel,bescherming tegen zon,bescherming tegen zon,protection from sun,2,5
+CES201705,13600,862,towel,beschermlaag,beschermlaag,protective layer,2,5
+CES201705,14277,889,towel,beschilder als doek,beschilder doek,paint canvas,3,5
+CES201705,13909,872,towel,je kan het beschilderen,beschilderen,paint,3,5
+CES201705,15468,941,towel,iemand op zijn billen slaan ,billen slaan,spanking,3,4
+CES201705,14713,898,towel,binden,binden,tie,2,4
+CES201705,14893,916,towel,binden,binden,tie,2,4
+CES201705,15359,928,towel,iemand binden,binden,tie,2,4
+CES201705,15230,920,towel,blauwe,blauwe,blue,0,0
+CES201705,14044,881,towel,om iemand te blinddoeken ,blinddoeken,blindfolds,3,5
+CES201705,15262,921,towel,bloed stollen,bloed stollen,blood to clot,3,4
+CES201705,14671,902,towel,kan het ook gebruiken om bloeden tijdelijk te stoppen maar daarna doet die het niet meer zo goed,bloeden tijdelijk stoppen daarna doet niet goed,Stopping bleeding temporarily afterward does not do any good,4,4
+CES201705,15596,946,towel,bloemen boeket van handoeken,bloemen boeket handdoeken,floral bouquet towels,4,3
+CES201705,16356,975,towel,bmw e39 530i,bmw e i,bmw e i,0,0
+CES201705,14663,909,towel,borden afdrogen,borden afdrogen,dry plates,1,5
+CES201705,13921,876,towel,gebruiken om breekbare dingen in te vervoeren,breekbare dingen vervoeren,transporting fragile things,2,5
+CES201705,15461,940,towel,Om breekbare spullen heenwikkelen,breekbare spullen heen wikkelen,wrap fragile items,2,5
+CES201705,13847,866,towel,als broek gebruiken wanneer je klaar bent met douche,broek wanneer klaar bent douche,pants when finished shower,2,4
+CES201705,15288,923,towel,als canvas voor een schilderij,canvas schilderij,canvas painting,3,5
+CES201705,14036,882,towel,cape,cape,cape,2,5
+CES201705,14279,891,towel,cape,cape,cape,2,5
+CES201705,15304,922,towel,als cape gebruien,cape,cape,2,5
+CES201705,15344,934,towel,gebruiken als cape,cape,cape,2,5
+CES201705,15366,927,towel,gebruiken als een cape,cape,cape,2,5
+CES201705,14041,882,towel,cocon (voor babies inwikkelen),cocon,cocoon,2,5
+CES201705,15462,939,towel, currency?,currency,currency,3,2
+CES201705,15911,962,towel,een dak maken,dak,roof,4,3
+CES201705,15410,936,towel,als decoratie ophangen,decoratie ophangen,hang up decorations,4,3
+CES201705,16491,986,towel,dekbed,dekbed,duvet,3,4
+CES201705,13652,864,towel,als deken,deken,blanket,2,4
+CES201705,13658,9999,towel,deken,deken,blanket,2,4
+CES201705,13872,874,towel,als deken gebruiken,deken,blanket,2,4
+CES201705,13905,872,towel,je kan het als deken gebruiken,deken,blanket,2,4
+CES201705,14034,882,towel,deken,deken,blanket,2,4
+CES201705,14105,884,towel,deken,deken,blanket,2,4
+CES201705,14239,888,towel,deken,deken,blanket,2,4
+CES201705,14303,893,towel,deken,deken,blanket,2,4
+CES201705,14328,894,towel,deken,deken,blanket,2,4
+CES201705,14667,909,towel,als deken gebruiken,deken,blanket,2,4
+CES201705,14688,903,towel,gebruiken als deken ,deken,blanket,2,4
+CES201705,14757,895,towel,als deken gebruiken,deken,blanket,2,4
+CES201705,14762,896,towel,deken,deken,blanket,2,4
+CES201705,14774.2,904,towel, als deken,deken,blanket,2,4
+CES201705,14924,915,towel,deken,deken,blanket,2,4
+CES201705,15355,926,towel,Gebruiken als deken,deken,blanket,2,4
+CES201705,15367,927,towel,deken,deken,blanket,2,4
+CES201705,15415,937,towel,als deken gebruiken,deken,blanket,2,4
+CES201705,15499,942,towel,als deken gebruiken,deken,blanket,2,4
+CES201705,15552,944,towel,deken,deken,blanket,2,4
+CES201705,16490,986,towel,deken,deken,blanket,2,4
+CES201705,16547,991,towel,deken ,deken,blanket,2,4
+CES201705,16636,995,towel,deken,deken,blanket,2,4
+CES201705,16694,997,towel,Dekentje als het koud is,dekentje koud,blanket cold,2,4
+CES201705,13583,861,towel,deppen,deppen,dab,2,5
+CES201705,15295,922,towel,deppen,deppen,dab,2,5
+CES201705,15616,948,towel,je kunt het voor een deur leggen zodat er geen wind onderdoor kan,deur leggen zodat wind onderdoor,place door so that wind can pass underneath,3,5
+CES201705,14046,881,towel,gebruiken om een deur open te houden ,deur open houden,keep door open,3,4
+CES201705,13967,877,towel,als deurmat,deurmat,doormat,3,4
+CES201705,16689,997,towel,Dingen beschermen tijdens vervoer die breekbaar zijn,dingen beschermen tijdens vervoer breekbaar,protect things fragile during transportation,2,5
+CES201705,14263,890,towel,twee dingen aan elkaar vastbinden,dingen elkaar vastbinden,tying things together,3,5
+CES201705,16419,984,towel,over dingen heen hangen,dingen heen hangen,things hanging around,2,5
+CES201705,13964,877,towel,dingen schoonmakne,dingen schoonmaken,cleaning things,2,5
+CES201705,13863,869,towel,dingen mee verbergen,dingen verbergen,hide things,2,5
+CES201705,13966,877,towel,dingen vochtig mee maken,dingen vochtig,things damp,2,5
+CES201705,14686,903,towel,doek,doek,cloth,1,5
+CES201705,16071,960,towel,doek,doek,cloth,1,5
+CES201705,16224,970,towel,een doek,doek,cloth,1,5
+CES201705,13475,851,towel,doek voor je handen,doek handen,cloth hands,1,5
+CES201705,14139,886,towel,iets donkernhouden (vogelkooi),donker houden,keep dark,2,5
+CES201705,13468,857,towel,douche,douche,shower,1,5
+CES201705,14693,903,towel,docuhe,douche,shower,1,5
+CES201705,14694,903,towel,douche*,douche,shower,1,5
+CES201705,14769,901,towel,douche,douche,shower,1,5
+CES201705,15082,918,towel,douche,douche,shower,1,5
+CES201705,15223,920,towel,douche,douche,shower,1,5
+CES201705,15680,949,towel,douche,douche,shower,1,5
+CES201705,15783,950,towel,douche,douche,shower,1,5
+CES201705,15927,956,towel,douche,douche,shower,1,5
+CES201705,16062,960,towel,Douche,douche,shower,1,5
+CES201705,16203,967,towel,Douche,douche,shower,1,5
+CES201705,16513,9999,towel,douche,douche,shower,1,5
+CES201705,13402,849,towel,douchen,douchen,shower,1,5
+CES201705,13474,851,towel,douchen',douchen,shower,1,5
+CES201705,13855,867,towel,douchen,douchen,shower,1,5
+CES201705,14628,906,towel,douchen,douchen,shower,1,5
+CES201705,15208,919,towel,douchen,douchen,shower,1,5
+CES201705,15280,924,towel,douchen,douchen,shower,1,5
+CES201705,15567,945,towel,Douchen,douchen,shower,1,5
+CES201705,16183,966,towel,douchen,douchen,shower,1,5
+CES201705,16229,970,towel,douchen,douchen,shower,1,5
+CES201705,16369,983,towel,douchen ,douchen,shower,1,5
+CES201705,16054,952,towel,dragen,dragen,wear,2,5
+CES201705,13493,856,towel,drogen,drogen,dry,1,5
+CES201705,13524,855,towel,drogen,drogen,dry,1,5
+CES201705,13657,9999,towel,drogen,drogen,dry,1,5
+CES201705,14632,906,towel,drogen,drogen,dry,1,5
+CES201705,14661,909,towel,drogen,drogen,dry,1,5
+CES201705,14698,897,towel,andere drogen,drogen,dry,1,5
+CES201705,14891,916,towel,drogen,drogen,dry,1,5
+CES201705,15085,918,towel,drogen,drogen,dry,1,5
+CES201705,15549,944,towel,drogen,drogen,dry,1,5
+CES201705,16000,958,towel,Drogen,drogen,dry,1,5
+CES201705,16013,957,towel,drogen,drogen,dry,1,5
+CES201705,16046,952,towel,drogen,drogen,dry,1,5
+CES201705,16064,960,towel,drogen,drogen,dry,1,5
+CES201705,16134,969,towel,drogen ,drogen,dry,1,5
+CES201705,16187,966,towel,drogen,drogen,dry,1,5
+CES201705,16221,971,towel,Deogen ,drogen,dry,1,5
+CES201705,16334,972,towel,drogen,drogen,dry,1,5
+CES201705,15467,939,towel,IPV iemand drogen met een handdoek iemand nat maken met een natte handdoek,drogen handdoek nat natte handdoek,drying towel wet wet towel,2,5
+CES201705,13459,857,towel,droog,droog,dry,0,0
+CES201705,13491,852,towel,droog maken,droog,dry,0,0
+CES201705,13545,858,towel,droog maken,droog,dry,0,0
+CES201705,14716,905,towel,iets droog maken,droog,dry,0,0
+CES201705,15322,932,towel,droog,droog,dry,0,0
+CES201705,15349,926,towel,Droog maken,droog,dry,0,0
+CES201705,16107,964,towel,iets droog maken,droog,dry,0,0
+CES201705,14668,902,towel,droog jezelf af,droog jezelf af,dry yourself,1,5
+CES201705,16164,968,towel,droogmaken,droogmaken,dry,1,5
+CES201705,15214,919,towel,duur,duur,duration,0,0
+CES201705,16633,993,towel,als dwijl,dweil,mop,2,5
+CES201705,14136,886,towel,dweilen,dweilen,mop,2,5
+CES201705,15357,928,towel,dweilen,dweilen,mop,2,5
+CES201705,16518,9999,towel,ehhhhhhhhhhhhmmmmmmmmmmmmmmmmmm........................................,ehhhhhhhhhhhhmmmmmmmmmmmmmmmmmm,ehhhhhhhhhhhhmmmmmmmmmmmmmmmmmm,0,0
+CES201705,16692,997,towel,Aan elkaar binden tot een bal en als bal voor overgooier gebruiken,elkaar binden bal bal overgooier,tie together ball ball pinafore,3,3
+CES201705,14237,888,towel,iets bij elkaar binden om makkelijker mee te nemen,elkaar binden makkelijker nemen,making bonding together easier,2,4
+CES201705,16422,984,towel,aan elkaar knopen,elkaar knopen,knot together,2,4
+CES201705,13521,850,towel,ergens ophangen,ergens ophangen,hang it somewhere,2,4
+CES201705,13904,872,towel,je kan eronder schuilen,eronder schuilen,hide underneath,2,4
+CES201705,13516,850,towel,erop liggen,erop liggen,lie on it,2,5
+CES201705,13903,872,towel,je kan erop liggen,erop liggen,lie on it,2,5
+CES201705,15332,930,towel,erop liggen,erop liggen,lie on it,2,5
+CES201705,15345,934,towel,erop liggen op het strand,erop liggen strand,lie on the beach,2,5
+CES201705,15789,950,towel,eten,eten,eat,4,1
+CES201705,16548,991,towel,etens waren in bewaren,etenswaren bewaren,store food,3,4
+CES201705,14947,917,towel,etui,etui,pencil case,3,2
+CES201705,16521,9999,towel,excuus,excuus,excuse,0,0
+CES201705,16561,992,towel,Exercise tool,exercise tool,exercise tool,4,4
+CES201705,16196,966,towel,familie,familie,family,0,0
+CES201705,16559,992,towel,Fashion,fashion,fashion,3,3
+CES201705,14733,911,towel,andere figuren er van maken,figuren,figures,3,3
+CES201705,16463,980,towel,figuren maken,figuren,figures,3,3
+CES201705,13549,858,towel,figuren opplakken',figuren opplakken,sticking on figures,3,3
+CES201705,15327,925,towel,figuren zoals zwaan ,figuren zoals zwaan,figures such as swan,3,3
+CES201705,15362,935,towel,een figuur er uit snijden,figuur snijden,figure cutting,3,3
+CES201705,16627,993,towel,flag,flag,flag,3,4
+CES201705,14092,883,towel,als je 2 flessen drank meeneemt in een tas kan een handdoek ervoor zorgen dat het niet ketst,flessen drank meeneemt tas handdoek ervoor zorgen niet ketst,"Bring bottles of drinks, bag towel and make sure they don't bounce",2,5
+CES201705,16467,980,towel,fonen,föhnen,blow-dry,2,5
+CES201705,14255,887,towel,als je er ee ngat in het midden maakt kan je het dragen als poncho,gat midden maakt dragen poncho,hole in middle make wear poncho,3,4
+CES201705,14670,902,towel,gebruik een oude om iets dat vies is schoon te maken,gebruik oude vies schoon,use old dirty clean,2,5
+CES201705,15233,920,towel,grele,gele,yellow,0,0
+CES201705,16236.2,970,towel, omdat het heeft geregend,geregend,Rained,0,0
+CES201705,15238,920,towel,gestreken,gestreken,ironed,0,0
+CES201705,13846,866,towel,gebruiken om geuren tegen te houden d.m.v. nat maken,geuren tegen houden nat,keep odors from getting wet,4,3
+CES201705,16148,963,towel,ik wil gewoon me geld ,gewoon geld,just money,0,0
+CES201705,13586,861,towel,gooien,gooien,throw,2,3
+CES201705,14691,903,towel,er mee gooien ,gooien,throw,2,3
+CES201705,14736,911,towel,mee gooien,gooien,throw,2,3
+CES201705,16021,9999,towel,gooien,gooien,throw,2,3
+CES201705,16447,980,towel,gooien,gooien,throw,2,3
+CES201705,16457,980,towel,gooien,gooien,throw,2,3
+CES201705,14305,893,towel,gordijn,gordijn,curtain,3,5
+CES201705,14765,896,towel,gordijn,gordijn,curtain,3,5
+CES201705,14905,914,towel,gordijn,gordijn,curtain,3,5
+CES201705,15557,944,towel,gordijn,gordijn,curtain,3,5
+CES201705,16639,995,towel,gordijn ,gordijn,curtain,3,5
+CES201705,15372,933,towel,Als gordijn ophangen,gordijn ophangen,hang up curtain,3,5
+CES201705,14923,915,towel,gordijnen,gordijnen,curtains,3,5
+CES201705,16394,981,towel,gordijnen ,gordijnen,curtains,3,5
+CES201705,16493,986,towel,gordijnen,gordijnen,curtains,3,5
+CES201705,15232,920,towel,groene,groene,green,0,0
+CES201705,14709,898,towel,op de grond ,grond,ground,0,0
+CES201705,16475,985,towel,de grond er mee drogen,grond drogen,dry soil,1,5
+CES201705,15987,959,towel,gebruiken als grond mat ,grond mat,ground mat,2,4
+CES201705,13400,849,towel,groot,groot,big,0,0
+CES201705,15087,918,towel,groot,groot,big,0,0
+CES201705,15227,920,towel,grote,grote,great,0,0
+CES201705,16230,970,towel,gym,gym,gym,0,0
+CES201705,13465,857,towel,haar',haar,hair,0,0
+CES201705,13466,857,towel,haar,haar,hair,0,0
+CES201705,14644,906,towel,haar,haar,hair,0,0
+CES201705,16069,960,towel,haar,haar,hair,0,0
+CES201705,13865,874,towel,haar drogen,haar drogen,dry hair,1,5
+CES201705,15363,927,towel,haar mee drogen,haar drogen,dry hair,1,5
+CES201705,16445,980,towel,haar drogen,haar drogen,dry hair,1,5
+CES201705,16473,985,towel,je haar er mee drogen,haar drogen,dry hair,1,5
+CES201705,16205,967,towel,Haar inwikkelen,haar inwikkelen,wrap hair up,2,5
+CES201705,16462,980,towel,haar mee krullen,haar krullen,curling hair,3,5
+CES201705,13659,9999,towel,haartulband,haar tulband,hair turban,3,5
+CES201705,16691,997,towel,Haar in wikkelen,haar wikkelen,wrap hair up,2,5
+CES201705,16234,970,towel,hand,hand,hand,0,0
+CES201705,14738,911,towel,handdoek in de ring mee spelen,handdoek ring spelen,towel ring play,3,4
+CES201705,15293,923,towel,handdoek vloer in de badkamer,handdoek vloer badkamer,towel floor bathroom,1,5
+CES201705,13917,876,towel,handdoeken actie ( etos ),handdoeken actie,towel promotion,3,5
+CES201705,15333,930,towel,handdoeken aan elkaar vast binden,handdoeken elkaar vast binden,tie towels together,2,5
+CES201705,16696,998,towel,handdoeken vouwen om een olifant te maken,handdoeken vouwen olifant,towel folding elephant,3,4
+CES201705,14643,906,towel,handen,handen,hands,0,0
+CES201705,16008,951,towel,je handen afdrogen ,handen afdrogen,dry hands,1,5
+CES201705,14711,898,towel,handen drogen ,handen drogen,dry hands,1,5
+CES201705,14756,895,towel,handen drogen,handen drogen,dry hands,1,5
+CES201705,14778,907,towel,handen drogen,handen drogen,dry hands,1,5
+CES201705,14724,910,towel,je handen droogmaken,handen droogmaken,dry hands,1,5
+CES201705,13993,880,towel,handen schoonmaken,handen schoonmaken,cleaning hands,1,5
+CES201705,15687,949,towel,handen wassen,handen wassen,wash hands,1,5
+CES201705,16514,9999,towel,handen wassen,handen wassen,wash hands,1,5
+CES201705,16072,960,towel,handig,handig,useful,0,0
+CES201705,13526,855,towel,hangen,hangen,hang,2,5
+CES201705,16066,960,towel,hangen,hangen,hang,2,5
+CES201705,14322,894,towel,hangmat,hangmat,hammock,3,4
+CES201705,16630,993,towel,hangmat ,hangmat,hammock,3,4
+CES201705,15329,925,towel,hangmat ervan maken,hangmat ervan,hammock of it,3,4
+CES201705,16197,966,towel,haren,haren,hair,0,0
+CES201705,13849,870,towel,haren drogen,haren drogen,hair drying,1,5
+CES201705,13478,851,towel,je haren droog je met een handdoek,haren droog handdoek,hair dry towel,1,5
+CES201705,14290,892,towel,Heel veel washanden.,heel washanden,very washcloths,2,5
+CES201705,14739,911,towel,over heen lopen,heen lopen,walk over,2,3
+CES201705,14289,892,towel,Herkennen van andere hitchhikers.,herkennen hitchhikers,recognize hitchhikers,4,4
+CES201705,14090,883,towel,als hoed dragen ,hoed dragen,wear hat,4,3
+CES201705,15785,950,towel,hond,hond,dog,0,0
+CES201705,15306,931,towel,Hond mee schoonmaken,hond schoonmaken,dog cleaning,2,5
+CES201705,16686,997,towel,Een hondje of zwaan van vouwen,hondje zwaan vouwen,folding dog swan,3,4
+CES201705,16097,9999,towel,op je hoofd leggen,hoofd leggen,lay head,2,5
+CES201705,16417,984,towel,op je hoofd zetten om je haar te drogen,hoofd zetten haar drogen,head put hair to dry,2,5
+CES201705,14285,892,towel,Hoofddeksel.,hoofddeksel,headgear,3,5
+CES201705,15365,927,towel,hoofddeksel ,hoofddeksel,headgear,3,5
+CES201705,16439,982,towel,gebruiken als hoofddeksel,hoofddeksel,headgear,3,5
+CES201705,14241,888,towel,hoofddoek,hoofddoek,headscarf,3,5
+CES201705,14267,890,towel,gebruiken als hoofddoek,hoofddoek,headscarf,3,5
+CES201705,14327,894,towel,hoofddoek,hoofddoek,headscarf,3,5
+CES201705,14750,899,towel,als hoofddoek gebruikem,hoofddoek,headscarf,3,5
+CES201705,14900,914,towel,hoofddoek,hoofddoek,headscarf,3,5
+CES201705,15354,926,towel,Gebruiken als hoofddoek,hoofddoek,headscarf,3,5
+CES201705,15559,944,towel,hoofddoek,hoofddoek,headscarf,3,5
+CES201705,16395,981,towel,voor als hoofddoekkkk,hoofddoek,headscarf,3,5
+CES201705,16461,980,towel,hoofddoek gebruiken,hoofddoek,headscarf,3,5
+CES201705,16494,986,towel,hoofddoek,hoofddoek,headscarf,3,5
+CES201705,15094,918,towel,hotel,hotel,hotel,0,0
+CES201705,16199,966,towel,huid,huid,skin,0,0
+CES201705,16079,960,towel,huis,huis,house,0,0
+CES201705,16188,966,towel,huis,huis,house,0,0
+CES201705,16198,966,towel,huis,huis,house,0,0
+CES201705,14283.1,891,towel,als huis brand,huis brand,house fire,2,3
+CES201705,14254,887,towel,je kan je er als huisdier of kind onder verstoppen,huisdier kind onder verstoppen,pet child hiding under,3,3
+CES201705,15989,959,towel,gebruiken om hut te bouwen ,hut bouwen,build hut,4,4
+CES201705,14253,887,towel,je kan het gebruiken als je een hut bouwt als dak maar dan moet het niet regenen,hut bouwt dak niet regenen,hut builds roof does not rain,4,4
+CES201705,14106,884,towel,hutje bouwen,hutje bouwen,build hut,4,4
+CES201705,15570,945,towel,Hygiene,hygiëne,hygiene,0,0
+CES201705,16655,996,towel,icepack,ice pack,ice pack,4,3
+CES201705,15312,929,towel,inloop mat,inloop mat,entry mat,2,4
+CES201705,15405,936,towel,iets inwikkelen ,inwikkelen,wrap,2,5
+CES201705,15084,918,towel,jacuzzi,jacuzzi,jacuzzi,0,0
+CES201705,14250,887,towel,om jezelf af te drogen,jezelf af drogen,dry yourself off,1,5
+CES201705,13848,870,towel,jezelf afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201705,13883,873,towel,jezelf me afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201705,15343,934,towel,jezelf afdroken,jezelf afdrogen,dry yourself,1,5
+CES201705,16106,964,towel,jezelf afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201705,16416,984,towel,jezelf afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201705,16617,994,towel,jezelf afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201705,16004,951,towel,jezelf afdrogen na het douche ,jezelf afdrogen douche,dry yourself off in the shower,1,5
+CES201705,14697,897,towel,jezelf drogen,jezelf drogen,dry yourself,1,5
+CES201705,14746,899,towel,jezelf drogen,jezelf drogen,dry yourself,1,5
+CES201705,13517,850,towel,iets of jezelf droogmaken,jezelf droogmaken,dry yourself,1,5
+CES201705,15276,924,towel,jezelf droogmaken,jezelf droogmaken,dry yourself,1,5
+CES201705,13875,874,towel,jezelf tegen de zon beschermen,jezelf tegen zon beschermen,protect yourself from sun,2,5
+CES201705,14701,897,towel,jezelf warm houden,jezelf warm houden,keep yourself warm,2,5
+CES201705,13515,850,towel,jezelf mee wassen,jezelf wassen,wash yourself,1,5
+CES201705,16620,994,towel,jezelf er in wikkelen en dan van een berg afrollen,jezelf wikkelen berg afrollen,wind yourself down mountain,5,3
+CES201705,13662,9999,towel,jurk,jurk,dress,3,4
+CES201705,14324,894,towel,jurk,jurk,dress,3,4
+CES201705,14899,914,towel,jurk,jurk,dress,3,4
+CES201705,16488,986,towel,jurk,jurk,dress,3,4
+CES201705,14921,915,towel,jurkje,jurkje,dress,3,4
+CES201705,16690,997,towel,Als jurkje gebruiken,jurkje,dress,3,4
+CES201705,16624,994,towel,over een kaars neerleggen zodat je vuur krijgt,kaars neerleggen zodat vuur krijgt,put down candle so that it catches fire,3,3
+CES201705,16516,9999,towel,kamere,kamer,room,0,0
+CES201705,16517,9999,towel,kamer bedoel ik,kamer bedoel,room mean,0,0
+CES201705,15930,956,towel,kapper,kapper,Barber,0,0
+CES201705,16189,966,towel,kapper,kapper,Barber,0,0
+CES201705,13469,857,towel,kast,kast,closet,0,0
+CES201705,15560,944,towel,kast rechtzetter,kast rechtzetten,straighten cupboard,3,4
+CES201705,13399,849,towel,katoen,katoen,cotton,0,0
+CES201705,14635,906,towel,katoen,katoen,cotton,0,0
+CES201705,16076,960,towel,katoem,katoen,cotton,0,0
+CES201705,16077,960,towel,katoen,katoen,cotton,0,0
+CES201705,16190,966,towel,katoen,katoen,cotton,0,0
+CES201705,14047,881,towel,katoen gebruiken  om een ander voorwerp van te maken,katoen ander voorwerp,cotton other object,2,3
+CES201705,14282,891,towel,keer voor je voeten gebruiken,keer voeten,turn feet,2,5
+CES201705,15786,950,towel,keuken,keuken,kitchen,0,0
+CES201705,16223,971,towel,op een kind leggen als een deken,kind leggen deken,child laying blanket,2,4
+CES201705,13874,874,towel,je kind mee tegen de zon beschermen,kind tegen zon beschermen,protect child from sun,2,5
+CES201705,13655,865,towel,kleding maken,kleding,clothing,3,4
+CES201705,14107,884,towel,kleding maken,kleding,clothing,3,4
+CES201705,15292,923,towel,als kleding,kleding,clothing,3,4
+CES201705,15370,933,towel,Gebruiken als kleding,kleding,clothing,3,4
+CES201705,13968,877,towel,kledingstuk,kledingstuk,garment,3,4
+CES201705,13973,878,towel,om doen als kledingstuk,kledingstuk,garment,3,4
+CES201705,13995,880,towel,als kledingstuk gebruiken,kledingstuk,garment,3,4
+CES201705,14033,882,towel,kledingstuk,kledingstuk,garment,3,4
+CES201705,15408,936,towel,kledingstuk,kledingstuk,garment,3,4
+CES201705,15558,944,towel,kledingstuk,kledingstuk,garment,3,4
+CES201705,16638,995,towel,kledingstuk,kledingstuk,garment,3,4
+CES201705,14108,884,towel,als kledingstuk dragen als je het koud hebt,kledingstuk dragen koud hebt,wearing garment is cold,3,4
+CES201705,13498,854,towel,kledinngstukken mee maken,kledingstukken,garments,3,4
+CES201705,14717,905,towel,als kleed gebruiken,kleed,dress,2,5
+CES201705,14922,915,towel,kleed,kleed,dress,2,5
+CES201705,16637,995,towel,kleed,kleed,dress,2,5
+CES201705,14234,888,towel,kleed om in het park op te zitten,kleed park zitten,rug park sitting,2,5
+CES201705,15364,927,towel,gebruiken als kleedje ,kleedje,rug,2,5
+CES201705,16335,972,towel,als een kleedje gebruiken,kleedje,rug,2,5
+CES201705,15088,918,towel,klein,klein,small,0,0
+CES201705,15228,920,towel,kleine,kleine,little,0,0
+CES201705,15964,954,towel,kleren maken,kleren,clothes,3,4
+CES201705,14275,889,towel,kleren maken van de stof,kleren stof,clothes fabric,3,4
+CES201705,15091,918,towel,kleuren,kleuren,colour,3,3
+CES201705,16067,960,towel,kleuren,kleuren,colour,3,3
+CES201705,14042,882,towel,knapzka,knapzak,knapsack,3,5
+CES201705,14287,892,towel,Knapzak.,knapzak,knapsack,3,5
+CES201705,13547,858,towel,knippen,knippen,cut,2,3
+CES201705,13997,880,towel,knippen,knippen,cut,2,3
+CES201705,16464,980,towel,knippen,knippen,cut,2,3
+CES201705,15411,937,towel,knippen tot nieuwe vorm ,knippen nieuwe vorm,cut new shape,2,3
+CES201705,16466,980,towel,knoop in makn,knoop,button,2,3
+CES201705,16092,9999,towel,knopen,knopen,buttons,2,4
+CES201705,14945,917,towel,knuffel maken,knuffel,Hug,4,4
+CES201705,14732,911,towel,een knuffelbeer van maken,knuffelbeer,cuddly bear,4,4
+CES201705,14763,896,towel,knuffelbeer er van maken,knuffelbeer,cuddly bear,4,4
+CES201705,14754,895,towel,om een knuffelbeertje te maken,knuffelbeertje,teddy bear,4,4
+CES201705,16453,980,towel,knutselen,knutselen,craft,3,3
+CES201705,13479,851,towel,koken,koken,cook,4,2
+CES201705,15595,946,towel,konijn knuffel maken,konijn knuffel,rabbit hug,4,3
+CES201705,15469,941,towel,iemand die koorts heeft gebruiken om nat te maken en dan op zijn hoofd zetten,koorts nat hoofd zetten,fever wet head,3,5
+CES201705,13580,861,towel,kopen,kopen,buy,2,4
+CES201705,16194,966,towel,kopen,kopen,buy,2,4
+CES201705,14740,911,towel,kunst,kunst,art,3,3
+CES201705,15608,947,towel,gebruiken voor kunst,kunst,art,3,3
+CES201705,16411,974,towel,kunst maken,kunst,art,3,3
+CES201705,13661,9999,towel,kunstwerk,kunstwerk,artwork,3,3
+CES201705,13651,864,towel,als kussen,kussen,pillow,2,4
+CES201705,13871,874,towel,als kussen gebruiken,kussen,pillow,2,4
+CES201705,14038,882,towel,kussen,kussen,pillow,2,4
+CES201705,14304,893,towel,kussen,kussen,pillow,2,4
+CES201705,14761,896,towel,kussen,kussen,pillow,2,4
+CES201705,15328,925,towel,kussen ,kussen,pillow,2,4
+CES201705,15497,943,towel,als kussen,kussen,pillow,2,4
+CES201705,15551,944,towel,kussen,kussen,pillow,2,4
+CES201705,16179,965,towel,als kussen gebruiken,kussen,pillow,2,4
+CES201705,16331,978,towel,een kusen vanmaken,kussen,pillow,2,4
+CES201705,16640,995,towel,kussen,kussen,pillow,2,4
+CES201705,15326,925,towel,lamp,lamp,lamp,3,1
+CES201705,15338,930,towel,laten drogen in de zon,laten drogen zon,let sun dry,2,5
+CES201705,13919,876,towel,laten liggen in de kast,laten liggen kast,leave cupboard,2,5
+CES201705,13525,855,towel,leggen,leggen,lay,2,5
+CES201705,13582,861,towel,leggen,leggen,lay,2,5
+CES201705,13471,857,towel,lekker,lekker,Tasty,0,0
+CES201705,15926,956,towel,lekker weer,lekker weer,nice weather,0,0
+CES201705,16226,970,towel,lekker zacht..,lekker zacht,nice and soft,0,0
+CES201705,15237,920,towel,lelijke,lelijke,ugly,0,0
+CES201705,14633,906,towel,lichaam,lichaam,body,0,0
+CES201705,16070,960,towel,lichaam,lichaam,body,0,0
+CES201705,14760,896,towel,lichaam af drogen,lichaam af drogen,dry body,1,5
+CES201705,13864,874,towel,lichaam drogen,lichaam drogen,dry body,1,5
+CES201705,14712,898,towel,lichaam drogen ,lichaam drogen,dry body,1,5
+CES201705,16472,985,towel,je lichaam er me drogen,lichaam drogen,dry body,1,5
+CES201705,13890,873,towel,om je lichaam doen bij het zwembad/strans,lichaam zwembad strand,body pool beach,1,5
+CES201705,13467,857,towel,liggen,liggen,lie,1,5
+CES201705,13492,852,towel,op liggen,liggen,lie,1,5
+CES201705,13494,856,towel,er op liggen,liggen,lie,1,5
+CES201705,13842,871,towel,gebruiken om op te liggen ,liggen,lie,1,5
+CES201705,13869,874,towel,op liggen,liggen,lie,1,5
+CES201705,13962,877,towel,op liggen,liggen,lie,1,5
+CES201705,14238,888,towel,op liggen,liggen,lie,1,5
+CES201705,14274,889,towel,er op liggen,liggen,lie,1,5
+CES201705,14680,900,towel,op liggen,liggen,lie,1,5
+CES201705,14690,903,towel,er op liggen ,liggen,lie,1,5
+CES201705,14700.1,897,towel,gebruiken om op te liggen,liggen,lie,1,5
+CES201705,14705,898,towel,er op liggen ,liggen,lie,1,5
+CES201705,14729,911,towel,op liggen,liggen,lie,1,5
+CES201705,14767,901,towel,op liggen,liggen,lie,1,5
+CES201705,15296,922,towel,om op te liggen,liggen,lie,1,5
+CES201705,15356,926,towel,Gebruiken om op te liggen,liggen,lie,1,5
+CES201705,16012,955,towel,liggen,liggen,lie,1,5
+CES201705,16139,969,towel,liggen,liggen,lie,1,5
+CES201705,16436,982,towel,op liggen ,liggen,lie,1,5
+CES201705,16450,980,towel,liggen,liggen,lie,1,5
+CES201705,16546,991,towel,liggen,liggen,lie,1,5
+CES201705,16626,993,towel,op liggen,liggen,lie,1,5
+CES201705,16207,967,towel,Liggen met een handdoek op het strand,liggen handdoek strand,lie towel beach,1,5
+CES201705,16209,967,towel,Liggen met een handdoek in het zwembad op een bedje,liggen handdoek zwembad bedje,lying towel pool bed,1,5
+CES201705,13920,876,towel,op liggen aan het strand,liggen strand,lie on beach,1,5
+CES201705,15309,931,towel,Op liggen op het strand,liggen strand,lie on beach,1,5
+CES201705,15409,936,towel,op liggen op het strand,liggen strand,lie on beach,1,5
+CES201705,16622,994,towel,er op liggen aan het strand,liggen strand,lie on beach,1,5
+CES201705,14725,910,towel,op liggen om te zonnen,liggen zonnen,lie sunbathing,1,5
+CES201705,15361,935,towel,op liggen om te zonnen,liggen zonnen,lie sunbathing,1,5
+CES201705,14710,898,towel,op luchtbed ,luchtbed,air mattress,2,5
+CES201705,15609,947,towel,luxe of antieke spullen erop zetten,luxe antieke spullen erop zetten,put luxurious antique items on it,2,5
+CES201705,14669,902,towel,maak de vloer droog,maak vloer droog,dry floor,2,5
+CES201705,14281,891,towel,andere mannen in de kleedkamer smacken op de billen,mannen kleedkamer smacken billen,men's locker room smacking buttocks,2,4
+CES201705,14702,897,towel,gebruiken bij een massage,massage,massage,3,5
+CES201705,14764,896,towel,mat,mat,mat,2,5
+CES201705,15607,947,towel,een mat van maken ,mat,mat,2,5
+CES201705,15963,954,towel,een matje msken,matje,mat,2,5
+CES201705,16150,963,towel,gebruiken als matje voor als je uit de douche komt,matje douche komt,shower mat comes,2,5
+CES201705,16360,975,towel,max koppel bij aantal toeren 3500,max koppel aantal toeren,max torque number of revolutions,0,0
+CES201705,16056,952,towel,meenemen,meenemen,take,1,5
+CES201705,13870,874,towel,meenemen naar strand,meenemen strand,take with you to beach,1,5
+CES201705,15339,930,towel,meenemen op vakantie,meenemen vakantie,take with you on holiday,1,5
+CES201705,15308,931,towel,Meenemen naar het zwembad,meenemen zwembad,bring swimming pool,1,5
+CES201705,15434,938,towel,Meerdere handdoeken met verschillende prints aan elkaar naaien tot een groot picknick kleed,meerdere handdoeken verschillende prints elkaar naaien groot picknick kleed,several towels different prints sew together large picnic rug,3,5
+CES201705,15290,923,towel,meerdere op een speciale manier vouwen en aan elkaar lijmen,meerdere speciale manier vouwen elkaar lijmen,multiple special way folding together gluing,3,4
+CES201705,16095,9999,towel,door midden knippen,midden knippen,cut in middle,2,4
+CES201705,16096,9999,towel,door midden scheuren,midden scheuren,middle cracks,2,4
+CES201705,16654,996,towel,minimaal bedekkende kleding,minimaal bedekkende kleding,minimally covering clothing,3,4
+CES201705,14266,890,towel,gebruiken als een mitella,mitella,sling,3,5
+CES201705,15236,920,towel,mooie,mooie,nice,0,0
+CES201705,13889,873,towel,mooie decoratie van maken in de hotel kamer,mooie decoratie hotel kamer,beautiful decoration hotel room,0,0
+CES201705,15790,950,towel,mula b,Mula B,Mula B,0,0
+CES201705,14278,891,towel,muts,muts,cap,3,3
+CES201705,15313,929,towel,muts,muts,cap,3,3
+CES201705,13548,858,towel,naaien,naaien,sew,3,4
+CES201705,13458,857,towel,nat,nat,wet,0,0
+CES201705,13544,858,towel,nat maken,nat,wet,1,5
+CES201705,13918.1,876,towel,nat maken,nat,wet,1,5
+CES201705,15213,919,towel,nat,nat,wet,0,0
+CES201705,15323,932,towel,nat,nat,wet,0,0
+CES201705,15684,949,towel,nat,nat,wet,0,0
+CES201705,16065,960,towel,nat,nat,wet,0,0
+CES201705,16392,977,towel,nat,nat,wet,0,0
+CES201705,14283.2,891,towel, nat maken en je daarmee inpakken zodat je door vuur heen kan springen,nat daarmee inpakken zodat vuur heen springen,Wrap it wetly so that fire can escape,3,5
+CES201705,16163,968,towel,natmaken,natmaken,make wet,1,5
+CES201705,14699,897,towel,natte vloer stoppen met verspreiden,natte vloer stoppen verspreiden,stop wet floor from spreading,2,5
+CES201705,14687,903,towel,natigheid,nattigheid,wetness,1,5
+CES201705,14695,903,towel,neerleggen ,neerleggen,put down,1,5
+CES201705,16169,968,towel,neerleggen,neerleggen,put down,1,5
+CES201705,16460,980,towel,neerleggen,neerleggen,put down,1,5
+CES201705,13542,858,towel,neerzetten,neerzetten,put down,1,5
+CES201705,14325,894,towel,nekkussentje,nek kussentje,neck pillow,2,4
+CES201705,15464,939,towel,Nieuwe manier van doodstraf door heeeel veel handdoeken te laten vallen op een persoon,nieuwe manier doodstraf heel handdoeken laten vallen persoon,new way death penalty very towel dropping person,5,3
+CES201705,14752,899,towel,er niks mee doen,niks,nothing,2,3
+CES201705,16147,963,towel,er is niks creatiefs met een handdoek ,niks creatiefs handdoek,nothing creative towel,0,0
+CES201705,16358,975,towel,300 nm,nm,nm,0,0
+CES201705,15297,922,towel,omdoen,omdoen,put on,2,5
+CES201705,15301,922,towel,omdoen ,omdoen,put on,2,5
+CES201705,13660,9999,towel,omslagdoek,omslagdoek,shawl,2,5
+CES201705,14252,887,towel,je kan het omvouwen naar een kledingstuk,omvouwen kledingstuk,fold over garment,3,4
+CES201705,16560,992,towel,Omwikkelen aan een klimrek en hangen als exercise,omwikkelen klimrek hangen exercise,wrapping climbing frame hanging exercise,3,5
+CES201705,15300,922,towel,onder verbergen,onder verbergen,hide under,2,4
+CES201705,16420,984,towel,onder je voeten leggen als kleedje,onder voeten leggen kleedje,put cloth under your feet,2,5
+CES201705,14817,912,towel,ondergoed/luier,ondergoed luier,underwear diaper,3,4
+CES201705,15550,944,towel,onderzetter,onderzetter,coaster,2,4
+CES201705,16051,952,towel,opbergen,opbergen,store,2,5
+CES201705,13908,872,towel,je kan het ophangen ,ophangen,hang,2,5
+CES201705,14665,909,towel,ophangen,ophangen,hang,2,5
+CES201705,14696,903,towel,ophangen,ophangen,hang,2,5
+CES201705,16003,958,towel,ophangen,ophangen,hang,2,5
+CES201705,16011,955,towel,ophangen ,ophangen,hang,2,5
+CES201705,16014,957,towel,ophangen,ophangen,hang,2,5
+CES201705,16049,952,towel,ophangen,ophangen,hang,2,5
+CES201705,16093,9999,towel,ophangen,ophangen,hang,2,5
+CES201705,16165,968,towel,iets ophangen,ophangen,hang,2,5
+CES201705,14722,908,towel,ophangen en het kouder maken van een grote ruimte,ophangen kouder grote ruimte,hang up colder large space,2,5
+CES201705,14094,883,towel,ophangen tegen de zon,ophangen tegen zon,hang against sun,2,5
+CES201705,16435,982,towel,ophangen tegen de zon,ophangen tegen zon,hang against sun,2,5
+CES201705,13543,858,towel,oppakken,oppakken,pick up,2,5
+CES201705,13888,873,towel,oprollen,oprollen,roll up,1,5
+CES201705,13852,870,towel,opvouwen,opvouwen,fold,1,5
+CES201705,13887,873,towel,je kan hem opvouwen,opvouwen,fold,1,5
+CES201705,13916,876,towel,opvouewen,opvouwen,fold,1,5
+CES201705,16050,952,towel,opvouwen,opvouwen,fold,1,5
+CES201705,16094,9999,towel,opvouwen,opvouwen,fold,1,5
+CES201705,16451,980,towel,opvouwen,opvouwen,fold,1,5
+CES201705,13861,869,towel,opvouwen als een zaantje,opvouwen zwaantje,folding swan,3,4
+CES201705,13862,869,towel,je kan er een paar aan elkaar vast maken en een slinger van handdoeken gebruiken om te ontsnappen,paar elkaar vast slinger handdoeken ontsnappen,couple stuck together garland towels escape,4,5
+CES201705,13598,862,towel,pakpapier,pakpapier,wrapping paper,4,4
+CES201705,14251,887,towel,als pannenlap,pannenlap,pot holder,4,4
+CES201705,14749,899,towel,gebruiken als parachute,parachute,parachute,5,2
+CES201705,14815,912,towel,parachute,parachute,parachute,5,2
+CES201705,13653,864,towel,parasol,parasol,Beach umbrella,3,4
+CES201705,14903,914,towel,parasol,parasol,Beach umbrella,3,4
+CES201705,14920,915,towel,parasol,parasol,Beach umbrella,3,4
+CES201705,16631,993,towel,parasol ,parasol,Beach umbrella,3,4
+CES201705,13876,874,towel,als picknick doek gebruiken,picknick doek,picnic cloth,2,5
+CES201705,15554,944,towel,picknickkleed,picknickkleed,picnic blanket,2,5
+CES201705,16621,994,towel,gebruiken als piknickkleed ,picknickkleed,picnic blanket,2,5
+CES201705,16652,996,towel,piraten verkleed doek,piraten verkleed doek,pirate costume cloth,3,3
+CES201705,16357,975,towel,231 pk,pk,pk,0,0
+CES201705,14772,904,towel,poetsen,poetsen,polish,2,5
+CES201705,14288,892,towel,Poncho,poncho,poncho,3,4
+CES201705,13454,853,towel,als ponjo gebruiken als je het koud heb,poncho koud,poncho cold,3,4
+CES201705,16330,978,towel,een poppetje of beertje voor kinderen maken,poppetje beertje kinderen,doll bear children,4,3
+CES201705,16098,9999,towel,uit het raam gooien,raam gooien,throw window,2,2
+CES201705,15283,924,towel,ramen,ramen,Windows,0,0
+CES201705,15289,923,towel,ramen mee af te dekken,ramen af dekken,cover windows,2,5
+CES201705,13974,878,towel,ramen verduisteren,ramen verduisteren,darken windows,2,5
+CES201705,14326,894,towel,redmiddel voor als er iemand overboord van een schip valt,redmiddel overboord schip valt,rescue device falls overboard ship,5,3
+CES201705,16235,970,towel,regen,regen,rain,2,1
+CES201705,15465,939,towel,"Relaties redden door mensen aan elkaar vast the ""handdoeken""",relaties redden mensen elkaar vast handdoeken,relationships save people each other tight towels,5,2
+CES201705,15435,938,towel,in repen scheuren/knippen en op een bepaalde manier tot badmat weven,repen scheuren knippen bepaalde manier badmat weven,strips tear cut certain way bath mat weaving,3,4
+CES201705,13665,9999,towel,reservering voor een plekje op het strand,reservering plekje strand,reservation for spot on beach,2,5
+CES201705,16109,964,towel,rick kalk omleggen,Rick Kalk omleggen,Kill Rick Kalk,2,3
+CES201705,16145,963,towel,rick kalk omleggen ,Rick Kalk omleggen,Kill Rick Kalk,2,3
+CES201705,15231,920,towel,rode,rode,red,0,0
+CES201705,14039,882,towel,rodeloper,rode loper,Red carpet,2,4
+CES201705,13455,853,towel,rok er van maken,rok,skirt,3,4
+CES201705,13663,9999,towel,rok,rok,skirt,3,4
+CES201705,16629,993,towel,als rok dragen,rok dragen,wear skirt,3,4
+CES201705,13918.2,876,towel, rond draaien en als laso gebruiken ( doet pijn ),rond draaien lasso,spinning around lasso,4,3
+CES201705,14142,886,towel,om je rug te krabben,rug krabben,back scratching,4,4
+CES201705,15083,918,towel,sauna,sauna,sauna,0,0
+CES201705,15929,956,towel,sauna,sauna,sauna,0,0
+CES201705,14091,883,towel,schaatsen in opbergen,schaatsen opbergen,store skates,2,5
+CES201705,15373.1,933,towel,Schaatsen in wikkelen,schaatsen wikkelen,wrapping skates,2,5
+CES201705,15414,937,towel,schaduw maken ,schaduw,shadow,3,5
+CES201705,15562,944,towel,schaduw scherm,schaduw scherm,shade screen,3,5
+CES201705,13656,865,towel,schilderen (gebruiken als kwast),schilderen,paint,3,4
+CES201705,14269.1,890,towel,gebruiken als schoen,schoen,shoe,3,2
+CES201705,16489,986,towel,schoenen,schoenen,shoes,3,2
+CES201705,14242,888,towel,schoenen afvegen,schoenen afvegen,wiping shoes,2,5
+CES201705,15277,924,towel,schoenen schoonmaken,schoenen schoonmaken,cleaning shoes,2,5
+CES201705,13472,857,towel,schoon,schoon,clean,2,5
+CES201705,13546,858,towel,schoon maken,schoon,clean,2,5
+CES201705,13854,870,towel,iets schoon maken,schoon,clean,2,5
+CES201705,15321,932,towel,schoon,schoon,clean,2,5
+CES201705,15335,930,towel,iets schoon maken,schoon,clean,2,5
+CES201705,16167,968,towel,schoon maken,schoon,clean,2,5
+CES201705,16225,970,towel,schoon,schoon,clean,2,5
+CES201705,16406,974,towel,schoon maken,schoon,clean,2,5
+CES201705,14768,901,towel,schoonhouden,schoonhouden,keep clean,2,5
+CES201705,15368,927,towel,schoonmaak doekje,schoonmaak doekje,cleaning cloth,2,5
+CES201705,16653,996,towel,schoonmaakdoek,schoonmaakdoek,cleaning cloth,2,5
+CES201705,13456,853,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,13489,852,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,13497,854,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,13528,855,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,13585,861,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,13882,868,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14666,909,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14681,900,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14714,905,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14721,908,towel,schonnmaken,schoonmaken,clean,2,5
+CES201705,14726,910,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14731,911,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14748,899,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14766,901,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14773,904,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,15307,931,towel,Schoonmaken ,schoonmaken,clean,2,5
+CES201705,15348,934,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,15404,936,towel,iets schoonmaken,schoonmaken,clean,2,5
+CES201705,15597,946,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,15606,947,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,16001,958,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,16017,957,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,16052,952,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,16177,965,towel,iets mee schoonmaken,schoonmaken,clean,2,5
+CES201705,16444,980,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,16619,994,towel,schoonmaken,schoonmaken,clean,2,5
+CES201705,14821,912,towel,om mee te schrubben/schrobben,schrobben,scrub,2,5
+CES201705,16359.2,975,towel,5 sec 0-100,sec,sec,0,0
+CES201705,15928,956,towel,shampoo,shampoo,shampoo,0,0
+CES201705,14902,914,towel,shawl,shawl,shawl,3,4
+CES201705,15496,943,towel,als tshirt,shirt,shirt,3,3
+CES201705,13880,868,towel,signaleren,signaleren,signaling,4,4
+CES201705,14268,890,towel,gebruiken als sjaal,sjaal,shawl,3,4
+CES201705,14284,892,towel,Sjaal.,sjaal,shawl,3,4
+CES201705,15498,943,towel,als sjaal,sjaal,shawl,3,4
+CES201705,16438,982,towel,gebruiken als sjaal,sjaal,shawl,3,4
+CES201705,16693,997,towel,Sjaal,sjaal,shawl,3,4
+CES201705,13495,856,towel,slaan,slaan,beat,2,4
+CES201705,13907,872,towel,  slaan,slaan,beat,2,4
+CES201705,14141,886,towel,om iemand mee te slaan,slaan,beat,2,4
+CES201705,14662,909,towel,slaan,slaan,beat,2,4
+CES201705,14703,897,towel,iemand mee slaan,slaan,beat,2,4
+CES201705,14727,910,towel,iemand mee slaan,slaan,beat,2,4
+CES201705,14735,911,towel,mee slaan,slaan,beat,2,4
+CES201705,15260,921,towel,iemand ermee slaan,slaan,beat,2,4
+CES201705,15314,929,towel,slaan,slaan,beat,2,4
+CES201705,15351,926,towel,Slaan,slaan,beat,2,4
+CES201705,16018,957,towel,slaan,slaan,beat,2,4
+CES201705,16137,969,towel,slaan,slaan,beat,2,4
+CES201705,16162,968,towel,slaan,slaan,beat,2,4
+CES201705,16182,965,towel,mee slaan,slaan,beat,2,4
+CES201705,16448,980,towel,slaan,slaan,beat,2,4
+CES201705,13972,878,towel,slaapkussen,slaapkussen,sleeping pillow,3,4
+CES201705,16418,984,towel,mee slapen,slapen,sleep,3,4
+CES201705,14323,894,towel,slinger,slinger,garland,3,3
+CES201705,14293,892,towel,Sloop voor een kussen.,sloop kussen,pillowcase,3,4
+CES201705,14140,886,towel,smurrie weghalen,smurrie weghalen,remove gunk,2,5
+CES201705,15291,923,towel,als soort geest laten hangen vanaf het plafond,soort geest laten hangen vanaf plafond,kind of ghost hanging from ceiling,4,4
+CES201705,14715,905,towel,als een soort zak gebruiken,soort zak,kind of bag,3,4
+CES201705,14718,905,towel,als een soort zonnescherm,soort zonnescherm,kind of sunshade,3,5
+CES201705,16019,957,towel,in de spa gebruiken,spa,spa,2,5
+CES201705,15334,930,towel,iemand ermee spanken,spanken,spanking,2,4
+CES201705,15914,962,towel,spanken,spanken,spanking,2,4
+CES201705,16537,990,towel,spenken,spanken,spanking,2,4
+CES201705,13550,858,towel,spelen,spelen,play,2,3
+CES201705,14820,912,towel,spons,spons,sponge,2,3
+CES201705,14730,911,towel,mee sporten,sporten,play sports,2,4
+CES201705,16006,951,towel,gebruiken bij sporten,sporten,play sports,2,4
+CES201705,15330,925,towel,sportoefeningen ermee doen,sportoefeningen,sports exercises,3,4
+CES201705,14720,908,towel,spullen er in stoppen,spullen stoppen,stop stuff,2,4
+CES201705,16618,994,towel,stapel van maken,stapel,pile,2,4
+CES201705,14734,911,towel,stappelen,stapelen,stack,2,4
+CES201705,16108,964,towel,steken,steken,stab,2,2
+CES201705,13971,878,towel,stoelkussen,stoelkussen,chair cushion,3,3
+CES201705,14634,906,towel,stof,stof,dust,0,0
+CES201705,16075,960,towel,stof,stof,dust,0,0
+CES201705,14758,895,towel,stof uitnemen,stof uitnemen,remove dust,2,5
+CES201705,16023,9999,towel,stof mee weghalen,stof weghalen,remove dust,2,5
+CES201705,14265,890,towel,gebruiken om te stomen boven een pan,stomen boven pan,steam over pan,2,5
+CES201705,13461,857,towel,strand,strand,beach,1,5
+CES201705,14664,909,towel,voor strand,strand,beach,1,5
+CES201705,15234,920,towel,strand,strand,beach,1,5
+CES201705,15564,945,towel,Strand,strand,beach,1,5
+CES201705,15681,949,towel,strand,strand,beach,1,5
+CES201705,16193,966,towel,strand,strand,beach,1,5
+CES201705,16206,967,towel,Strand,strand,beach,1,5
+CES201705,16390,977,towel,strand,strand,beach,1,5
+CES201705,16533,990,towel,voor het strand,strand,beach,1,5
+CES201705,15988,959,towel,gebruiken als strand kleed ,strand kleed,beach rug,1,5
+CES201705,13884,873,towel,op het strand liggen,strand liggen,lying on beach,1,5
+CES201705,14823,912,towel,om op het strand mee te liggen,strand liggen,lying on beach,1,5
+CES201705,16176,965,towel,op het strand liggen,strand liggen,lying on beach,1,5
+CES201705,16474,985,towel,je kan het voor op het strand gebruiken om er op te liggen,strand liggen,lying on beach,1,5
+CES201705,14093,883,towel,gebruiken op het strand tegen het zand,strand tegen zand,beach against sand,1,5
+CES201705,16015,957,towel,als stranddoek gebruiken op het strand,stranddoek strand,beach towel beach,1,5
+CES201705,13666,9999,towel,strandlaken,strandlaken,Beach towel,1,5
+CES201705,14700.2,897,towel, strandstoel of zwembad,strandstoel zwembad,beach chair pool,1,5
+CES201705,16446,980,towel,strijken,strijken,smoothe,1,5
+CES201705,14895,916,towel,strikken,strikken,snare,1,5
+CES201705,15303,922,towel,strop maken,strop,noose,4,3
+CES201705,13998,880,towel,stukken zetten in een kunstwerk,stukken zetten kunstwerk,pieces putting work of art,3,3
+CES201705,14089,883,towel,superhelden cape,superhelden cape,superhero cape,3,5
+CES201705,13994,880,towel,tafel schoonmaken,tafel schoonmaken,cleaning table,2,5
+CES201705,15553,944,towel,tafelkleed,tafelkleed,tablecloth,3,5
+CES201705,14040,882,towel,tapijt,tapijt,carpet,2,4
+CES201705,16332,978,towel,als tapijt gebreuken,tapijt,carpet,2,4
+CES201705,14926,915,towel,tas,tas,bag,3,3
+CES201705,15561,944,towel,tas,tas,bag,3,3
+CES201705,16397,981,towel,een tas van maken,tas,bag,3,3
+CES201705,15413,937,towel,een tas maken door uiteindes bij elkaar te binden,tas uiteindes elkaar binden,tie bag ends together,3,4
+CES201705,14925,915,towel,tegen breuk van breekbare voorwerpen,tegen breuk breekbare voorwerpen,fragile objects against breakage,2,5
+CES201705,15298,922,towel,iets mee tegenhouden,tegenhouden,prevent,3,3
+CES201705,16454,980,towel,tekenen,tekenen,draw,3,3
+CES201705,14927,915,towel,tent,tent,tent,4,3
+CES201705,15325,925,towel,tent,tent,tent,4,3
+CES201705,16487,986,towel,tent,tent,tent,4,3
+CES201705,16616,994,towel,een tent maken,tent,tent,4,3
+CES201705,16688,997,towel,Tent mee bouwen,tent bouwen,build tent,4,3
+CES201705,13970,878,towel,theedoek,theedoek,dishcloth,2,5
+CES201705,14037,882,towel,theedoek,theedoek,dishcloth,2,5
+CES201705,14755,895,towel,ook als theedoek gebruiken,theedoek,dishcloth,2,5
+CES201705,14822,912,towel,als theedoek,theedoek,dishcloth,2,5
+CES201705,16068,960,towel,thuis,thuis,At home,0,0
+CES201705,16078,960,towel,thuis,thuis,At home,0,0
+CES201705,15556,944,towel,tochtstrip,tochtstrip,draft excluder,4,4
+CES201705,14642,906,towel,toilet,toilet,toilet,0,0
+CES201705,13599,862,towel,touw,touw,rope,3,4
+CES201705,14280,891,towel,touw,touw,rope,3,4
+CES201705,16180,965,towel,als touw gebruiken,touw,rope,3,4
+CES201705,16231,970,towel,training,training,training,3,4
+CES201705,16227,970,towel,trekt vocht in,trekt vocht,attracts moisture,3,5
+CES201705,16623,994,towel,de troep op ruimen van de moord die je met de baksteen heb gepleegd,troep ruimen moord baksteen gepleegd,mess clearing murder brick committed,2,4
+CES201705,16628,993,towel,tulband,tulband,turban,3,4
+CES201705,15347,934,towel,een tulband van maken na het douchen ,tulband douchen,turban shower,3,4
+CES201705,16099,9999,towel,tussen de deur doen,tussen deur,between door,2,4
+CES201705,15346,934,towel,twisten en tegen iemand aan slaan als met een wipe,twisten tegen slaan wipe,twist against hit wipe,2,4
+CES201705,13850,870,towel,uithangen om te drogen,uithangen drogen,hang out to dry,2,5
+CES201705,13520,850,towel,uitrekken,uitrekken,stretch,2,4
+CES201705,13866,874,towel,vaat drogen,vaat drogen,drying dishes,2,5
+CES201705,13481,851,towel,vakantie,vakantie,holidays,0,0
+CES201705,15686,949,towel,vakantie,vakantie,holidays,0,0
+CES201705,16192,966,towel,vakantie,vakantie,holidays,0,0
+CES201705,15261,921,towel,als je valt het ermee afdekken,valt afdekken,fall cover,2,4
+CES201705,14045,881,towel,gebruiken om iets op de vangen uit de lucht ,vangen lucht,catch air,3,3
+CES201705,13881,868,towel,vastbinden,vastbinden,tie,2,4
+CES201705,15311,929,towel,vastbinden,vastbinden,tie,2,4
+CES201705,14771,904,towel,iets vastmaken,vastmaken,fasten,2,4
+CES201705,16465,980,towel,vastmaken,vastmaken,fasten,2,4
+CES201705,13530,855,towel,vegen,vegen,sweep,2,4
+CES201705,13584,861,towel,vegen,vegen,sweep,2,4
+CES201705,14892,916,towel,vegen,vegen,sweep,2,4
+CES201705,16135,969,towel,vegen,vegen,sweep,2,4
+CES201705,13667,9999,towel,verband,verband,bandage,3,4
+CES201705,14291,892,towel,Verband,verband,bandage,3,4
+CES201705,14816,912,towel,verband,verband,bandage,3,4
+CES201705,15403,936,towel,iets verbinden,verbinden,connect,2,4
+CES201705,15353,926,towel,Verbranden,verbranden,burn,2,3
+CES201705,16519,9999,towel,ik kan verder echt niksd,verder echt niks,really nothing else,0,0
+CES201705,13473,857,towel,verfrissend,verfrissend,refreshing,0,0
+CES201705,13581,861,towel,verkopen,verkopen,sell,2,3
+CES201705,14329,894,towel,verrekijker door het op te rollen,verrekijker rollen,binocular rolls,4,2
+CES201705,15962,954,towel,verschillende vormen maken,verschillende vormen,different shapes,3,3
+CES201705,16458,980,towel,versieren,versieren,decorate,3,4
+CES201705,16398,981,towel,een versiering op je kamer,versiering kamer,decoration room,3,4
+CES201705,16459,980,towel,verstoppen,verstoppen,hide,2,3
+CES201705,13996.1,880,towel,gebruiken om ermee te verven,verven,paint,3,4
+CES201705,16455,980,towel,verven,verven,paint,3,4
+CES201705,16146,963,towel,wat verwacht je nou van me ,verwacht nou,expected now,0,0
+CES201705,14638,906,towel,vierhoek,vierhoek,quadrilateral,0,0
+CES201705,15281,924,towel,viezigheid,viezigheid,filth,0,0
+CES201705,16185,966,towel,visagiste,visagiste,make-up artist,0,0
+CES201705,13664,9999,towel,vlag,vlag,flag,3,4
+CES201705,14035,882,towel,vlag,vlag,flag,3,4
+CES201705,14276,889,towel,als vlag gebruiken,vlag,flag,3,4
+CES201705,14286,892,towel,Vlag.,vlag,flag,3,4
+CES201705,14753,899,towel,als vlag,vlag,flag,3,4
+CES201705,14759,895,towel,als vlag,vlag,flag,3,4
+CES201705,14851,913,towel,Als vlag,vlag,flag,3,4
+CES201705,15915,962,towel,een vlag maken,vlag,flag,3,4
+CES201705,16393,981,towel,een vlag maken,vlag,flag,3,4
+CES201705,15466,939,towel,Vlaggen maken,vlaggen,flags,3,4
+CES201705,14814,912,towel,vlieger,vlieger,kite,4,3
+CES201705,15278,924,towel,vloer droogmaken,vloer droogmaken,dry floor,2,5
+CES201705,13867,874,towel,mee de vloer dweilen,vloer dweilen,mopping floor,2,5
+CES201705,16329,978,towel,vloer schoon maken,vloer schoon,floor clean,2,5
+CES201705,16492,986,towel,vloerkleed,vloerkleed,rug,2,5
+CES201705,16228,970,towel,vocht,vocht,moisture,0,0
+CES201705,15460,940,towel,Vocht absorberen,vocht absorberen,absorb moisture,2,5
+CES201705,16020,957,towel,vocht opnemen,vocht opnemen,absorb moisture,2,5
+CES201705,14269.2,890,towel, om je voet binden,voet binden,bind foot,2,4
+CES201705,14777,907,towel,voeten vegen,voeten vegen,wipe feet,2,4
+CES201705,13519,850,towel,een voorwerp erop neerleggen,voorwerp erop neerleggen,place object on it,2,4
+CES201705,13529,855,towel,vouwen,vouwen,fold,2,5
+CES201705,13539,860,towel,vouwen,vouwen,fold,2,5
+CES201705,13541,858,towel,vouwen ,vouwen,fold,2,5
+CES201705,13844,871,towel,vouwen,vouwen,fold,2,5
+CES201705,14637,906,towel,vouwen,vouwen,fold,2,5
+CES201705,14894,916,towel,vouwen,vouwen,fold,2,5
+CES201705,16010,955,towel,vouwen ,vouwen,fold,2,5
+CES201705,16140,969,towel,vouwen,vouwen,fold,2,5
+CES201705,16440,982,towel,vouwen,vouwen,fold,2,5
+CES201705,15212,919,towel,vrienden,vrienden,friends,2,1
+CES201705,15216,919,towel,vriendin,vriendin,female friend,0,0
+CES201705,14292,892,towel,Vulling voor een kussen.,vulling kussen,cushion filling,3,4
+CES201705,15615,948,towel,je kunt het gebruiken als wandkleed,wandkleed,tapestry,3,5
+CES201705,13879,868,towel,wapperen,wapperen,wave,3,4
+CES201705,16138,969,towel,wapperen ,wapperen,wave,3,4
+CES201705,14645,906,towel,warm,warm,hot,0,0
+CES201705,15086,918,towel,warm,warm,hot,0,0
+CES201705,15371.1,933,towel,Warm eten mee afdeken,warm eten afdekken,cover hot food,2,5
+CES201705,13843,871,towel,warm houden ,warm houden,keep warm,2,5
+CES201705,14137,886,towel,warmhouden,warm houden,keep warm,2,5
+CES201705,14682,900,towel,warmhouden,warm houden,keep warm,2,5
+CES201705,14774.1,904,towel,warm houden,warm houden,keep warm,2,5
+CES201705,14850,913,towel,Om je warm te houden,warm houden,keep warm,2,5
+CES201705,16166,968,towel,warm houden,warm houden,keep warm,2,5
+CES201705,16405,974,towel,iets warm houden,warm houden,keep warm,2,5
+CES201705,15226,920,towel,warme,warme,warm,0,0
+CES201705,14088,883,towel,warme deken ,warme deken,warm blanket,3,4
+CES201705,15279,924,towel,warmte,warmte,heat,0,0
+CES201705,15089,918,towel,wasbaar,wasbaar,washable,0,0
+CES201705,13851,870,towel,in de wasmachine doen,wasmachine,washing machine,1,5
+CES201705,15685,949,towel,wasmachine,wasmachine,washing machine,0,0
+CES201705,13490,852,towel,wassen,wassen,wash,1,5
+CES201705,13518,850,towel,iets ermee wassen,wassen,wash,2,5
+CES201705,14631,906,towel,wassen,wassen,wash,1,5
+CES201705,15337,930,towel,wassen,wassen,wash,1,5
+CES201705,15352,926,towel,Wassen,wassen,wash,1,5
+CES201705,16002,958,towel,wassdn,wassen,wash,1,5
+CES201705,16016,957,towel,wassen',wassen,wash,1,5
+CES201705,16047,952,towel,wassen,wassen,wash,1,5
+CES201705,16073,960,towel,wassrn,wassen,wash,1,5
+CES201705,16074,960,towel,wassen,wassen,wash,1,5
+CES201705,16184,966,towel,wassen,wassen,wash,1,5
+CES201705,16200,967,towel,Wassen,wassen,wash,1,5
+CES201705,16441,982,towel,wassen,wassen,wash,1,5
+CES201705,16452,980,towel,wassen,wassen,wash,1,5
+CES201705,13462,857,towel,water,water,water,1,4
+CES201705,14629,906,towel,water,water,water,1,4
+CES201705,14684,903,towel,water,water,water,1,4
+CES201705,16063,960,towel,water,water,water,1,4
+CES201705,16186,966,towel,water,water,water,1,4
+CES201705,16232,970,towel,water,water,water,1,4
+CES201705,16632,993,towel,water verdragen van plek a naar plek b,water verdragen plek a plek b,tolerate water place a place b,5,3
+CES201705,16233,970,towel,waterfles,waterfles,water bottle,4,2
+CES201705,13868,874,towel,watervlek mee schoonmaken,watervlek schoonmaken,cleaning water stain,2,5
+CES201705,15787,950,towel,wc,wc,WC,0,0
+CES201705,15463,939,towel,weapon,weapon,weapon,2,4
+CES201705,16456,980,towel,weggeven,weggeven,give away,2,4
+CES201705,16236.1,970,towel,ik wens dat ik een handdoek had,wens handdoek,wish towel,2,3
+CES201705,16421,984,towel,je zelf er in wikkelen,wikkelen,wrap,2,5
+CES201705,15406,936,towel,woede afreageren door het te verscheuren,woede afreageren verscheuren,take out anger tear apart,3,3
+CES201705,14636,906,towel,wol,wol,wool,0,0
+CES201705,15913,962,towel,een wond stoppen met bloeden],wond stoppen bloeden,wound stop bleeding,4,4
+CES201705,14270,890,towel,een wond verbinden,wond verbinden,bandage wound,4,4
+CES201705,15336,930,towel,wurgen,wurgen,strangle,2,4
+CES201705,15912,962,towel,wurgen,wurgen,strangle,2,4
+CES201705,16105,964,towel,iemand wurgen,wurgen,strangle,2,4
+CES201705,16144,963,towel,wurgen ,wurgen,strangle,2,4
+CES201705,15563,944,towel,yoga rol,yoga rol,yoga role,3,4
+CES201705,13470,857,towel,zacht,zacht,soft,0,0
+CES201705,13856,867,towel,zacht,zacht,soft,0,0
+CES201705,15090,918,towel,zacht,zacht,soft,0,0
+CES201705,15225,920,towel,zachte,zachte,soft,0,0
+CES201705,14109,884,towel,als zachte ondergrond om op te liggen,zachte ondergrond liggen,soft surface,2,5
+CES201705,15282,924,towel,zadel,zadel,saddle,4,2
+CES201705,16007,951,towel,je zadel droog maken ,zadel droog,saddle dry,1,5
+CES201705,14043,882,towel,zak*,zak,bag,3,4
+CES201705,13463,857,towel,zee,zee,sea,0,0
+CES201705,14264,890,towel,gebruiken als zeef,zeef,sieve,4,3
+CES201705,14819,912,towel,zeef,zeef,sieve,4,3
+CES201705,15412,937,towel,als zeil gebruiken ,zeil,sail,3,4
+CES201705,14639,906,towel,zijde,zijde,silk,0,0
+CES201705,14689,903,towel,er op zitten ,zitten,sit,1,5
+CES201705,14849,913,towel,Om op te zitten,zitten,sit,1,5
+CES201705,16168,968,towel,op zitten,zitten,sit,1,5
+CES201705,16178,965,towel,op zitten,zitten,sit,1,5
+CES201705,16408,974,towel,op zitten,zitten,sit,1,5
+CES201705,16437,982,towel,op zitten ,zitten,sit,1,5
+CES201705,16449,980,towel,zitten,zitten,sit,1,5
+CES201705,15371.2,933,towel, zodat het langer warm blijft,zodat langer warm blijft,so that it stays warm longer,2,5
+CES201705,15373.2,933,towel, zodat de scherpe kant van de schaats is bedekt,zodat scherpe kant schaats bedekt,so that sharp edge covers skate,2,5
+CES201705,15682,949,towel,zomee,zomer,summer,0,0
+CES201705,15683,949,towel,zomer,zomer,summer,0,0
+CES201705,16195,966,towel,zomer,zomer,summer,0,0
+CES201705,16388,977,towel,zomer,zomer,summer,0,0
+CES201705,15925,956,towel,zon,zon,Sun,0,0
+CES201705,16389,977,towel,zon,zon,Sun,0,0
+CES201705,13460,857,towel,zonnen,zonnen,tanning,1,5
+CES201705,13482,851,towel,zonnen,zonnen,tanning,1,5
+CES201705,13878,868,towel,zonnen,zonnen,tanning,1,5
+CES201705,13886,873,towel,zonnen,zonnen,tanning,1,5
+CES201705,14776,907,towel,zonnen,zonnen,tanning,1,5
+CES201705,14824,912,towel,zonnescherm,zonnescherm,sunshade,2,5
+CES201705,16409,974,towel,gebruiken als zonnenscherm,zonnescherm,sunshade,2,5
+CES201705,15302,922,towel,iemand zijn zuurstof mee ontnemen,zuurstof ontnemen,deprive of oxygen,2,4
+CES201705,16536,990,towel,zwaaien,zwaaien,wave,2,4
+CES201705,15229,920,towel,zwarte,zwarte,black,0,0
+CES201705,15407,936,towel,zweep,zweep,whip,2,4
+CES201705,14640,906,towel,zwembad,zwembad,swimming pool,0,0
+CES201705,15095,918,towel,zwembad,zwembad,swimming pool,0,0
+CES201705,15211,919,towel,zwembad,zwembad,swimming pool,0,0
+CES201705,15235,920,towel,zwembad,zwembad,swimming pool,0,0
+CES201705,15565,945,towel,Zwembad,zwembad,swimming pool,0,0
+CES201705,16208,967,towel,Zwembad,zwembad,swimming pool,0,0
+CES201705,13885,873,towel,bij het zwembad liggen,zwembad liggen,swimming pool,1,5
+CES201705,13401,849,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,13480,851,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,14630,906,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,14685,903,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,15096,918,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,15210,919,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,15924,956,towel,Zwemmen,zwemmen,swimming,1,5
+CES201705,16191,966,towel,zwemmen,zwemmen,swimming,1,5
+CES201705,16515,9999,towel,zwemmen,zwemmen,swimming,1,5

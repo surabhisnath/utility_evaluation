@@ -1,0 +1,860 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater02,utility_rater02
+CES201712,17067,1151,brick,aankleden,aankleden,decorate,4,2
+CES201712,16949,1143,brick,aanrecht,aanrecht,counter,2,4
+CES201712,17155,1161,brick,aanrecht,aanrecht,counter,2,4
+CES201712,17111,1148,brick,af afbakening,af afbakening,from demarcation,2,4
+CES201712,17287,1185,brick,als afbakening van een tuin,afbakening tuin,demarcation of garden,2,4
+CES201712,17046,1134,brick,afbreken,afbreken,breaking down,2,4
+CES201712,18460,1238,brick,als afgodbeeld gebruiken,afgodbeeld,idol,4,2
+CES201712,17405,1191,brick,iets anders stuk maken,anders stuk,other break,2,4
+CES201712,16992,1140,brick,als anker gebruiken,anker,anchor,3,4
+CES201712,17112,1148,brick,als anker,anker,anchor,3,4
+CES201712,17384,1190,brick,anker,anker,anchor,3,4
+CES201712,16938,1139,brick,als anker voor een boot gebruiken,anker boot,anchor boat,3,4
+CES201712,17620,1225,brick,appartement,appartement,apartment,1,5
+CES201712,17137,1159,brick,aquaduct romeinse stijl,aquaduct Romeinse stijl,aqueduct Roman style,2,5
+CES201712,17143,1157,brick,asbak,asbak,ashtray,3,3
+CES201712,17586,1219,brick,auto,auto,car,4,1
+CES201712,17381,1182,brick,Auto zonder banden omhoog houden,auto banden omhoog houden,keep car tires up,5,5
+CES201712,16958,1141,brick,bak,bak,bin,2,4
+CES201712,17010,1142,brick,bak,bak,bin,2,4
+CES201712,17244,1177,brick,bakken,bakken,baking,2,5
+CES201712,17609,1225,brick,bakken,bakken,baking,2,5
+CES201712,17610,1225,brick,bakker,bakker,Baker,0,0
+CES201712,17614,1225,brick,bakker,bakker,Baker,0,0
+CES201712,18480,1241,brick,baksteen,baksteen,brick,1,5
+CES201712,17603,1214,brick,baksteen keukenbald,baksteen keukenblad,brick kitchen top,2,4
+CES201712,17135,1159,brick,baksteen koppen uit schaamte,baksteen koppen schaamte,brick heads shame,5,2
+CES201712,17598,1214,brick,baksteen muur,baksteen muur,brick wall,1,5
+CES201712,17604,1214,brick,baksteen openhaard,baksteen open haard,brick fireplace,1,5
+CES201712,17139,1159,brick,baksteenovenpizza,baksteen ovenpizza,brick oven pizza,1,5
+CES201712,17600,1214,brick,basteen tafel,baksteen tafel,brick table,3,4
+CES201712,17601,1214,brick,baksteen trap,baksteen trap,brick stairs,1,5
+CES201712,17524,1207,brick,iets aan een baksteen vastmk\aken en in het water gooien,baksteen vastmaken water gooien,"fix brick, throw water",3,4
+CES201712,17599,1214,brick,baksteen wastafel,baksteen wastafel,brick sink,2,4
+CES201712,17602,1214,brick,baksteen wc hok,baksteen wc hok,brick toilet stall,1,5
+CES201712,17322,1187,brick,bakstenen op elkaar zetten en een tafel van maken,bakstenen elkaar zetten tafel,putting bricks together table,3,4
+CES201712,17355,1196,brick,bakstenenmuur,bakstenen muur,brick wall,1,5
+CES201712,17562,1222,brick,bakstenen verven,bakstenen verven,painting bricks,3,5
+CES201712,17471,1201,brick,als bal gebruiken,bal,ball,3,3
+CES201712,17588,1219,brick,bal,bal,ball,3,3
+CES201712,17686,1231,brick,balanceren op je hoofd,balanceren hoofd,balancing head,3,3
+CES201712,17153,1161,brick,bank,bank,Bank,3,4
+CES201712,17579,1219,brick,bank,bank,Bank,3,4
+CES201712,17682,1231,brick,barbecue op zetten,barbecue zetten,set up barbecue,2,5
+CES201712,16943,1143,brick,bed,bed,bed,3,4
+CES201712,17689,1231,brick,een bed maken,bed,bed,3,4
+CES201712,17310,1183,brick,iemand mee bedreigen,bedreigen,threaten,2,4
+CES201712,17489,1208,brick,beek afzetten,beek afzetten,cut stream,3,3
+CES201712,17587,1219,brick,beeld,beeld,image,3,4
+CES201712,17544,1223,brick,beeld,beeld,image,3,4
+CES201712,17255,1171,brick,beeld bouwen,beeld bouwen,building image,3,4
+CES201712,16877,1128,brick,beeldhouwen,beeldhouwen,sculpt,3,4
+CES201712,17254,1171,brick,beeldhouwen,beeldhouwen,sculpt,3,4
+CES201712,17396,1204,brick,beeldhouwen,beeldhouwen,sculpt,3,4
+CES201712,17063,1151,brick,een beeldje  van maken ,beeldje,figurine,3,4
+CES201712,16974,1145,brick,begraven,begraven,bury,3,3
+CES201712,17123,1162,brick,behang,behang,wallpaper,4,3
+CES201712,16988,1145,brick,behang van de muur verwijderen,behang muur verwijderen,remove wallpaper wall,4,3
+CES201712,16971,1145,brick,bekijken,bekijken,look at,2,2
+CES201712,17227,1169,brick,bericht in wikkelen en door ruit gooien,bericht wikkelen ruit gooien,message wrapping window throwing,5,3
+CES201712,17630,1225,brick,beschermend,beschermend,protective,3,3
+CES201712,17191,1166,brick,beschilderen,beschilderen,paint,3,4
+CES201712,17571.3,1224,brick, beschilderen,beschilderen,paint,3,4
+CES201712,16986,1145,brick,beschilderen en als kunst verkopen,beschilderen kunst verkopen,painting art selling,3,4
+CES201712,17247,1177,brick,bestrating,bestrating,pavement,1,5
+CES201712,17258,1165,brick,bestuderen,bestuderen,study,3,4
+CES201712,17664,1228,brick,betaalmiddel,betaalmiddel,means of payment,4,3
+CES201712,17318.3,1187,brick, bibliotheel,bibliotheek,library,1,5
+CES201712,16922,1136,brick,biertje openen,biertje openen,open beer,2,5
+CES201712,17169,1135,brick,een bloembak opzetten,bloembak opzetten,set up flower box,2,5
+CES201712,17171,1168,brick,bloemen in zetten,bloemen zetten,put flowers,2,5
+CES201712,17246,1177,brick,blok,blok,block,2,5
+CES201712,17373,1192,brick,blokeren,blokkeren,block,2,5
+CES201712,17270,1186,brick,boekenhouder,boekenhouder,book holder,3,5
+CES201712,17411,1203,brick,boekenhouder,boekenhouder,book holder,3,5
+CES201712,16969,1138,brick,Boekenhouder voor in de boekenkast,boekenhouder boekenkast,book holder bookcase,3,5
+CES201712,16975,1145,brick,als boekenlegger,boekenlegger,bookmark,4,2
+CES201712,17025,1147,brick,boeknlegger,boekenlegger,bookmark,4,2
+CES201712,17548,1223,brick, boekenplank,boekenplank,bookshelf,4,4
+CES201712,17341,1184,brick,boekenstandaard,boekenstandaard,book stand,3,5
+CES201712,16898,1131,brick,boekensteun,boekensteun,bookend,3,5
+CES201712,17343,1175,brick,boekensteun,boekensteun,bookend,3,5
+CES201712,18429,1235,brick,boekensteun,boekensteun,bookend,3,5
+CES201712,18463,1239,brick,boekensteun,boekensteun,bookend,3,5
+CES201712,17114,1148,brick,om boot recht te leggen,boot recht leggen,straighten boat,3,3
+CES201712,17443,1195,brick,boot verzwaren,boot verzwaren,weigh down boat,2,5
+CES201712,16973,1141,brick,bord,bord,plate,3,3
+CES201712,17088,1156,brick,bord,bord,plate,3,3
+CES201712,17199,1158,brick,als bord gebruiken,bord,plate,3,3
+CES201712,17158,1161,brick,bord,bord,plate,3,3
+CES201712,17032,1134,brick,bouwen,bouwen,build,1,5
+CES201712,17162,1135,brick,bouwen,bouwen,build,1,5
+CES201712,16923,1137,brick,bouwen,bouwen,build,1,5
+CES201712,17001,1142,brick,bouwen,bouwen,build,1,5
+CES201712,16959,1145,brick,bouwen,bouwen,build,1,5
+CES201712,17054,1149,brick,bouwen,bouwen,build,1,5
+CES201712,17070,1155,brick,bouwen,bouwen,build,1,5
+CES201712,17205,1163,brick,Bouwen,bouwen,build,1,5
+CES201712,17288,1174,brick,bouwen,bouwen,build,1,5
+CES201712,17243,1177,brick,bouwen,bouwen,build,1,5
+CES201712,17273,1179,brick,bouwen,bouwen,build,1,5
+CES201712,17324,1180,brick,bouwen,bouwen,build,1,5
+CES201712,17309,1181,brick,bouwen,bouwen,build,1,5
+CES201712,17296,1189,brick,bouwen,bouwen,build,1,5
+CES201712,17398,1191,brick,Bouwen,bouwen,build,1,5
+CES201712,17363,1192,brick,bouwen,bouwen,build,1,5
+CES201712,17350.1,1193,brick,je kan er van alles mee bouwen,bouwen,build,1,5
+CES201712,17441,1195,brick,bouwen,bouwen,build,1,5
+CES201712,17417,1200,brick,bouwen,bouwen,build,1,5
+CES201712,17463,1201,brick,bouwen,bouwen,build,1,5
+CES201712,17391,1204,brick,bouwen,bouwen,build,1,5
+CES201712,17567,1206,brick,bouwen,bouwen,build,1,5
+CES201712,17657,1228,brick,bouwen,bouwen,build,1,5
+CES201712,17830,1232,brick,bouwen,bouwen,build,1,5
+CES201712,18418,1233,brick,bouwen,bouwen,build,1,5
+CES201712,18422,1234,brick,Bouwen,bouwen,build,1,5
+CES201712,16940,1143,brick,Bouwmateriaal,bouwmateriaal,building material,1,5
+CES201712,17027,1147,brick,bouwmateriaal,bouwmateriaal,building material,1,5
+CES201712,17422,1199,brick,Bouwsteen,bouwsteen,building block,1,5
+CES201712,17094,1148,brick,bouwvakker,bouwvakker,construction worker,0,0
+CES201712,17250,1177,brick,bouwvakkers,bouwvakkers,construction workers,0,0
+CES201712,17353,1196,brick,bouwvakkers,bouwvakkers,construction workers,0,0
+CES201712,16997,1146,brick,bowlen,bowlen,bowling,4,2
+CES201712,17332,1180,brick,breken,breken,break,2,4
+CES201712,17306,1183,brick,breken,breken,break,2,4
+CES201712,17367,1192,brick,breken,breken,break,2,4
+CES201712,17444,1195,brick,iets breken,breken,break,2,4
+CES201712,17530,1216,brick,breken,breken,break,2,4
+CES201712,17615,1225,brick,broodjes,broodjes,Sandwiches,4,1
+CES201712,17377,1202,brick,brug,brug,bridge,1,4
+CES201712,17591,1219,brick,brug,brug,bridge,1,4
+CES201712,17525.4,1211,brick, buitenoven van maken,buitenoven,outdoor oven,2,3
+CES201712,17414,1203,brick,cadeau,cadeau,gift,3,3
+CES201712,17597,1221,brick,cadeau doen,cadeau,gift,3,3
+CES201712,18459,1238,brick,cadeau doen,cadeau,gift,3,3
+CES201712,17242,1177,brick,cement,cement,cement,1,3
+CES201712,17354,1196,brick,sement,cement,cement,1,3
+CES201712,17556,1213,brick,cement ,cement,cement,1,3
+CES201712,17452,1217,brick,cement,cement,cement,1,3
+CES201712,17632,1225,brick,cement,cement,cement,1,3
+CES201712,17113,1148,brick,contra gewicht,contra gewicht,counter weight,2,4
+CES201712,16976,1138,brick,Contragewicht,contragewicht,counterweight,2,4
+CES201712,16987,1145,brick,gebruiken als contragewicht,contragewicht,counterweight,2,4
+CES201712,17029,1147,brick,contragewicht,contragewicht,counterweight,2,4
+CES201712,17458,1217,brick,3D,d,d,0,0
+CES201712,16970,1141,brick,dak,dak,roof,2,4
+CES201712,17240,1177,brick,dak,dak,roof,2,4
+CES201712,16953,1143,brick,Dam,dam,dam,1,5
+CES201712,17159,1161,brick,dam,dam,dam,1,5
+CES201712,17583,1219,brick,dam,dam,dam,1,5
+CES201712,17280,1179,brick,dam bouwen,dam bouwen,build dam,1,5
+CES201712,17537,1212,brick,dam bouwen,dam bouwen,build dam,1,5
+CES201712,16920,1136,brick,decoratie,decoratie,decoration,3,4
+CES201712,17184,1173,brick,decoratie,decoratie,decoration,3,4
+CES201712,17447,1195,brick,Als decoratie,decoratie,decoration,3,4
+CES201712,17536,1212,brick,decoratie,decoratie,decoration,3,4
+CES201712,17626,1225,brick,decoratie,decoratie,decoration,3,4
+CES201712,18421,1233,brick,decoratie,decoratie,decoration,3,4
+CES201712,16909,1132,brick,als decoratie beschilderen,decoratie beschilderen,painting decoration,3,4
+CES201712,16927,1137,brick,Decoreren,decoreren,decorate,3,4
+CES201712,17403,1191,brick,decoreren,decoreren,decorate,3,4
+CES201712,18465,1239,brick,deksel,deksel,lid ,4,3
+CES201712,16996,1146,brick,deur mee open breken,deur open breken,break open door,2,4
+CES201712,16890,1130,brick,een deur openhouden,deur openhouden,keep door open,2,5
+CES201712,17428,1199,brick,Deuropenhouder,deur openhouden,keep door open,2,5
+CES201712,16982,1145,brick,deur openmaken,deur openmaken,open door,2,4
+CES201712,17410,1203,brick,deur stop,deur stop,door stop,2,5
+CES201712,16918,1136,brick,deur stopper,deur stopper,door stopper,2,5
+CES201712,17108,1148,brick,als deur tegenhouder,deur tegenhouder,door stopper,2,5
+CES201712,17274,1179,brick,deurpost,deurpost,doorpost,2,4
+CES201712,16964,1138,brick,Deurstop,deurstopper,door stopper,2,5
+CES201712,16963,1141,brick,deurstop,deurstopper,door stopper,2,5
+CES201712,17026,1147,brick,deurstopper,deurstopper,door stopper,2,5
+CES201712,17074,1155,brick,deurstop,deurstopper,door stopper,2,5
+CES201712,17225,1169,brick,deurstop,deurstopper,door stopper,2,5
+CES201712,17338,1184,brick,Deurstop,deurstopper,door stopper,2,5
+CES201712,17481,1208,brick,deurstopper,deurstopper,door stopper,2,5
+CES201712,17552,1213,brick,deurstop,deurstopper,door stopper,2,5
+CES201712,18427,1235,brick,deurstopper,deurstopper,door stopper,2,5
+CES201712,18481,1241,brick,deurstop,deurstopper,door stopper,2,5
+CES201712,16942,1143,brick,dienblad,dienblad,tray,3,2
+CES201712,17653,1220,brick,om dingen mee glad te strijken,dingen glad strijken,smooth things out,4,3
+CES201712,17293,1174,brick,dingen mee kapot slaan,dingen kapot slaan,smash things,2,4
+CES201712,17490,1208,brick,op dingen leggen zodat ze niet wegwaaien,dingen leggen zodat niet wegwaaien,place things so they don't blow away,2,5
+CES201712,17651,1220,brick,om dingen mee plat te drukken,dingen plat drukken,flatten things,2,5
+CES201712,17317,1181,brick,dingen uitbeelden,dingen uitbeelden,portray things,3,3
+CES201712,16878,1128,brick,domino baan maken,domino baan,domino track,3,4
+CES201712,17028,1147,brick,dominosteen,dominosteen,domino,3,4
+CES201712,18456,1238,brick,doormidden slaan,doormidden slaan,cut in half,2,4
+CES201712,17220,1144,brick,Om dozen dicht te houden,dozen dicht houden,keep boxes closed,3,4
+CES201712,16936,1139,brick,drempel,drempel,threshold,1,5
+CES201712,16990,1145,brick,dronken avonturen mee beleven,dronken avonturen beleven,having drunken adventures,4,2
+CES201712,17132.3,1160,brick, druk uitoefenen,druk uitoefenen,exert pressure,2,3
+CES201712,18466,1240,brick,ik heb dit al eerder gezien,eerder gezien,seen before,0,0
+CES201712,17097,1148,brick,egel,egel,hedgehog,4,1
+CES201712,17438,1198,brick,ei op bakken,ei bakken,fry egg,3,3
+CES201712,17667,1226,brick,op elkaar stapelen,elkaar stapelen,stack each other,1,5
+CES201712,17321,1187,brick,elke baksteen een andere kleur en daar een 'schilderij van maken',elke baksteen kleur schilderij,any brick color painting,3,4
+CES201712,17661,1228,brick,erop balanceren,erop balanceren,balance on it,2,4
+CES201712,17168,1135,brick,erop gaan staan,erop gaan staan,stand on it,2,4
+CES201712,16884,1129,brick,erop gaan zitten,erop gaan zitten,sit on it,2,4
+CES201712,17019,1153,brick,erop een handstand maken,erop handstand,handstand on it,2,4
+CES201712,17017,1153,brick,erop staan,erop staan,insist,2,4
+CES201712,17015,1153,brick,erop zitten,erop zitten,sit on it,2,4
+CES201712,17659,1228,brick,erop zitten,erop zitten,sit on it,2,4
+CES201712,17634,1225,brick,erosie,erosie,erosion,0,0
+CES201712,17613,1225,brick,eten,eten,eat,3,1
+CES201712,17007,1153,brick,figuurtje van zagen,figuurtje zagen,saw figure,3,3
+CES201712,17361,1194,brick,flat,flat,flat,1,5
+CES201712,17279,1179,brick,frame,frame,frame,3,4
+CES201712,16999,1146,brick,frisbee,frisbee,frisbee,4,2
+CES201712,17103,1148,brick,gat in grond dempen,gat grond dempen,fill in hole in ground,2,3
+CES201712,17419,1200,brick,kan je gebruiken om een gebiedje af te bakenen,gebiedje af bakenen,delineate area,2,4
+CES201712,17040,1134,brick,gebouw,gebouw,building,1,5
+CES201712,17099,1148,brick,gebouw,gebouw,building,1,5
+CES201712,17357,1194,brick,gebouw,gebouw,building,1,5
+CES201712,16907,1132,brick,andere gebouwen bouwen,gebouwen bouwen,build buildings,1,5
+CES201712,17119,1150,brick,gebouwen bouwen,gebouwen bouwen,build buildings,1,5
+CES201712,18464,1239,brick,ik heb dit al gedaan,gedaan,done,0,0
+CES201712,17248,1177,brick,gesteente,gesteente,rock,1,5
+CES201712,17461,1217,brick,gesteente,gesteente,rock,1,5
+CES201712,17109,1148,brick,als gewicht,gewicht,weight,2,5
+CES201712,17209,1163,brick,Gewicht,gewicht,weight,2,5
+CES201712,17385,1190,brick,als gewicht,gewicht,weight,2,5
+CES201712,17545,1223,brick,gewich,gewicht,weight,2,5
+CES201712,17683,1231,brick,gebruiken als gewicht,gewicht,weight,2,5
+CES201712,17412,1203,brick,gewicht om mee te gewicht heffen,gewicht gewicht heffen,lifting weight weight,3,4
+CES201712,17662,1228,brick,gewicht mee heffen,gewicht heffen,lifting weight,3,4
+CES201712,17491,1208,brick,gewicht voor sport,gewicht sport,weight sports,3,4
+CES201712,17214,1154,brick,gewicht om voorwerp op zijn plek te houden,gewicht voorwerp plek houden,keep weight of object in place,3,4
+CES201712,17427,1199,brick,Gewichten voor sporten,gewichten sporten,weight training,3,4
+CES201712,16917,1136,brick,gewichtheffen,gewichtheffen,weight lifting,3,4
+CES201712,17540,1212,brick,gewichtheffen,gewichtheffen,weight lifting,3,4
+CES201712,17436,1210,brick,gewichtje,gewichtje,weight,2,5
+CES201712,17624,1225,brick,gezellig,gezellig,pleasant,0,0
+CES201712,16993,1140,brick,door glas gooien in geval van nood,glas gooien geval nood,throwing glass in case of emergency,2,4
+CES201712,17073,1155,brick,goedkope bouwblokken voor je kinderen,goedkope bouwblokken kinderen,cheap building blocks for children,2,4
+CES201712,17043,1134,brick,gooien,gooien,throw,2,4
+CES201712,17161,1135,brick,gooien,gooien,throw,2,4
+CES201712,16924,1137,brick,gooien,gooien,throw,2,4
+CES201712,17004,1142,brick,gooien,gooien,throw,2,4
+CES201712,16966,1145,brick,gooien,gooien,throw,2,4
+CES201712,17107,1148,brick,gooien ermee,gooien,throw,2,4
+CES201712,17047,1151,brick,gooien,gooien,throw,2,4
+CES201712,17003,1153,brick,gooien,gooien,throw,2,4
+CES201712,17196,1158,brick,mee gooien,gooien,throw,2,4
+CES201712,17207,1163,brick,Gooien,gooien,throw,2,4
+CES201712,17192,1166,brick,gooien,gooien,throw,2,4
+CES201712,17231,1172,brick,naar iemand gooien,gooien,throw,2,4
+CES201712,17178,1173,brick,gooien,gooien,throw,2,4
+CES201712,17291,1174,brick,gooien,gooien,throw,2,4
+CES201712,17325,1180,brick,gooien,gooien,throw,2,4
+CES201712,17305,1183,brick,gooien,gooien,throw,2,4
+CES201712,17286,1185,brick,naar iemand gooien,gooien,throw,2,4
+CES201712,17300,1189,brick,Gooien,gooien,throw,2,4
+CES201712,17401,1191,brick,gooien,gooien,throw,2,4
+CES201712,17365,1192,brick,gooien,gooien,throw,2,4
+CES201712,17442,1195,brick,gooien,gooien,throw,2,4
+CES201712,17462,1201,brick,gooien,gooien,throw,2,4
+CES201712,17390,1204,brick,GOOIEN,gooien,throw,2,4
+CES201712,17566,1206,brick,gooien,gooien,throw,2,4
+CES201712,17529,1216,brick,gooien,gooien,throw,2,4
+CES201712,17650,1220,brick,om mee over te gooien,gooien,throw,2,4
+CES201712,17593,1221,brick,om mee te gooien,gooien,throw,2,4
+CES201712,17655,1228,brick,gooien,gooien,throw,2,4
+CES201712,17832,1232,brick,gooien,gooien,throw,2,4
+CES201712,18440,1237,brick,iets om mee te gooien,gooien,throw,2,4
+CES201712,17516,1207,brick,gooien door een ruit,gooien ruit,throw diamond,2,4
+CES201712,17144,1157,brick,gootsteen,gootsteen,sink,2,4
+CES201712,16947,1143,brick,grafkist,grafkist,coffin,2,2
+CES201712,16954,1143,brick,grensrechter stopper,grensrechter stopper,linesman stopper,4,2
+CES201712,17121,1162,brick,grond,grond,ground,1,5
+CES201712,17497,1215,brick,grond,grond,ground,1,5
+CES201712,16899,1131,brick,hamer,hamer,hammer,3,4
+CES201712,16932,1139,brick,hamer,hamer,hammer,3,4
+CES201712,16961,1141,brick,hamer,hamer,hammer,3,4
+CES201712,17012,1142,brick,hamer,hamer,hammer,3,4
+CES201712,17160,1161,brick,hamer,hamer,hammer,3,4
+CES201712,17276,1179,brick,hamer,hamer,hammer,3,4
+CES201712,17266,1186,brick,hamer,hamer,hammer,3,4
+CES201712,18462,1239,brick,hamer,hamer,hammer,3,4
+CES201712,17334,1180,brick,hameren,hameren,hammering,3,4
+CES201712,17368,1202,brick,hard,hard,hard,0,0
+CES201712,17627,1225,brick,hard,hard,hard,0,0
+CES201712,17167,1135,brick,op je hoofd leggen,hoofd leggen,lay head,3,2
+CES201712,17033,1134,brick,huis,huis,house,1,5
+CES201712,17048,1149,brick,huis,huis,house,1,5
+CES201712,17185,1152,brick,huis,huis,house,1,5
+CES201712,17142,1157,brick,huis,huis,house,1,5
+CES201712,17150,1161,brick,huis,huis,house,1,5
+CES201712,17116,1162,brick,huis,huis,house,1,5
+CES201712,17125,1167,brick,huis,huis,house,1,5
+CES201712,17283,1176,brick,huis,huis,house,1,5
+CES201712,17236,1177,brick,huis ,huis,house,1,5
+CES201712,17318.1,1187,brick,huis,huis,house,1,5
+CES201712,17356,1194,brick,huis,huis,house,1,5
+CES201712,17351,1196,brick,huis,huis,house,1,5
+CES201712,17469,1201,brick,huis,huis,house,1,5
+CES201712,17366,1202,brick,huis,huis,house,1,5
+CES201712,17494,1205,brick,huis,huis,house,1,5
+CES201712,17493,1215,brick,huis,huis,house,1,5
+CES201712,17455,1217,brick,huis,huis,house,1,5
+CES201712,17576,1219,brick,huis,huis,house,1,5
+CES201712,17606,1225,brick,huis,huis,house,1,5
+CES201712,18438,1237,brick,huis,huis,house,1,5
+CES201712,16893,1130,brick,je kan het gebruiken om een huis mee te bouwen,huis bouwen,build house,1,5
+CES201712,16905,1132,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,16915,1136,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,16931,1139,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,16994,1140,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17215,1144,brick,Huisbouwen,huis bouwen,build house,1,5
+CES201712,16984,1145,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17000,1153,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17211,1154,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17083,1156,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17193,1158,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17256,1165,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17189,1166,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17172,1168,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17253,1171,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17234,1172,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17200,1178,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17272,1179,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17378,1182,brick,Huis bouwen,huis bouwen,build house,1,5
+CES201712,17285,1185,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17383,1190,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17421,1199,brick,Huis mee bouwen,huis bouwen,build house,1,5
+CES201712,17514,1207,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17480,1208,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17502,1209,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17534,1212,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17526,1216,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17508,1218,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17647,1220,brick,om een huis te bouwen,huis bouwen,build house,1,5
+CES201712,17592,1221,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17559,1222,brick,HUIS BOUWEN,huis bouwen,build house,1,5
+CES201712,17669,1229,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17692,1230,brick,huis bouwen,huis bouwen,build house,1,5
+CES201712,17834,1232,brick,huis bouwnen,huis bouwen,build house,1,5
+CES201712,16983,1145,brick,huis slopen,huis slopen,demolish house,2,4
+CES201712,17474,1201,brick,huisdier,huisdier,pet,4,1
+CES201712,17022,1153,brick,als huisdier hoduen,huisdier houden,keeping pet,4,1
+CES201712,17115,1150,brick,huizen bouwen ,huizen bouwen,building houses,1,5
+CES201712,17346,1193,brick,huizen bouwen,huizen bouwen,building houses,1,5
+CES201712,17525.1,1211,brick,huizen bouwen,huizen bouwen,building houses,1,5
+CES201712,17665,1226,brick,huizen bouwen,huizen bouwen,building houses,1,5
+CES201712,17690,1231,brick,een hunnebed maken,hunebed,dolmen,2,2
+CES201712,17584,1219,brick,hut,hut,hut,1,4
+CES201712,17484,1208,brick,huttenbouwer,huttenbouwer,hut builder,1,4
+CES201712,17431,1210,brick,geen idee,idee,idea,0,0
+CES201712,17432,1210,brick,geen idee,idee,idea,0,0
+CES201712,17433,1210,brick,geen idee,idee,idea,0,0
+CES201712,17434,1210,brick,geen idee,idee,idea,0,0
+CES201712,17224,1169,brick,iemands kop mee in slaan,iemands kop slaan,hit someone's head,2,4
+CES201712,17134,1159,brick,inbreken,inbreken,break in,2,4
+CES201712,17616,1225,brick,italiaanse bol,Italiaanse bol,Italian bun,4,1
+CES201712,17371,1192,brick,jongleren,jongleren,juggling,3,3
+CES201712,17485,1208,brick,kampvuur,kampvuur,campfire,2,3
+CES201712,17223,1169,brick,kampvuur bouwen,kampvuur bouwen,build campfire,2,3
+CES201712,17138,1159,brick,kampvuur rand,kampvuur rand,campfire edge,2,5
+CES201712,17051,1149,brick,iets kapot maken,kapot,break,2,4
+CES201712,17303,1189,brick,Kapot maken (ander voorwerp),kapot,break,2,4
+CES201712,17459,1217,brick,kapot,kapot,break,2,4
+CES201712,17573,1224,brick,Kapot maken,kapot,break,2,4
+CES201712,17418,1200,brick,kapot breken van een kokosnoot,kapot breken kokosnoot,break coconut,2,4
+CES201712,16910,1132,brick,kapot gooien,kapot gooien,smash,2,4
+CES201712,17170,1135,brick,kapot slaan,kapot slaan,smash,2,4
+CES201712,17425,1199,brick,Om iets mee kapot te slaan,kapot slaan,smash,2,4
+CES201712,16874,1128,brick,kasteel,kasteel,castle,1,5
+CES201712,17152,1161,brick,kasteel,kasteel,castle,1,5
+CES201712,17362,1194,brick,kasteel,kasteel,castle,1,5
+CES201712,16977,1145,brick,als kastje,kastje,little cupboard,3,4
+CES201712,17617,1225,brick,kei,kei,boulder,1,4
+CES201712,17320,1187,brick,kerk,kerk,church,1,5
+CES201712,17009,1153,brick,ketting van maken,ketting,chain,4,3
+CES201712,16989,1145,brick,een kind vermaken,kind vermaken,entertain child,3,3
+CES201712,18431,1235,brick,om een kleed op zijn plek te houden,kleed plek houden,keep dressing room,2,3
+CES201712,17633,1225,brick,klei,klei,clay,3,4
+CES201712,17685,1231,brick,iemand knockout slaan,knock out slaan,knock out,2,4
+CES201712,17020,1153,brick,als knuffel gebruiken,knuffel,Hug,4,2
+CES201712,17316,1183,brick,knuffel,knuffel,Hug,4,2
+CES201712,17472,1201,brick,als knuffel gebruiken,knuffel,Hug,4,2
+CES201712,17195,1158,brick,mee knutselen,knutselen,craft,3,4
+CES201712,17467,1201,brick,knutselen,knutselen,craft,3,4
+CES201712,17594,1221,brick,knutselen,knutselen,craft,3,4
+CES201712,16998,1146,brick,kogelwerpen,kogel werpen,throw ball,3,4
+CES201712,17281,1179,brick,kogelstoten,kogelstoten,shot put,3,4
+CES201712,17140,1159,brick,kogelstoten / baksteenstoten,kogelstoten baksteenstoten,shot put brick put,3,4
+CES201712,17622,1225,brick,kok,kok,cook,0,0
+CES201712,17611,1225,brick,koken,koken,cook,3,2
+CES201712,17694,1230,brick,krassen maken op de stoep,krassen stoep,scratch sidewalk,4,5
+CES201712,17499,1215,brick,krijt,krijt,chalk,4,5
+CES201712,17569,1206,brick,mee krijten,krijten,chalk,4,5
+CES201712,17204,1178,brick,krijtje,krijtje,chalk,4,5
+CES201712,17450,1217,brick,kruiwagen,kruiwagen,wheelbarrow,0,0
+CES201712,17016,1142,brick,kruk ,kruk,stool,1,4
+CES201712,16968,1141,brick,kunsrt,kunst,art,3,3
+CES201712,17554,1213,brick,kunst,kunst,art,3,3
+CES201712,17386,1190,brick,kunstvoorwerp,kunstvoorwerp,art object,3,3
+CES201712,17056,1149,brick,kunstwerk,kunstwerk,artwork,3,3
+CES201712,17120,1162,brick,kunstwerk,kunstwerk,artwork,3,3
+CES201712,17413,1203,brick,kunstwerk,kunstwerk,artwork,3,3
+CES201712,17141,1159,brick,kunstwerk metbaksteengruis,kunstwerk baksteengruis,work of art brick dust,3,3
+CES201712,17232,1172,brick,kunstwerk maken van bakstenen,kunstwerk bakstenen,artwork bricks,3,3
+CES201712,17521,1207,brick,kunstwerk van bouwen,kunstwerk bouwen,build work of art,3,3
+CES201712,16888,1129,brick,als kussen gebruiken,kussen,pillow,3,3
+CES201712,17154,1161,brick,kussen,kussen,pillow,3,3
+CES201712,17415,1203,brick,kussen ,kussen,pillow,3,3
+CES201712,17660,1228,brick,als kussen gebruiken,kussen,pillow,3,3
+CES201712,18457,1238,brick,als kussen gebruiken,kussen,pillow,3,3
+CES201712,17058,1151,brick,laten vallen ,laten vallen,drop,2,3
+CES201712,17331,1180,brick,laten vallen,laten vallen,drop,2,3
+CES201712,17532,1216,brick,laten vallen,laten vallen,drop,2,3
+CES201712,17477,1188,brick,iets laten zinken,laten zinken,sink,2,4
+CES201712,17476.2,1188,brick, iets laten zinken in water,laten zinken water,sink water,2,4
+CES201712,17264,1165,brick,op zijn zij leggen,leggen,lay,2,3
+CES201712,17179,1173,brick,op iets leggen zodat het niet weg waait,leggen zodat niet weg waait,place so that it does not blow away,2,5
+CES201712,17439,1198,brick,als lego blokjes gebruiken,LEGO blokjes,LEGO blocks,4,3
+CES201712,17612,1225,brick,lekker,lekker,Tasty,0,0
+CES201712,17182,1173,brick,liniaal,liniaal,ruler,3,4
+CES201712,17335,1180,brick,mee lopen,lopen,walk,1,5
+CES201712,17337,1180,brick,op lopen,lopen,walk,1,5
+CES201712,17698,1230,brick,op losse bakstenen lopen,losse bakstenen lopen,loose brick walk,1,5
+CES201712,17045,1134,brick,malen,malen,grind,2,4
+CES201712,17460,1217,brick,materiaal,materiaal,material,1,5
+CES201712,17055,1151,brick,meenemen,meenemen,take,2,4
+CES201712,17183,1173,brick,meetlat,meetlat,measuring stick,4,4
+CES201712,17069,1155,brick,mensen doden,mensen doden,kill people,2,4
+CES201712,17187,1152,brick,op mensen gooien,mensen gooien,people throw,2,4
+CES201712,17034,1134,brick,metselen,metselen,laying bricks,1,5
+CES201712,17294,1174,brick,metselen,metselen,laying bricks,1,5
+CES201712,17241,1177,brick,metselen,metselen,laying bricks,1,5
+CES201712,17323,1180,brick,metselen,metselen,laying bricks,1,5
+CES201712,17468,1201,brick,metselen,metselen,laying bricks,1,5
+CES201712,17394,1204,brick,metselen,metselen,laying bricks,1,5
+CES201712,17565,1206,brick,metselen,metselen,laying bricks,1,5
+CES201712,18426,1234,brick,Metselen,metselen,laying bricks,1,5
+CES201712,17002,1142,brick,meubel,meubel,furniture,1,5
+CES201712,16952,1143,brick,Mexicaanse muur,Mexicaanse muur,Mexican wall,1,5
+CES201712,17057,1151,brick,door midden breken ,midden breken,break in middle,2,4
+CES201712,16883,1129,brick,door midden slaan,midden slaan,hitting middle,2,4
+CES201712,17408,1203,brick,mini stoeltje,mini stoeltje,mini chair,2,4
+CES201712,16945,1143,brick,moderne kunst,moderne kunst,modern Art,3,3
+CES201712,17590,1219,brick,monument,monument,monument,1,4
+CES201712,17400,1191,brick,moorden,moorden,murder,2,4
+CES201712,17465,1201,brick,moorden,moorden,murder,2,4
+CES201712,17533,1212,brick,moordwapen,moordwapen,murder weapon,2,4
+CES201712,18483,1241,brick,moordwapen,moordwapen,murder weapon,2,4
+CES201712,16896,1131,brick,muur,muur,wall,1,5
+CES201712,17036,1134,brick,muur,muur,wall,1,5
+CES201712,16957,1141,brick,muur,muur,wall,1,5
+CES201712,17021,1142,brick,muur,muur,wall,1,5
+CES201712,17090,1148,brick,muur,muur,wall,1,5
+CES201712,17049,1149,brick,muur,muur,wall,1,5
+CES201712,17186,1152,brick,muur,muur,wall,1,5
+CES201712,17145,1157,brick,muur,muur,wall,1,5
+CES201712,17151,1161,brick,muur,muur,wall,1,5
+CES201712,17118,1162,brick,muur,muur,wall,1,5
+CES201712,17127,1167,brick,muur,muur,wall,1,5
+CES201712,17177,1173,brick,muur,muur,wall,1,5
+CES201712,17282,1176,brick,muur,muur,wall,1,5
+CES201712,17237,1177,brick,muur,muur,wall,1,5
+CES201712,17275,1179,brick,muur,muur,wall,1,5
+CES201712,17307,1183,brick,in een muur gebruiken,muur,wall,1,5
+CES201712,17352,1196,brick,muur,muur,wall,1,5
+CES201712,17370,1202,brick,muur,muur,wall,1,5
+CES201712,17496,1205,brick,muur,muur,wall,1,5
+CES201712,17519,1207,brick,muur,muur,wall,1,5
+CES201712,17487,1208,brick,muur,muur,wall,1,5
+CES201712,17535,1212,brick,muur maken,muur,wall,1,5
+CES201712,17551,1213,brick,muur,muur,wall,1,5
+CES201712,17492,1215,brick,muur,muur,wall,1,5
+CES201712,17449,1217,brick,muur,muur,wall,1,5
+CES201712,17581,1219,brick,muur,muur,wall,1,5
+CES201712,17542,1223,brick,muur,muur,wall,1,5
+CES201712,17607,1225,brick,muur,muur,wall,1,5
+CES201712,18439,1237,brick,muur,muur,wall,1,5
+CES201712,18451,1238,brick,muur maken,muur,wall,1,5
+CES201712,16880,1129,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,16991,1140,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17216,1144,brick,Muur bouwen,muur bouwen,building wall,1,5
+CES201712,17133,1159,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17132.1,1160,brick,Muur bouwen,muur bouwen,building wall,1,5
+CES201712,17262,1165,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17221,1169,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17229,1172,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17339,1184,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17268,1186,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17476.1,1188,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17437,1198,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17527,1216,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17561,1222,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17681,1231,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,18485,1241,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201712,17065,1151,brick,op een muur plakken met cement ,muur plakken cement,wall paste cement,1,5
+CES201712,17456,1217,brick,muurtje,muurtje,wall,1,5
+CES201712,17173,1168,brick,muurtje bouwen,muurtje bouwen,build wall,1,5
+CES201712,17525.3,1211,brick, muurtjes maken,muurtjes,walls,1,5
+CES201712,17697,1230,brick,muziek maken,muziek,music,3,3
+CES201712,17175,1168,brick,namaak klompen van maken,namaak klompen,fake clogs,4,2
+CES201712,17687,1231,brick,op een nat boek leggen om goed te laten drogen,nat boek leggen goed laten drogen,place wet book and let it dry thoroughly,4,4
+CES201712,17259,1165,brick,natekenen,natekenen,copy,3,3
+CES201712,17163,1135,brick,neerleggen,neerleggen,put down,2,3
+CES201712,17326,1180,brick,neerleggen,neerleggen,put down,2,3
+CES201712,18425,1234,brick,neerleggen,neerleggen,put down,2,3
+CES201712,17011,1153,brick,gebruiken als nep mobieltje,nep mobieltje,fake cell phone,3,3
+CES201712,17350.2,1193,brick, niet alleen huizen,niet alleen huizen,not just houses,1,5
+CES201712,16979,1145,brick,notenkraker,notenkraker,nutcracker,3,4
+CES201712,17085,1156,brick,notenkraker,notenkraker,nutcracker,3,4
+CES201712,16930,1137,brick,Je kan hem gebruiken als een notitieblok,notitieblok,notepad,4,2
+CES201712,17166,1135,brick,omdraaien,omdraaien,turn around,2,3
+CES201712,17091,1148,brick,omheinnig,omheining,fence,2,4
+CES201712,17059,1151,brick,omhoog gooien,omhoog gooien,throw up,2,4
+CES201712,17330,1180,brick,omhoog gooien,omhoog gooien,throw up,2,4
+CES201712,17328,1180,brick,omhoog houden,omhoog houden,hold up,2,4
+CES201712,17052,1151,brick,omrollen,omrollen,roll over,2,3
+CES201712,17629,1225,brick,onbreekbaar,onbreekbaar,unbreakable,0,0
+CES201712,16978,1138,brick,Onderdeel van muur,onderdeel muur,part wall,1,5
+CES201712,17206,1163,brick,Ondersteunen,ondersteunen,support,2,4
+CES201712,17523,1207,brick,ondersteuning voor een tafel als de tafel oneven is,ondersteuning tafel tafel oneven,support table table odd,2,4
+CES201712,16897,1131,brick,onderzetter,onderzetter,coaster,2,5
+CES201712,16960,1138,brick,Onderzetter,onderzetter,coaster,2,5
+CES201712,17130.1,1164,brick,onderzetter,onderzetter,coaster,2,5
+CES201712,17349,1193,brick,als onderzetter,onderzetter,coaster,2,5
+CES201712,17553,1213,brick,onderzetter,onderzetter,coaster,2,5
+CES201712,17648,1220,brick,als onderzetter,onderzetter,coaster,2,5
+CES201712,18428,1235,brick,onderzetter,onderzetter,coaster,2,5
+CES201712,17222,1169,brick,onderzetter kopje,onderzetter kopje,coaster cup,2,5
+CES201712,17557,1213,brick,iets mee open brekene,open breken,break open,2,5
+CES201712,17374,1202,brick,open haard,open haard,open hearth,1,5
+CES201712,17510,1218,brick,open haard maken,open haard,open hearth,1,5
+CES201712,17188,1152,brick,operhaard bouwen,open haard bouwen,building fireplace,1,5
+CES201712,17018,1142,brick,opener,opener,opener,2,5
+CES201712,17344,1175,brick,ophoging voor bijv. een bed,ophoging oorbeeld bed,raising example bed,2,4
+CES201712,18424,1234,brick,oppakken,oppakken,picking up,2,3
+CES201712,17044,1134,brick,opslagplaats,opslagplaats,warehouse,1,5
+CES201712,17298,1189,brick,opstaan,opstaan,get up,2,4
+CES201712,17106,1148,brick,opstappelen,opstapelen,pile up,1,5
+CES201712,17564,1222,brick,opstapelen,opstapelen,pile up,1,5
+CES201712,17311,1181,brick,opstapje,opstapje,stepping stone,2,5
+CES201712,17342,1184,brick,opstapje,opstapje,stepping stone,2,5
+CES201712,17430,1199,brick,/ Opstapje,opstapje,stepping stone,2,5
+CES201712,17520,1207,brick,gebruiken als opstapje,opstapje,stepping stone,2,5
+CES201712,17547,1223,brick,als opstapje,opstapje,stepping stone,2,5
+CES201712,18430,1235,brick,opstapje,opstapje,stepping stone,2,5
+CES201712,17329,1180,brick,optillen,optillen,lift,2,4
+CES201712,17245,1177,brick,oranje,oranje,Orange,0,0
+CES201712,16889,1129,brick,een oven van maken,oven,oven,2,3
+CES201712,17038,1134,brick,oven,oven,oven,2,4
+CES201712,17147,1157,brick,oven,oven,oven,2,4
+CES201712,17156,1161,brick,oven,oven,oven,2,4
+CES201712,16875,1128,brick,overgooien,overgooien,throw up,2,4
+CES201712,16882.2,1129,brick, overgooien,overgooien,throw up,2,4
+CES201712,18454,1238,brick,overgooien,overgooien,throw up,2,4
+CES201712,17202,1178,brick,paden,paden,paths,1,5
+CES201712,17451,1217,brick,pan,pan,pan,2,2
+CES201712,18482,1241,brick,paper weight,paper weight,paper weight,2,5
+CES201712,17219,1144,brick,Om papier op elkaar te houden,papier elkaar houden,hold paper together,2,5
+CES201712,16908.1,1132,brick,papier onder vastleggen,papier onder vastleggen,capture paper underneath,2,5
+CES201712,17550,1223,brick,als papier om op te tekenen,papier tekenen,drawing paper,3,3
+CES201712,17423,1199,brick,Papierhouder,papierhouder,paper holder,2,5
+CES201712,16879,1128,brick,parcour mee aanleggen,parcours aanleggen,build trail,3,4
+CES201712,17475,1201,brick,als partner,partner,partner,5,1
+CES201712,16955,1143,brick,partycrasher,party crasher,party crasher,4,1
+CES201712,17252,1177,brick,passen,passen,fit,2,2
+CES201712,17464,1201,brick,patroon,patroon,cartridge,3,3
+CES201712,17265,1186,brick,pennenbakje,pennenbakje,pencil box,3,3
+CES201712,17382,1182,brick,Pizzaoventje bouwen voor in de tuin,pizzaoventje bouwen tuin,building pizza oven in garden,2,4
+CES201712,17148,1157,brick,plafond,plafond,ceiling,1,5
+CES201712,18442,1237,brick,iets om een plek aan te duiden ,plek duiden,indicate place,2,4
+CES201712,16926,1137,brick,Je kan ermee pletten,pletten,crush,2,4
+CES201712,17426,1199,brick,Om iets mee te pletten,pletten,crush,2,4
+CES201712,17136,1159,brick,poort maken,poort,gate,1,5
+CES201712,17473,1201,brick,als pop gebruiken,pop,pop,4,3
+CES201712,16948,1143,brick,pot,pot,pot,3,3
+CES201712,17269,1186,brick,poten voor tafel,poten tafel,legs table,3,4
+CES201712,17146,1157,brick,put,put,well,1,5
+CES201712,17486,1208,brick,put,put,well,1,5
+CES201712,17577,1219,brick,put,put,well,1,5
+CES201712,17454,1217,brick,raam,raam,window,2,5
+CES201712,17312,1183,brick,raam mee breken,raam breken,break window,2,4
+CES201712,18484,1241,brick,raam breken,raam breken,break window,2,4
+CES201712,16881,1129,brick,door een raam gooien,raam gooien,throw window,2,4
+CES201712,17064,1151,brick,door een raam gooien ,raam gooien,throw window,2,4
+CES201712,17190,1166,brick,door het raam gooien,raam gooien,throw window,2,4
+CES201712,16891,1130,brick,een raam ingooien,raam ingooien,smash window,2,4
+CES201712,17086,1156,brick,raam ingooien,raam ingooien,smash window,2,4
+CES201712,17132.2,1160,brick, een raam ingooien,raam ingooien,smash window,2,4
+CES201712,17420,1199,brick,Raam mee ingooien,raam ingooien,smash window,2,4
+CES201712,17509,1218,brick,raam ingooien,raam ingooien,smash window,2,4
+CES201712,17212,1154,brick,raam inslaan,raam inslaan,smash window,2,4
+CES201712,17668,1229,brick,raam inslaan,raam inslaan,smash window,2,4
+CES201712,16956,1143,brick,raamsloper,raamsloper,window breaker,2,4
+CES201712,17068,1155,brick,ramen ingooien,ramen ingooien,smashing windows,2,4
+CES201712,17376,1202,brick,rand van een vijver,rand vijver,edge of pond,2,4
+CES201712,17457,1217,brick,rechthoek,rechthoek,rectangle,2,5
+CES201712,17213,1154,brick,rechthoek tekenen (om de baksteen heen tekenen),rechthoek tekenen,draw rectangle,3,3
+CES201712,17062,1151,brick,rechtop zetten ,rechtop zetten,put upright,2,3
+CES201712,17301,1189,brick,Rollen,rollen,roll,2,3
+CES201712,17263,1165,brick,ronddraaien,ronddraaien,spinning around,2,3
+CES201712,17364,1202,brick,rood,rood,red,0,0
+CES201712,17605,1225,brick,rood,rood,red,0,0
+CES201712,17618,1225,brick,rots,rots,rock,2,3
+CES201712,17251,1177,brick,ruimtelijk inzicht,ruimtelijk inzicht,spatial awareness,3,2
+CES201712,17379,1182,brick,Ruit ingooien,ruit ingooien,smash window,2,4
+CES201712,17503,1209,brick,ruit ingooien,ruit ingooien,smash window,2,4
+CES201712,17691,1230,brick,ruit ingooien,ruit ingooien,smash window,2,4
+CES201712,16904,1132,brick,ruit inslaan,ruit inslaan,smash window,2,4
+CES201712,17679,1231,brick,ruit kapot maken,ruit kapot,window break,2,4
+CES201712,17571.1,1224,brick,Ruiten ingooien,ruiten ingooien,smashing windows,2,4
+CES201712,17340,1184,brick,ruitje intikken,ruitje intikken,tap in diamond,2,4
+CES201712,16925,1137,brick,schilderen,schilderen,paint,3,3
+CES201712,17060,1151,brick,schilderen,schilderen,paint,3,3
+CES201712,17087,1156,brick,schoen,schoen,shoe,5,2
+CES201712,17203,1178,brick,schoenen,schoenen,shoes,5,2
+CES201712,17271,1186,brick,schoenen,schoenen,shoes,5,2
+CES201712,17500,1215,brick,schoorsteen,schoorsteen,chimney,1,5
+CES201712,17505,1209,brick,schoorsteen bouwen,schoorsteen bouwen,building chimney,1,5
+CES201712,17693,1230,brick,schoorsteen bouwen,schoorsteen bouwen,building chimney,1,5
+CES201712,17596,1221,brick,op te schrijven,schrijven,write,3,3
+CES201712,17563,1222,brick,op schrijven,schrijven,write,3,3
+CES201712,17663,1228,brick,ermee schrijven,schrijven,write,3,3
+CES201712,17388,1190,brick,schuren en zand maken,schuren zand,sanding sand,4,3
+CES201712,17035,1134,brick,schuur,schuur,barn,1,5
+CES201712,17360,1194,brick,schuur,schuur,barn,1,5
+CES201712,17585,1219,brick,schuur,schuur,barn,1,5
+CES201712,17261,1165,brick,schuur bouwen,schuur bouwen,build shed,1,5
+CES201712,17699,1230,brick,schuur bouwen,schuur bouwen,build shed,1,5
+CES201712,16901,1131,brick,schuurpapier ding,schuurpapier ding,sandpaper thing,4,3
+CES201712,17380,1182,brick,Scooter standaard die stroef gaat losser krijgen door scooter op baksteen te duwen,scooter standaard stroef gaat losser krijgen scooter baksteen duwen,"Scooter standard stiff will loosen, push scooter brick",4,4
+CES201712,16903,1131,brick,scrubsteen,scrub steen,scrub stone,4,3
+CES201712,17623,1225,brick,serveerster,serveerster,Waitress,0,0
+CES201712,17233,1172,brick,servies maken van baksteen,servies baksteen,crockery brick,3,4
+CES201712,17654,1220,brick,voor de sier in huis,sier huis,ornamental house,3,3
+CES201712,16933,1139,brick,slaan,slaan,beat,2,4
+CES201712,16962,1145,brick,slaan,slaan,beat,2,4
+CES201712,17208,1163,brick,Slaan,slaan,beat,2,4
+CES201712,17333,1180,brick,slaan,slaan,beat,2,4
+CES201712,17304,1183,brick,slaan,slaan,beat,2,4
+CES201712,17297,1189,brick,slaan,slaan,beat,2,4
+CES201712,17392,1204,brick,slaan,slaan,beat,2,4
+CES201712,17515,1207,brick,mee slaan,slaan,beat,2,4
+CES201712,17656,1228,brick,slaan,slaan,beat,2,4
+CES201712,17829,1232,brick,slaan,slaan,beat,2,4
+CES201712,18455,1238,brick,slaan,slaan,beat,2,4
+CES201712,17024,1153,brick,gebruiken als slecht gemaakt bootje,slecht gemaakt bootje,poorly made boat,4,2
+CES201712,16906,1132,brick,sleutel onder verstoppen,sleutel onder verstoppen,hide key underneath,2,2
+CES201712,16921,1136,brick,sleutel onder verstoppen naast de deur,sleutel onder verstoppen naast deur,hide key under next to door,2,2
+CES201712,17061,1151,brick,slijpen ,slijpen,sharpen,2,3
+CES201712,17531,1216,brick,slijpen,slijpen,sharpen,2,3
+CES201712,17658,1228,brick,slopen,slopen,demolish,2,4
+CES201712,16900,1131,brick,snijplank,snijplank,cutting board,3,3
+CES201712,17008,1142,brick,spelgoed,speelgoed,toys,3,3
+CES201712,16946,1143,brick,speelgoed,speelgoed,toys,3,3
+CES201712,17483,1208,brick,speelgoed,speelgoed,toys,3,3
+CES201712,18443,1237,brick,je kunt het als speelgoed gebruiken,speelgoed,toys,3,3
+CES201712,17226,1169,brick,speelgoed om meet te bouwen,speelgoed meet bouwen,toys measure building,3,4
+CES201712,17092,1148,brick,spel,spel,game,3,3
+CES201712,17042,1134,brick,spelen,spelen,play,3,3
+CES201712,16929,1137,brick,je kan ermee spelen,spelen,play,3,3
+CES201712,17257,1165,brick,spelen,spelen,play,3,3
+CES201712,17470,1201,brick,mee spelen,spelen,play,3,3
+CES201712,17395,1204,brick,spelletje bedenken,spelletje bedenken,make up game,3,3
+CES201712,17228,1169,brick,spijker slaan,spijker slaan,hammer nail,2,4
+CES201712,17093,1148,brick,sport,sport,sport,3,4
+CES201712,17131,1164,brick,sportattribuut,sportattribuut,sports attribute,3,4
+CES201712,17652,1220,brick,om mee te sporten als gewicht,sporten gewicht,sports weight,3,4
+CES201712,17546,1223,brick,bij sporten als gewicht,sporten gewicht,sports weight,3,4
+CES201712,17336,1180,brick,op staan,staan,stand,2,4
+CES201712,16892,1130,brick,je kan er op staan zodat je iets langer bent en beter kunt zien,staan zodat langer bent beter zien,Stand tall so you can see better,3,4
+CES201712,17512,1218,brick,stadspoort maken,stadspoort,city gate,1,5
+CES201712,17284,1176,brick,stapel,stapel,pile,1,5
+CES201712,17165,1135,brick,stapelen,stapelen,stack,1,5
+CES201712,17100,1148,brick,stapelen,stapelen,stack,1,5
+CES201712,17260,1165,brick,stapelen,stapelen,stack,1,5
+CES201712,17289,1174,brick,stapelen,stapelen,stack,1,5
+CES201712,17399,1191,brick,stapelen ,stapelen,stack,1,5
+CES201712,17369,1192,brick,stapelen,stapelen,stack,1,5
+CES201712,17393,1204,brick,stapelen,stapelen,stack,1,5
+CES201712,17528,1216,brick,stapelen,stapelen,stack,1,5
+CES201712,17595,1221,brick,stapelen,stapelen,stack,1,5
+CES201712,18423,1234,brick,Stapelen,stapelen,stack,1,5
+CES201712,17210,1170,brick,steen,steen,stone,1,5
+CES201712,17238,1177,brick,steen,steen,stone,1,5
+CES201712,17543,1223,brick,steen,steen,stone,1,5
+CES201712,17608,1225,brick,steen,steen,stone,1,5
+CES201712,17128,1167,brick,steenoven,steenoven,brick oven,2,3
+CES201712,17511,1218,brick,steenoven maken,steenoven,brick oven,2,3
+CES201712,17571.2,1224,brick, stenen stapelen,stenen stapelen,stacking stones,1,5
+CES201712,17628,1225,brick,stevig,stevig,firm,0,0
+CES201712,16965,1141,brick,stoel,stoel,chair,3,4
+CES201712,17014,1142,brick,stoel,stoel,chair,3,4
+CES201712,16981,1145,brick,stoel,stoel,chair,3,4
+CES201712,16995,1146,brick,stoel,stoel,chair,3,4
+CES201712,17176,1173,brick,stoel,stoel,chair,3,4
+CES201712,17277,1179,brick,stoel,stoel,chair,3,4
+CES201712,17387,1190,brick,stoel,stoel,chair,3,4
+CES201712,17372,1202,brick,stoel,stoel,chair,3,4
+CES201712,17580,1219,brick,stoel,stoel,chair,3,4
+CES201712,17549,1223,brick,stoel,stoel,chair,3,4
+CES201712,16885,1129,brick, een stoel bouwen,stoel bouwen,building chair,3,4
+CES201712,16934,1139,brick,stoep,stoep,sidewalk,2,5
+CES201712,17129,1167,brick,stoep,stoep,sidewalk,2,5
+CES201712,17230,1172,brick,stoep maken,stoep,sidewalk,2,5
+CES201712,16935,1139,brick,stoepkrijt,stoepkrijt,sidewalk chalk,4,5
+CES201712,17096,1148,brick,straat,straat,street,1,5
+CES201712,17098,1148,brick,straat,straat,street,1,5
+CES201712,17194,1158,brick,straat maken,straat,street,1,5
+CES201712,17126,1167,brick,straat,straat,street,1,5
+CES201712,17239,1177,brick,straat,straat,street,1,5
+CES201712,17318.2,1187,brick, straat,straat,street,1,5
+CES201712,17359,1194,brick,straat,straat,street,1,5
+CES201712,17375,1202,brick,straat,straat,street,1,5
+CES201712,17666,1226,brick,straat maken,straat,street,1,5
+CES201712,17525.2,1211,brick, straat aanleggen,straat aanleggen,build street,1,5
+CES201712,17835,1232,brick,straat aanleggen,straat aanleggen,build street,1,5
+CES201712,17235,1172,brick,straten maken,straten,streets,1,5
+CES201712,17575,1224,brick,straten beleggen,straten beleggen,cover streets,1,5
+CES201712,17117,1150,brick,straten leggen,straten leggen,laying streets,1,5
+CES201712,17478,1188,brick,straten leggen,straten leggen,laying streets,1,5
+CES201712,17453,1217,brick,stratenmaker,stratenmaker,paver,1,5
+CES201712,16950,1143,brick,studentenbank,studentenbank,student bench,3,4
+CES201712,17404,1191,brick,stuk maken,stuk,piece,2,4
+CES201712,17267,1186,brick,iets stuk gooien,stuk gooien,throw pieces,2,4
+CES201712,17570,1206,brick,in stukken slaan en van de stukken kunstwerk maken,stukken slaan stukken kunstwerk,pieces smash pieces work of art,3,3
+CES201712,17504,1209,brick,supreme collectable van maken,Supreme collectable,Supreme collectable,3,3
+CES201712,16980,1145,brick,tafel,tafel,table,3,4
+CES201712,17149,1157,brick,tafel,tafel,table,3,4
+CES201712,17446,1195,brick,als tafel gebruike,tafel,table,3,4
+CES201712,18452,1238,brick,tafel maken,tafel,table,3,4
+CES201712,16886,1129,brick,een tafel bouwen,tafel bouwen,build table,3,4
+CES201712,17649,1220,brick,als tafeltje,tafeltje,table,3,4
+CES201712,17164,1135,brick,in je tas stoppen,tas stoppen,stop bag,3,3
+CES201712,17290,1174,brick,tegelen,tegelen,tiling,1,5
+CES201712,17560,1222,brick,tegen een ruit gooien,tegen ruit gooien,throw against window,2,4
+CES201712,17110,1148,brick,als tegengewicht,tegengewicht,counterweight,2,4
+CES201712,16895,1130,brick,je kan er iets mee tegenhouden/dicht houden,tegenhouden dicht houden,stop keep close,2,4
+CES201712,17831,1232,brick,tekenen ,tekenen,draw,3,3
+CES201712,17218,1144,brick,Ter decoratie,ter decoratie,for decoration,3,3
+CES201712,17050,1151,brick,tillen,tillen,lift,2,3
+CES201712,17440,1195,brick,timmeren,timmeren,carpentry,3,4
+CES201712,17555,1213,brick,tochtstopper,tochtstopper,draft stopper,4,3
+CES201712,16876,1128,brick,toren maken,toren,tower,1,5
+CES201712,17041,1134,brick,toren,toren,tower,1,5
+CES201712,17358,1194,brick,toren,toren,tower,1,5
+CES201712,17538,1212,brick,toren maken,toren,tower,1,5
+CES201712,17501,1215,brick,toren,toren,tower,1,5
+CES201712,17684,1231,brick,toren maken,toren,tower,1,5
+CES201712,17522,1207,brick,toren van bouwen,toren bouwen,build tower,1,5
+CES201712,17506,1209,brick,toren bouwen,toren bouwen,build tower,1,5
+CES201712,18458,1238,brick,toren bouwen,toren bouwen,build tower,1,5
+CES201712,17688,1231,brick,met een touw vastbinden aan iemands voet om diegene te laten verdrinken,touw vastbinden iemands voet diegene laten verdrinken,tie rope to someone's foot to allow that person to drown,3,3
+CES201712,16928,1137,brick,Je kan ermee trainen,trainen,train,3,4
+CES201712,17518,1207,brick,trap van maken,trap,stairs,1,4
+CES201712,17409,1203,brick,trapje op iets langer te zijn,trapje langer,stairs longer,1,4
+CES201712,17513,1218,brick,trappen maken,trappen,kick,1,4
+CES201712,17479,1188,brick,trappen bouwen,trappen bouwen,building stairs,1,4
+CES201712,17429,1199,brick,Als traptrede,traptrede,stair step,1,4
+CES201712,17039,1134,brick,tuin,tuin,garden,1,4
+CES201712,17498,1205,brick,tuin,tuin,garden,1,4
+CES201712,17174,1168,brick,tuindecoratie van maken,tuindecoratie,garden decoration,3,4
+CES201712,17013,1153,brick,als tuinpad gebruiken,tuinpad,garden path,1,5
+CES201712,17104,1148,brick,tussenmuur,tussenmuur,dividing wall,1,5
+CES201712,17578,1219,brick,vaas,vaas,vase,4,3
+CES201712,17466,1201,brick,over vallen,vallen,traps,2,3
+CES201712,17833,1232,brick,vangen,vangen,catch,2,3
+CES201712,17327,1180,brick,vasthouden,vasthouden,cling,2,3
+CES201712,17631,1225,brick,veilig,veilig,safe,0,0
+CES201712,17541,1212,brick,ver gooien,ver gooien,throw far,2,4
+CES201712,17406,1191,brick,verbrijzelen,verbrijzelen,shatter,2,4
+CES201712,17302,1189,brick,Verdedigen,verdedigen,defend,2,4
+CES201712,17124,1162,brick,verdedigingswerk,verdedigingswerk,defense work,2,4
+CES201712,17105,1148,brick,verf mee maken,verf,paint,4,3
+CES201712,17568,1206,brick,verf van maken,verf,paint,4,3
+CES201712,17589,1219,brick,vergooien,vergooien,throw away,2,4
+CES201712,17181,1173,brick,vergruizelen voor grind,vergruizelen grind,crush gravel,3,4
+CES201712,17071,1155,brick,verhitten om mee te koken,verhitten koken,heating cooking,3,4
+CES201712,16937,1139,brick,als verhoging gebruiken,verhoging,elevation,2,4
+CES201712,17132.4,1160,brick, verhoging maken,verhoging,elevation,2,4
+CES201712,17539,1212,brick,verhoging,verhoging,elevation,2,4
+CES201712,17671,1229,brick,verhoging,verhoging,elevation,2,4
+CES201712,18486,1241,brick,verhoging,verhoging,elevation,2,4
+CES201712,17572,1224,brick,Verkopen,verkopen,sell,2,4
+CES201712,18461,1238,brick,verkopen,verkopen,sell,2,4
+CES201712,17299,1189,brick,verlengstuk,verlengstuk,extension,2,4
+CES201712,17345,1175,brick,je kunt er iets mee vermalen,vermalen,grind,2,4
+CES201712,16985,1145,brick,vermalen tot poeder en in een andere vorm gieten,vermalen poeder vorm gieten,crushed powder mold casting,2,4
+CES201712,17066,1151,brick,verpulveren ,verpulveren,pulverize,2,4
+CES201712,17319,1187,brick,versieren en als decoratie in de tuin zetten,versieren decoratie tuin zetten,decorate decoration garden put,3,3
+CES201712,17625,1225,brick,versiering,versiering,decoration,3,3
+CES201712,18420,1233,brick,versteviging,versteviging,reinforcement,2,4
+CES201712,17005,1153,brick,verstoppen,verstoppen,hide,3,3
+CES201712,17402,1191,brick,iemand verwonden,verwonden,injure,2,4
+CES201712,17574,1224,brick,Verzamelen,verzamelen,collect,3,3
+CES201712,17315,1181,brick,verzwaarmiddel,verzwaar middel,aggravating agent,2,4
+CES201712,16902,1131,brick,vijzel,vijzel,mortar,3,3
+CES201712,17089,1156,brick,vijzel,vijzel,mortar,3,3
+CES201712,17619,1225,brick,vila,villa,villa,1,5
+CES201712,17006,1142,brick,vloer,vloer,floor,1,5
+CES201712,17122,1162,brick,vloer,vloer,floor,1,5
+CES201712,17308,1183,brick,als vloer,vloer,floor,1,5
+CES201712,16944,1143,brick,voedsel,voedsel,food,4,1
+CES201712,17416,1203,brick,voeten steuntje,voeten steuntje,foot support,2,4
+CES201712,17507,1209,brick,voetpad maken,voetpad,footpath,1,5
+CES201712,17435,1210,brick,voetsteun,voetsteun,footrest,2,4
+CES201712,17053,1149,brick,voorwerp om mee te gooien,voorwerp gooien,throw object,2,4
+CES201712,17347,1193,brick,voorwerp om te gooien,voorwerp gooien,throw object,2,4
+CES201712,17292,1174,brick,gebruiken om voorwerpen te laten zinken,voorwerpen laten zinken,sink objects,2,4
+CES201712,17295,1174,brick,vormpjes maken in de grond,vormpjes grond,shapes soil,3,3
+CES201712,17249,1177,brick,vulkaan,vulkaan,volcano,4,1
+CES201712,17198,1158,brick,vuur mee maken,vuur,firework,3,3
+CES201712,16916,1136,brick,wapen,wapen,weapon,2,4
+CES201712,16972,1138,brick,Wapen,wapen,weapon,2,4
+CES201712,16939,1143,brick,Wapen,wapen,weapon,2,4
+CES201712,17031,1147,brick,wapen,wapen,weapon,2,4
+CES201712,17084,1156,brick,wapen,wapen,weapon,2,4
+CES201712,17197,1158,brick,als wapen gebruiken,wapen,weapon,2,4
+CES201712,17157,1161,brick,wapen,wapen,weapon,2,4
+CES201712,17130.2,1164,brick, wapen,wapen,weapon,2,4
+CES201712,17201,1178,brick,wapen,wapen,weapon,2,4
+CES201712,17278,1179,brick,wapen,wapen,weapon,2,4
+CES201712,17313,1181,brick,wapen,wapen,weapon,2,4
+CES201712,17314,1183,brick,als wapen ,wapen,weapon,2,4
+CES201712,17389,1190,brick,wapen,wapen,weapon,2,4
+CES201712,17424,1199,brick,Wapen,wapen,weapon,2,4
+CES201712,17407,1203,brick,wapen,wapen,weapon,2,4
+CES201712,17482,1208,brick,wapen,wapen,weapon,2,4
+CES201712,17558,1213,brick,wapen,wapen,weapon,2,4
+CES201712,17495,1215,brick,wapen,wapen,weapon,2,4
+CES201712,18419,1233,brick,wapen,wapen,weapon,2,4
+CES201712,17695,1230,brick,in wasmachine doen om te verzwaren,wasmachine verzwaren,weigh down washing machine,2,4
+CES201712,17023,1153,brick,in water gooien,water gooien,throw water,2,3
+CES201712,17680,1231,brick,wc bak verkleinen,wc bak verkleinen,Reduce toilet bowl,5,3
+CES201712,16941,1143,brick,weddingcrasher,wedding crasher,wedding crasher,5,1
+CES201712,17037,1134,brick,weg,weg,road,1,5
+CES201712,17101,1148,brick,weg,weg,road,1,5
+CES201712,17445,1195,brick,weg maken,weg,road,1,5
+CES201712,17696,1230,brick,weg maken,weg,road,1,5
+CES201712,17517,1207,brick,weggetje bouwen,weggetje bouwen,build road,1,5
+CES201712,17102,1148,brick,wegopbreking,wegopbreking,roadblock,2,4
+CES201712,17095,1148,brick,werk,werk,work,0,0
+CES201712,17030,1147,brick,werpmateriaal,werpmateriaal,throwing equipment,2,4
+CES201712,16951,1143,brick,Wielstopper,wielstopper,wheel stopper,2,4
+CES201712,17621,1225,brick,woning,woning,home,1,5
+CES201712,17217,1144,brick,Op zijl op grond ,zeil grond,sail ground,2,4
+CES201712,17072,1155,brick,zelfverdediging,zelfverdediging,self defense,2,4
+CES201712,16894,1130,brick,je kan het gebruiken om iets op te zetten,zetten,make,2,4
+CES201712,17348,1193,brick,zink snel,zink snel,sink quickly,2,4
+CES201712,17397,1204,brick,zinken,zinken,sink,2,4
+CES201712,16919,1136,brick,zitje,zitje,seat,2,4
+CES201712,16967,1145,brick,zitten,zitten,sit,2,4
+CES201712,17180,1173,brick,zitten,zitten,sit,2,4
+CES201712,17448,1195,brick,op zitten,zitten,sit,2,4
+CES201712,17670,1229,brick,op zitten,zitten,sit,2,4
+CES201712,16908.2,1132,brick, zodat het niet wegwaait,zodat niet wegwaait,so that it doesn't blow away,2,4
+CES201712,18441,1237,brick,zwaar iets wat je op iets kunt leggen die weg kan vliegen ,zwaar leggen weg vliegen,lay heavy and fly away,2,4
+CES201712,17488,1208,brick,zwembad,zwembad,swimming pool,1,4
+CES201712,17582,1219,brick,zwembad,zwembad,swimming pool,1,4
+CES201712,18453,1238,brick,zwembad maken,zwembad,swimming pool,1,4
+CES201712,16887,1129,brick,een zwembad bouwen,zwembad bouwen,building swimming pool,1,4

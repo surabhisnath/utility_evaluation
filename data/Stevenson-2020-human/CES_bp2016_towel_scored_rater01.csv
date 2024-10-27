@@ -1,0 +1,315 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater01,utility_rater01
+CES201606,639,18,towel,om je af te drogen ,af drogen,dry,1,5
+CES201606,723,19,towel,als afbakening van iets,afbakening,demarcation,3,3
+CES201606,1518,38,towel,afdekken van fruit,afdekken fruit,cover fruit,2,5
+CES201606,722,19,towel,afdrogen,afdrogen,dry,1,5
+CES201606,834,20,towel,afdrogen,afdrogen,dry,1,5
+CES201606,1395,35,towel,afdrogen,afdrogen,dry,1,5
+CES201606,1553,39,towel,afdrogen,afdrogen,dry,1,5
+CES201606,1989,48,towel,afdrogen,afdrogen,dry,1,5
+CES201606,2101,51,towel,afsluiting,afsluiting,closing,3,3
+CES201606,1556,39,towel,afstoffen,afstoffen,dust off,2,4
+CES201606,325,14,towel,de afwas mee afdrogen,afwas afdrogen,dry dishes,1,5
+CES201606,2106.1,51,towel,of iets anders schoon te maken,anders schoon,otherwise clean,1,4
+CES201606,1786,45,towel,baby-inwikkeldoek voor om je lichaam,Baby inwikkel doek lichaam,Baby wrapping cloth body,3,3
+CES201606,1338,30,towel,badlaken,badlaken,bath towel,2,5
+CES201606,200,12,towel,badmat,badmat,bath mat,2,5
+CES201606,2103,51,towel,of badmat,badmat,bath mat,2,5
+CES201606,556,17,towel,bakken,bakken,baking,2,2
+CES201606,1098,25,towel,bandana,bandana,bandanna,2,4
+CES201606,730,19,towel,als bedekking van lichaamsdelen,bedekking lichaamsdelen,covering body parts,2,4
+CES201606,558,17,towel,begraven,begraven,bury,3,3
+CES201606,195,12,towel,behang,behang,wallpaper,2,3
+CES201606,644,18,towel,als bekleding van de bank ,bekleding bank,sofa upholstery,2,4
+CES201606,491,16,towel,bescherming ,bescherming,protection,2,4
+CES201606,1597,40,towel,bescherming voor glaswerk bij het verhuizen,bescherming glaswerk verhuizen,moving glassware protection,2,5
+CES201606,1148,26,towel,bestek inwikkelen voor een picknick,bestek inwikkelen picknick,cutlery wrapping picnic,2,5
+CES201606,1280,29,towel,BH,bh,bra,3,2
+CES201606,326,14,towel,als blinddoek,blinddoek,blindfold,2,5
+CES201606,1785,45,towel,blinddoek,blinddoek,blindfold,2,5
+CES201606,1865,46,towel,blinddoek,blinddoek,blindfold,2,5
+CES201606,1936,47,towel,als blinddoek,blinddoek,blindfold,2,5
+CES201606,1443,36,towel,of als bodem,bodem,soil,2,2
+CES201606,1522,38,towel,brand blussen,brand blussen,extinguish fire,3,3
+CES201606,490,16,towel,brandmateriaal,brandmateriaal,burning material,3,3
+CES201606,1396,35,towel,ietsbreekbaars erin verpakken,breekbaars erin verpakken,packing fragile items in it,2,4
+CES201606,554,17,towel,breken,breken,break,2,2
+CES201606,192,12,towel,broek,broek,trousers,2,2
+CES201606,255,13,towel,of broek,broek,trousers,2,2
+CES201606,1094,25,towel,broek,broek,trousers,2,2
+CES201606,1333,30,towel,buitenlucht,buitenlucht,outside air,0,0
+CES201606,727,19,towel,als camouflagemateriaal,camouflagemateriaal,camouflage material,3,3
+CES201606,729.1,19,towel,om een dansje mee te doen,dansje,dance,3,3
+CES201606,949,23,towel,dekbed,dekbed,duvet,2,4
+CES201606,415,15,towel,deken,deken,blanket,2,5
+CES201606,488,16,towel,deken,deken,blanket,2,5
+CES201606,1475,37,towel,deken,deken,blanket,2,5
+CES201606,1557,39,towel,deken,deken,blanket,2,5
+CES201606,1674,43,towel,deken,deken,blanket,2,5
+CES201606,1729,44,towel,Deken,deken,blanket,2,5
+CES201606,1778,45,towel,deken,deken,blanket,2,5
+CES201606,328,14,towel,als dekentje,dekentje,blanket,2,5
+CES201606,726,19,towel,als dekentje,dekentje,blanket,2,5
+CES201606,1442,36,towel,als deksel gebruiken,deksel,lid,2,3
+CES201606,2106.2,51,towel, desnoods de vloer of pannen,desnoods vloer pannen,pan floor if necessary,0,0
+CES201606,2102,51,towel,deurmat,deurmat,doormat,2,5
+CES201606,420,15,towel,deurstopper,deurstopper,door stopper,3,3
+CES201606,1192,27,towel,deurstop,deurstopper,door stopper,3,3
+CES201606,2079,50,towel,doek om op te schilderen,doek schilderen,canvas painting,3,4
+CES201606,327.2,14,towel, dan doet het pijn),doet pijn,hurt,0,0
+CES201606,648,18,towel,als douche gordijn ,douche gordijn,shower curtain,2,2
+CES201606,201,12,towel,douchegordijn,douchegordijn,shower curtain,2,2
+CES201606,335,14,towel,als douchegordijn ,douchegordijn,shower curtain,2,2
+CES201606,1472,37,towel,douchegordijn,douchegordijn,shower curtain,2,2
+CES201606,1144,26,towel,dragen als jurk,dragen jurk,wear dress,2,4
+CES201606,1232,28,towel,iets droog te maken,droog,dry,1,5
+CES201606,641,18,towel,voor het droog maken van de vloer ,droog vloer,dry floor,2,5
+CES201606,203,12,towel,dweil,dweil,mop,2,5
+CES201606,484,16,towel,dweil,dweil,mop,2,5
+CES201606,1046,24,towel,dweil,dweil,mop,2,5
+CES201606,1281,29,towel,dweil,dweil,mop,2,5
+CES201606,1601,40,towel,dweil,dweil,mop,2,5
+CES201606,1990,48,towel,aan elkaar knopen voor bij brand te ontsnappen,elkaar knopen brand ontsnappen,knot together fire escape,3,4
+CES201606,840,20,towel,aan elkaar knopen en uit de gevangenis ontsnappen,elkaar knopen gevangenis ontsnappen,knot together prison escape,3,4
+CES201606,725,19,towel,ergens overheen leggen ,ergens overheen leggen,put over something,2,4
+CES201606,839.1,20,towel,iets erop schrijven,erop schrijven,write on it,3,4
+CES201606,1330,30,towel,fohn,föhn,hair dryer,4,1
+CES201606,253,13,towel,een fort bouwen,fort bouwen,build fort,3,4
+CES201606,1676,43,towel,gat in knippen en als shirt,gat knippen shirt,hole cut shirt,2,4
+CES201606,1987,48,towel,geluidsdemping in kamer,geluidsdemping kamer,soundproofing room,3,3
+CES201606,551,17,towel,gooien,gooien,throw,2,3
+CES201606,196,12,towel,gordijn,gordijn,curtain,2,3
+CES201606,412,15,towel,gordijn,gordijn,curtain,2,3
+CES201606,642,18,towel,als gordijn ,gordijn,curtain,2,3
+CES201606,948,23,towel,gordijn,gordijn,curtain,2,3
+CES201606,1045,24,towel,gordijn,gordijn,curtain,2,3
+CES201606,1594,40,towel,gordijn,gordijn,curtain,2,3
+CES201606,1727,44,towel,Gordijn,gordijn,curtain,2,3
+CES201606,1775,45,towel,gordijn,gordijn,curtain,2,3
+CES201606,2100,51,towel,gordijn,gordijn,curtain,2,3
+CES201606,330,14,towel,als gordijntje,gordijntje,curtain,2,3
+CES201606,733,19,towel,voor in je haar als een soort hoed,haar soort hoed,hair kind of hat,2,4
+CES201606,493,16,towel,haarband,haarband,hair band,2,4
+CES201606,649,18,towel,om een haarband van te maken ,haarband,hair band,2,4
+CES201606,1469,37,towel,haarband,haarband,hair band,2,4
+CES201606,260,13,towel,je kan veel handdoeken aan elkaar knopen en uit het raam klimmen,handdoeken elkaar knopen raam klimmen,towels knot together window climbing,3,4
+CES201606,1684,43,towel,hangmat,hangmat,hammock,2,3
+CES201606,1860,46,towel,hangmat,hangmat,hammock,2,3
+CES201606,2076,50,towel,hangmat voor baby of klein dier,hangmat baby klein dier,hammock baby small animal,2,4
+CES201606,1440,36,towel,hangmatje van maken,hangmatje,hammock,2,3
+CES201606,837,20,towel,hangop mee maken,hangop,curd,3,5
+CES201606,2081,50,towel,hangop in laten uitlekken,hangop laten uitlekken,let it drain while hanging,3,5
+CES201606,729.2,19,towel, heen en weer slingeren,heen weer slingeren,swing back and forth,3,4
+CES201606,957,23,towel,hoed,hoed,hat,2,5
+CES201606,973,22,towel,over je hoofd tegen zon beschermen,hoofd tegen zon beschermen,protect head from sun,2,5
+CES201606,422,15,towel,hoofdbescherming tegen de zon,hoofdbescherming tegen zon,head protection against sun,2,5
+CES201606,1097,25,towel,hoofddoek,hoofddoek,headscarf,2,5
+CES201606,1196,27,towel,hoofddoek,hoofddoek,headscarf,2,5
+CES201606,1598,40,towel,hoofddoek,hoofddoek,headscarf,2,5
+CES201606,1683,43,towel,hoofddoek,hoofddoek,headscarf,2,5
+CES201606,1473,37,towel,hoofdkussen,hoofdkussen,pillow,2,4
+CES201606,2080.1,50,towel,een hut mee bouwen voor je peuter,hut bouwen peuter,building hut toddler,3,5
+CES201606,1145,26,towel,inzetten als vloerkleed,inzetten vloerkleed,insert carpet,2,5
+CES201606,1096,25,towel,jas,jas,jacket,2,3
+CES201606,1932,47,towel,als jas ,jas,jacket,2,3
+CES201606,324,14,towel,jezelf afdrogen,jezelf afdrogen,dry yourself,1,5
+CES201606,557,17,towel,jongleren,jongleren,juggling,4,3
+CES201606,416,15,towel,als je hem op de juiste manier vouwt kun je er ook een zwaan van maken,juiste manier vouwt kun zwaan,right way to fold your swan,3,4
+CES201606,190,12,towel,jurk,jurk,dress,2,4
+CES201606,254,13,towel,een jurk mee maken,jurk,dress,2,4
+CES201606,487,16,towel,jurk,jurk,dress,2,4
+CES201606,646,18,towel,als jurk ,jurk,dress,2,4
+CES201606,946,23,towel,jurk,jurk,dress,2,4
+CES201606,1279,29,towel,jurk,jurk,dress,2,4
+CES201606,1637,42,towel,als jurk gebruiken ,jurk,dress,2,4
+CES201606,1521,38,towel,als jurk dragen,jurk dragen,wear dress,2,4
+CES201606,843,20,towel,katten verjagen,katten verjagen,chase away cats,2,4
+CES201606,1335,30,towel,keukenpapier,keukenpapier,paper towel,2,4
+CES201606,1677,43,towel,kleding,kleding,clothing,2,3
+CES201606,2099.1,51,towel,als kledingstuk,kledingstuk,garment,2,3
+CES201606,947,23,towel,kleed,kleed,dress,2,5
+CES201606,1931,47,towel,kleed,kleed,dress,2,5
+CES201606,971,22,towel,kleed om op te zitten,kleed zitten,sitting rug,2,5
+CES201606,492,16,towel,kleedhokje,kleedhokje,changing room,2,4
+CES201606,194,12,towel,kleedje,kleedje,rug,2,5
+CES201606,331,14,towel,als kleedje,kleedje,rug,2,5
+CES201606,972,22,towel,als knapzak,knapzak,knapsack,2,5
+CES201606,1441,36,towel,knapzak knooen,knapzak knopen,knapsack buttons,2,5
+CES201606,1864,46,towel,knevel,knevel,gag,3,5
+CES201606,731,19,towel,als knipmateriaal ,knipmateriaal,cutting material,3,4
+CES201606,2078,50,towel,koelte mee toewuiven,koelte toewuiven,fan cool,2,4
+CES201606,1336,30,towel,koffiezakjes,koffiezakje,coffee bag,3,3
+CES201606,1147,26,towel,om kostbare breekbare spullen (vazen e.d. in te vervoeren),kostbare breekbare spullen,precious fragile items,2,5
+CES201606,1776,45,towel,kunst,kunst,art,3,3
+CES201606,1991,48,towel,kunstobject (veelkleurig wandtapijt),kunstobject,art object,3,4
+CES201606,732,19,towel,om iets kunstzinnings mee te maken,kunstzinnigs,artistic,3,3
+CES201606,414,15,towel,kussen,kussen,pillow,2,5
+CES201606,489,16,towel,kussen,kussen,pillow,2,5
+CES201606,950,23,towel,kussen,kussen,pillow,2,5
+CES201606,1051,24,towel,kussen,kussen,pillow,2,5
+CES201606,1193,27,towel,kussen,kussen,pillow,2,5
+CES201606,1636,42,towel,als kussen gebruiken ,kussen,pillow,2,5
+CES201606,1728,44,towel,Kussen,kussen,pillow,2,5
+CES201606,1933,47,towel,als kussen,kussen,pillow,2,5
+CES201606,329,14,towel,als kussentje (als je 'm opvouwt),kussentje,cushion,2,5
+CES201606,1332,30,towel,laken,laken,bed sheet,2,4
+CES201606,1474,37,towel,laken,laken,bed sheet,2,4
+CES201606,1682,43,towel,of een lang touw uberhaupt,lang touw überhaupt,long rope at all,2,4
+CES201606,1397,35,towel,lege ruimtes opvullen,lege ruimtes opvullen,fill empty spaces,2,3
+CES201606,1236,28,towel,om op te liggen,liggen,lie,2,5
+CES201606,1554,39,towel,liggen,liggen,lie,2,5
+CES201606,1638,42,towel,op liggen ,liggen,lie,2,5
+CES201606,1278,29,towel,luier,luier,diaper,2,4
+CES201606,1787,45,towel,luier,luier,diaper,2,4
+CES201606,1339,30,towel,luiers,luiers,diapers,2,4
+CES201606,1340,30,towel,maandverband,maandverband,sanitary pads,2,4
+CES201606,336,14,towel,als mat waar je je schoenen aan afveegt,mat waar schoenen afveegt,mat where to wipe shoes,2,5
+CES201606,1437,36,towel,Meenemen in de galaxy,meenemen galaxy,take galaxy,3,3
+CES201606,1337,30,towel,meerdere washandjes,meerdere washandjes,several washcloths,2,5
+CES201606,640,18,towel,om mensen te vcerstikken ,mensen verstikken,suffocate people,2,3
+CES201606,1862,46,towel,moordwapen,moordwapen,murder weapon,2,3
+CES201606,2032,49,towel,muggen verjagen,muggen verjagen,repel mosquitoes,2,4
+CES201606,1681.2,43,towel, naaien en je hebt een springtouw,naaien hebt springtouw,sewing you have jump rope,4,4
+CES201606,2075,50,towel,nat oprollen en iemand petsjes mee geven,nat oprollen petsjes geven,give wet roll-up pets,2,5
+CES201606,2105,51,towel,nat maken om je schoon te maken,nat schoon,wet clean,2,5
+CES201606,728,19,towel,om iemand mee nat te spatten,nat spatten,wet splashes,2,5
+CES201606,2104.2,51,towel, nat maken ter verkoeling,nat ter verkoeling,wet for cooling,2,5
+CES201606,2082,50,towel,natmaken en jezelf verkoelen,natmaken jezelf verkoelen,wet yourself cool yourself,2,5
+CES201606,2104.1,51,towel,natte doek,natte doek,wet towel,2,5
+CES201606,1520,38,towel,je neus in snuiten,neus snuiten,blowing nose,2,5
+CES201606,1985,48,towel,onder slapen,onder slapen,sleeping under,2,5
+CES201606,560,17,towel,onder water zetten,onder water zetten,flood,2,3
+CES201606,952,23,towel,onderbroek,onderbroek,underpants,2,3
+CES201606,1595,40,towel,onderzetter,onderzetter,coaster,2,4
+CES201606,559,17,towel,opgraven,opgraven,dig up,2,3
+CES201606,974,22,towel,oprollen en als kruk gebruiken,oprollen kruk,roll up stool,3,3
+CES201606,553,17,towel,\toren maken,oren,ears,3,3
+CES201606,1599,40,towel,pannenlap,pannenlap,pot holder,2,5
+CES201606,958.1,23,towel,ipv paper,paper,paper,2,3
+CES201606,1091,25,towel,parachute,parachute,parachute,4,1
+CES201606,1093,25,towel,paraplu,paraplu,umbrella,3,2
+CES201606,339,14,towel,als paraplu tegen de regen,paraplu tegen regen,umbrella against rain,3,2
+CES201606,1558,39,towel,als parasol,parasol,Beach umbrella,3,3
+CES201606,1935.1,47,towel,parasol,parasol,Beach umbrella,3,3
+CES201606,340,14,towel,als parasol tegen de zon,parasol tegen zon,parasol against sun,3,3
+CES201606,334,14,towel,je kunt er op picknicken,picknicken,have picnic,2,5
+CES201606,1047,24,towel,picknickkleed,picknickkleed,picnic blanket,2,5
+CES201606,199,12,towel,placemat,placemat,placemat,2,5
+CES201606,417,15,towel,poetsdoek,poetsdoek,cleaning cloth,2,5
+CES201606,1596,40,towel,poetsdoek,poetsdoek,cleaning cloth,2,5
+CES201606,1988,48,towel,raam verduisteren,raam verduisteren,darken window,2,3
+CES201606,953,23,towel,ramenlap,ramen lap,windows rag,2,5
+CES201606,1681.1,43,towel,in reepjes knippen,reepjes knippen,cut strips,2,3
+CES201606,1934.2,47,towel, regenjas,regenjas,raincoat,3,2
+CES201606,191,12,towel,rok,rok,skirt,2,5
+CES201606,1099,25,towel,rok,rok,skirt,2,5
+CES201606,1197,27,towel,rok,rok,skirt,2,5
+CES201606,1471,37,towel,rok,rok,skirt,2,5
+CES201606,1779,45,towel,rok,rok,skirt,2,5
+CES201606,332,14,towel,als rok/jurk,rok jurk,skirt dress,2,5
+CES201606,423,15,towel,rokje,rokje,skirt,2,5
+CES201606,645,18,towel,als rokje ,rokje,skirt,2,5
+CES201606,1050,24,towel,rokje,rokje,skirt,2,5
+CES201606,1675,43,towel,rokje,rokje,skirt,2,5
+CES201606,2099.2,51,towel, rokje hoofddoek,rokje hoofddoek,skirt headscarf,2,5
+CES201606,413,15,towel,schaduwmaker,schaduwmaker,shadow maker,2,3
+CES201606,1233,28,towel,iets schoon te maken,schoon,beautiful,2,5
+CES201606,1730,44,towel,schoonmaakdoek,schoonmaakdoek,cleaning cloth,2,5
+CES201606,836,20,towel,schoonmaken,schoonmaken,clean,2,5
+CES201606,1639,42,towel,schoonmaken,schoonmaken,clean,2,5
+CES201606,1934.1,47,towel,schuilen tegen de regen,schuilen tegen regen,shelter from rain,3,3
+CES201606,1146,26,towel,seksdoekje om je matras een beetje schoon te houden,seksdoekje matras beetje schoon houden,sex cloth keep mattress little clean,2,5
+CES201606,1861,46,towel,seksspeeltje,seksspeeltje,sex toy,3,3
+CES201606,193,12,towel,shirt,shirt,shirt,2,4
+CES201606,647,18,towel,als shirtje ,shirtje,shirt,2,4
+CES201606,486,16,towel,sjaal,sjaal,shawl,2,5
+CES201606,844,20,towel,iemand slaa,slaan,beat,2,5
+CES201606,1635,42,towel,Slaan,slaan,beat,2,5
+CES201606,1277,29,towel,slabbetje,slabbetje,bib,2,5
+CES201606,1439,36,towel,gebruiken als slagwapen,slagwapen,melee weapon,3,3
+CES201606,734,19,towel,om een slinger te maken van handdoeken,slinger handdoeken,garland towels,2,4
+CES201606,839.2,20,towel, als spandoek,spandoek,banner,2,4
+CES201606,204,12,towel,spons,spons,sponge,2,4
+CES201606,650,18,towel,als strand handdoek,strand handdoek,beach towel,2,5
+CES201606,257,13,towel,of t shirt,t shirt,T-shirt,2,4
+CES201606,1095,25,towel,t-shirt,t shirt,T-shirt,2,4
+CES201606,2080.2,50,towel, aan de tafel hangen,tafel hangen,hang on table,2,3
+CES201606,198,12,towel,tafelkleed,tafelkleed,tablecloth,2,5
+CES201606,337,14,towel,als tafelkleed,tafelkleed,tablecloth,2,5
+CES201606,1194,27,towel,tafelkleed,tafelkleed,tablecloth,2,5
+CES201606,1476,37,towel,tafelkleed,tafelkleed,tablecloth,2,5
+CES201606,1780,45,towel,tafelkleed,tafelkleed,tablecloth,2,5
+CES201606,1519,38,towel,tafelkleedje,tafelkleedje,tablecloth,2,5
+CES201606,1048,24,towel,tafellaken,tafellaken,tablecloth,2,5
+CES201606,494,16,towel,tapijt,tapijt,carpet,2,4
+CES201606,643,18,towel,als tapijt ,tapijt,carpet,2,4
+CES201606,197,12,towel,tas,tas,bag,2,3
+CES201606,1986,48,towel,tegen verbranden in de zon,tegen verbranden zon,against sunburn,2,3
+CES201606,1935.2,47,towel, tegen de zon,tegen zon,against sun,2,3
+CES201606,2077,50,towel,tegen de zon voor het raam hangen,tegen zon raam hangen,hang against sunny window,2,5
+CES201606,421,15,towel,tegenhouden van de tocht onder de deur,tegenhouden tocht onder deur,stop drafts under door,2,4
+CES201606,958.2,23,towel, dus tekendoek,tekendoek,drawing cloth,3,3
+CES201606,735,19,towel,iets op tekenen ,tekenen,draw,3,3
+CES201606,485,16,towel,tent,tent,tent,2,3
+CES201606,1470,37,towel,tent,tent,tent,2,3
+CES201606,1783,45,towel,tent,tent,tent,2,3
+CES201606,1863,46,towel,tent,tent,tent,2,3
+CES201606,252,13,towel,tentzeil ,tentzeil,tent canvas,2,3
+CES201606,724,19,towel,ter bescherming van iets (pot),ter bescherming,for protection,2,5
+CES201606,951,23,towel,theedoek,theedoek,dishcloth,2,5
+CES201606,1331,30,towel,theedoek,theedoek,dishcloth,2,5
+CES201606,1782,45,towel,theedoek,theedoek,dishcloth,2,5
+CES201606,1341,30,towel,tissues,tissues,tissues,2,4
+CES201606,2099.3,51,towel, topje,topje,top,3,3
+CES201606,1856,46,towel,tourniquet ,tourniquet,tourniquet,2,5
+CES201606,259,13,towel,als touw,touw,rope,2,4
+CES201606,1092,25,towel,touw,touw,rope,2,4
+CES201606,1191,27,towel,touw,touw,rope,2,4
+CES201606,1784,45,towel,als touw gebruiken,touw,rope,2,4
+CES201606,1859,46,towel,touw,touw,rope,2,4
+CES201606,1679,43,towel,twee touwen er aan en je hebt een schommel,touwen hebt schommel,swing with ropes,4,4
+CES201606,2030,49,towel,toutje springen (door aan elkaar vast te knopen),touwtje springen,jumping rope,2,4
+CES201606,955,23,towel,touwtrekken,touwtrekken,tug of war,2,4
+CES201606,256,13,towel,of trui ,trui,sweater,2,3
+CES201606,333,14,towel,als tulband,tulband,turban,2,5
+CES201606,841,20,towel,uitwringen,uitwringen,wring out,2,5
+CES201606,202,12,towel,vaatdoek,vaatdoek,dishcloth,1,5
+CES201606,1282,29,towel,vaatdoek,vaatdoek,dishcloth,1,5
+CES201606,552,17,towel,vangen,vangen,catch,2,3
+CES201606,1438,36,towel,vastbinden om te ontsnappen,vastbinden ontsnappen,tie up escape,3,4
+CES201606,338,14,towel,als ventilator (hard mee zwaaien),ventilator,fan,3,3
+CES201606,1198,27,towel,verband,verband,bandage,2,4
+CES201606,1600,40,towel,verband,verband,bandage,2,4
+CES201606,1149,26,towel,verduisteing van lampen,verduistering lampen,blackout lamps,2,4
+CES201606,419,15,towel,verkoeler als je hem natmaakt met koud water,verkoelen natmaakt koud water,cooling wet cold water,2,5
+CES201606,838,20,towel,verkoeling als je koorts hebt,verkoeling koorts hebt,cooling have fever,2,5
+CES201606,1555,39,towel,was verplaatsen,verplaatsen,move,2,3
+CES201606,1398,35,towel,verwarmen,verwarmen,heat,2,3
+CES201606,1049,24,towel,vlag,vlag,flag,2,4
+CES201606,1781,45,towel,vlag,vlag,flag,2,4
+CES201606,956,23,towel,ipv een vlaggetje om aan te geven waar je bent,vlaggetje geven waar bent,flag where you are,3,4
+CES201606,1090,25,towel,vlieger,vlieger,kite,3,3
+CES201606,1680,43,towel,vlieger,vlieger,kite,3,3
+CES201606,954,23,towel,voorwerp ipv bal tijdens een spel,voorwerp bal tijdens spel,object ball during game,2,3
+CES201606,258,13,towel,vulling voor een kussentje,vulling kussentje,filling cushion,3,4
+CES201606,2029,49,towel,als vuurladder (door aan elkaar vast te knopen),vuurladder,fire ladder,4,4
+CES201606,1334,30,towel,waaier,waaier,fan,3,3
+CES201606,1276,29,towel,wapen,wapen,weapon,2,3
+CES201606,327.1,14,towel,als wapen (hard er mee zwaaien,wapen hard zwaaien,swing weapon hard,2,3
+CES201606,424,15,towel,warmhouder van theepot,warmhouder theepot,warming teapot,2,4
+CES201606,418,15,towel,washand,washand,washcloth,2,5
+CES201606,1678,43,towel,washandje,washandje,washcloth,2,5
+CES201606,736,19,towel,om wond af te dekken,wond af dekken,cover wound,2,4
+CES201606,1857,46,towel,wondafdekker,wond afdekken,cover wound,2,4
+CES201606,555,17,towel,een woord van maken,woord,word,4,3
+CES201606,1235,28,towel,iemand mee wurgen,wurgen,strangle,2,3
+CES201606,1855,46,towel,wurgen,wurgen,strangle,2,3
+CES201606,842,20,towel,als yoga-hulp (tenen dichter naar me toe trekken),yoga hulp,yoga aid,3,5
+CES201606,1044,24,towel,yogamat,yoga mat,yoga mat,2,5
+CES201606,2031,49,towel,zeef,zeef,sieve,2,4
+CES201606,1237,28,towel,of om op te zitten,zitten,sit,2,5
+CES201606,835,20,towel,zonweren,Zon weren,Keep out sun,2,4
+CES201606,1234,28,towel,om mijn zus mee te spenken,zus spanken,sister spanking,2,5
+CES201606,1195,27,towel,zweep,zweep,whip,2,5
+CES201606,1777,45,towel,zweep,zweep,whip,2,5
+CES201606,1858,46,towel,zweep,zweep,whip,2,5

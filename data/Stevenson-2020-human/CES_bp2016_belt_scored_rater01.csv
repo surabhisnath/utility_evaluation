@@ -1,0 +1,228 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater01,utility_rater01
+CES201606,755,19,belt,om om te doen,,,1,5
+CES201606,1569,39,belt,als accesoire,accessoire,accessory,1,5
+CES201606,506,16,belt,accescoire bij outfit,accessoire outfit,accessory outfit,1,5
+CES201606,760,19,belt,als afbakening van iets (lijn neerleggen),afbakening,demarcation,3,4
+CES201606,1004,22,belt,armband van maken,armband,bracelet,3,4
+CES201606,1881,46,belt,armband,armband,bracelet,3,4
+CES201606,1736,44,belt,Twee balken bijelkaar houden,balken elkaar houden,beams hold together,2,4
+CES201606,503,16,belt,band om iets bij elkaar te houden anders dan broek. bijv opgerolde handdoek,band elkaar houden anders broek oorbeeld oorbeeld opgerolde handdoek,band hold together otherwise pants example example rolled up towel,2,5
+CES201606,1802,45,belt,blinddoek,blinddoek,blindfold,3,5
+CES201606,1204,27,belt,bloeden stelpen,bloeden stelpen,stop bleeding,2,5
+CES201606,979,23,belt,boekenlegger,boekenlegger,bookmark,4,5
+CES201606,1806,45,belt,bondage,bondage,bondage,2,5
+CES201606,2001,48,belt,boompje aan paal vastmaken,boompje paal vastmaken,attach tree to pole,4,5
+CES201606,1886,46,belt,bretels,bretels,braces,3,4
+CES201606,865,20,belt,broek dichthouden,broek dichthouden,keep your pants closed,1,5
+CES201606,662,18,belt,je broek op te hijsen ,broek hijsen,hoist pants,1,5
+CES201606,1565,39,belt,broek om hoog houden,broek hoog houden,keep pants up,1,5
+CES201606,352,14,belt,om je broek mee vast te maken,broek vast,pants,1,5
+CES201606,1247,28,belt,om je broek zodat die niet afzakt,broek zodat niet afzakt,pants so that they do not fall down,1,5
+CES201606,2108,50,belt,bruggetje mee bouwen van tafel naar tafel voor je cavia,bruggetje bouwen tafel tafel cavia,build bridge table table guinea pig,5,3
+CES201606,990,23,belt,cadeau lint,cadeau lint,gift ribbon,5,4
+CES201606,761,19,belt,om een dansje mee te doen,dansje,dance,3,3
+CES201606,2040,49,belt,danspartners aan elkaar vastbinden ter oefening,danspartners elkaar vastbinden ter oefening,dance partners tie together for exercise,5,5
+CES201606,1113,25,belt,deur open houder,deur open houder,door open holder,4,4
+CES201606,215,12,belt,een ding om gordijnen aan op te hangen,ding gordijnen hangen,hanging thing curtains,5,4
+CES201606,217,12,belt,een ding van een lamel,ding lamel,thing slat,5,2
+CES201606,2132,51,belt,als ding tussen jou en een hete pan,ding tussen jou hete pan,thing between your hot pan,5,5
+CES201606,1159,26,belt,gebruiken om dingen bij elkaar te houden,dingen elkaar houden,things hold together,2,5
+CES201606,1567,39,belt,dingen bij elkaar houden,dingen elkaar houden,things hold together,2,5
+CES201606,2130.1,51,belt,dingen bij elkaar houden,dingen elkaar houden,things hold together,2,5
+CES201606,361,14,belt,om dingen aan elkaar vast te binden,dingen elkaar vast binden,tie things together,2,5
+CES201606,665,18,belt,om dingen bij elkaar vast te binden ,dingen elkaar vast binden,tie things together,2,5
+CES201606,1947,47,belt,om een doek over een emmer vast te maken,doek emmer vast,cloth bucket,2,5
+CES201606,1363,30,belt,drukknopen,drukknopen,snaps,3,1
+CES201606,1354,30,belt,elastiek,elastiek,elastic,3,1
+CES201606,1405,35,belt,iets bij elkaar binden,elkaar binden,bind together,2,4
+CES201606,1008,22,belt,iets aan elkaar binden achterop je fietsenrek,elkaar binden achterop fietsenrek,tie together back of bicycle rack,3,5
+CES201606,1003,22,belt,aan elkaar binden en deur mee barricaderen,elkaar binden deur barricaderen,tie together door barricading,3,4
+CES201606,1948,47,belt,als fashion item zonder dat het iets doet,fashion item doet,fashion item does,1,5
+CES201606,1007,22,belt,je fiets vastzetten,fiets vastzetten,secure bicycle,4,3
+CES201606,1528,38,belt,je fiets mee versieren,fiets versieren,decorate bicycle,4,4
+CES201606,2107,50,belt,op een fluitje blazen op hopen dat de riem als een Indiase cobra omhoog komt en gaat dansen,fluitje blazen hopen riem Indiase cobra omhoog komt gaat dansen,blow whistle heaps belt Indian cobra comes up starts dancing,5,1
+CES201606,763,19,belt,als gaatjesprikker gebruiken,gaatjes prikken,poke holes,5,3
+CES201606,769,19,belt,om er gaatjes bij te prikken,gaatjes prikken,poke holes,1,3
+CES201606,668,18,belt,om een gat mee te dichten,gat dichten,close gap,3,3
+CES201606,359,14,belt,geluid mee maken ,geluid,sound,3,4
+CES201606,1466,36,belt,iemand mee gevangen nemen,gevangen nemen,capture,2,4
+CES201606,1884,46,belt,gitaarband,gitaarband,guitar strap,4,4
+CES201606,577,17,belt,gooien,gooien,throw,3,5
+CES201606,976,23,belt,gordijn vast maken,gordijn vast,fix curtain,2,5
+CES201606,214,12,belt,haarband,haarband,hair band,3,4
+CES201606,666,18,belt,om een haarband van te maken ,haarband,hair band,3,4
+CES201606,981,23,belt,haarband,haarband,hair band,3,4
+CES201606,1114,25,belt,haarband,haarband,hair band,3,4
+CES201606,1493,37,belt,haarband,haarband,hair band,3,4
+CES201606,1799,45,belt,haarband,haarband,hair band,3,4
+CES201606,1494,37,belt,halsband voor de hond,halsband hond,collar dog,2,5
+CES201606,983,23,belt,handboeien,handboeien,handcuffs,2,5
+CES201606,436,15,belt,je kunt er aan hangen,hangen,hang,3,4
+CES201606,756,19,belt,om op te hangen,hangen,hang,3,3
+CES201606,1498,37,belt,om iets op te hangen,hangen,hang,3,4
+CES201606,356,14,belt,je kunt er een heel lang touw van maken als je allemaal riemen aan elkaar maakt,heel lang touw allemaal riemen elkaar maakt,very long rope that makes all straps together,3,4
+CES201606,1697,43,belt,met heel veel riemen kan je een leren stoel maken,heel riemen leren stoel,very straps leather chair,4,2
+CES201606,1005,22,belt,helaas ook iemand ernstig mee verwonden,helaas ernstig verwonden,unfortunately seriously injure,2,5
+CES201606,989,23,belt,hengel,hengel,fishing rod,5,2
+CES201606,1464,36,belt,hond mee uitlaten,hond uitlaten,walking dog,2,5
+CES201606,1529,38,belt,als hondenlijn gebruiken,hondenlijn,dog leash,2,5
+CES201606,362,14,belt,als hondenriem,hondenriem,dog leash,2,5
+CES201606,985,23,belt,hondenriem,hondenriem,dog leash,2,5
+CES201606,1158,26,belt,om je hoofd dragen,hoofd dragen,carry head,3,5
+CES201606,1207,27,belt,hoofdband,hoofdband,headband,3,5
+CES201606,1693,43,belt,hoofdband,hoofdband,headband,3,5
+CES201606,1998,48,belt,hoosgste stapel maken,hoogste stapel,highest pile,3,2
+CES201606,2131.1,51,belt,als hulpmioddel voor extra kracht,hulpmiddel extra kracht,tool extra strength,3,3
+CES201606,2039,49,belt,iemands leven mee redden,iemands leven redden,save someone's life,3,4
+CES201606,1109,25,belt,om jezelf mee te wurgen,jezelf wurgen,strangle yourself,2,5
+CES201606,354,14,belt,gebruiken om een jurkje mee te accentueren,jurkje accentueren,accentuate dress,1,5
+CES201606,266,13,belt,als ketting ,ketting,chain,3,5
+CES201606,982,23,belt,ketting,ketting,chain,3,5
+CES201606,1006,22,belt,ketting maken,ketting,chain,3,5
+CES201606,1290,29,belt,ketting,ketting,chain,3,5
+CES201606,1497,37,belt,ketting,ketting,chain,3,5
+CES201606,1698,43,belt,ketting,ketting,chain,3,5
+CES201606,1737,44,belt,Ketting,ketting,chain,3,5
+CES201606,1804,45,belt,ketting,ketting,chain,3,5
+CES201606,1882,46,belt,ketting,ketting,chain,3,5
+CES201606,581,17,belt,een ketting van riemen maken,ketting riemen,chain straps,3,5
+CES201606,2111,50,belt,kijken door het gespdeel alsof het een monocle is,kijken gespeel alsof monocle,watching playing pretend monocle,5,4
+CES201606,1945.2,47,belt, om kinderen mee te slaan,kinderen slaan,hitting children,2,5
+CES201606,1358,30,belt,klemmen,klemmen,clamps,2,4
+CES201606,770,19,belt,om een kleur uit te leggen,kleur leggen,lay color,3,3
+CES201606,766,19,belt,om op te kleuren,kleuren,color,3,4
+CES201606,2000,48,belt,klok aan ophangen,klok ophangen,hang up clock,5,4
+CES201606,1359,30,belt,knijpers,knijpers,pinchers,3,1
+CES201606,1357,30,belt,knopen,knopen,buttons,3,3
+CES201606,1603,40,belt,je koffer mee dicht binden,koffer dicht binden,tie suitcase closed,2,5
+CES201606,1053,24,belt,je kunt er een koffer mee dicht houden,koffer dicht houden,keep suitcase closed,2,5
+CES201606,1950,47,belt,koffer dicht krijgen,koffer dicht krijgen,close suitcase,2,5
+CES201606,1356,30,belt,koord,koord,cord,3,4
+CES201606,1801,45,belt,kunst,kunst,art,3,3
+CES201606,1112,25,belt,kunstwerk,kunstwerk,artwork,3,3
+CES201606,1010,22,belt,lampje in doen en ophangen,lampje ophangen,hang up lamp,5,3
+CES201606,984,23,belt,lasso,lasso,lasso,3,3
+CES201606,1244,28,belt,iemand laten stikken,laten stikken,suffocate,2,5
+CES201606,667,18,belt,om lengtes mee af te meten ,lengtes af meten,measure lengths,4,4
+CES201606,1362,30,belt,lijm,lijm,glue,3,1
+CES201606,767,19,belt,om een lijn langs te trekken,lijn langs trekken,draw line along,4,4
+CES201606,1496,37,belt,als lint gebruiken,lint,ribbon,5,4
+CES201606,1735,44,belt,Martelwerktuig,martelwerktuig,instrument of torture,2,5
+CES201606,1946,47,belt,meetlint,meetlint,measuring tape,4,4
+CES201606,1157,26,belt,mensen slaan,mensen slaan,hitting people,2,5
+CES201606,438,15,belt,je kunt mensen er mee vast maken aan een stoel,mensen vast stoel,people stuck chair,2,5
+CES201606,1468,36,belt,iets mee meten,meten,measure,4,4
+CES201606,871,20,belt,als meting van het gewicht gebruiken,meting gewicht,measurement weight,3,5
+CES201606,1111,25,belt,als mobiel boven een babybed met door de gaatjes heen van die speeltjes,mobiel boven babybed gaatjes heen speeltjes,mobile above baby bed holes with toys,5,4
+CES201606,869,20,belt,een modestatement maken,modestatement,fashion statement,1,5
+CES201606,502,16,belt,moordwapen,moordwapen,murder weapon,2,5
+CES201606,1885,46,belt,moordwapen,moordwapen,murder weapon,2,5
+CES201606,2038,49,belt,moordwapen ,moordwapen,murder weapon,2,5
+CES201606,1889,46,belt,muurbeugel,muurbeugel,wall bracket,3,1
+CES201606,1361,30,belt,naald en draad,naald draad,needle thread,0,0
+CES201606,579,17,belt,neerleggen,neerleggen,put down,2,3
+CES201606,764,19,belt,de omvang mee meten van iemand,omvang meten,measure size,3,5
+CES201606,2133,51,belt,onder iets laags stoppen om iets eronder uit te krijgen,onder laag stoppen eronder krijgen,under low stop get underneath,3,4
+CES201606,872,20,belt,als ondersteuning bij gewichtheffen,ondersteuning gewichtheffen,support weight lifting,4,4
+CES201606,1160,26,belt,gebruiken om bijvoorbeeld een klapperende deur of raam mee vast te zetten,oorbeeld klapperende deur raam vast zetten,"For example, fix rattling door and window",3,4
+CES201606,1054,24,belt,je kunt er iets mee ophangen,ophangen,hang,3,4
+CES201606,1403,35,belt,er wat aan ophangen,ophangen,hang,3,4
+CES201606,1568,39,belt,iets ophangen,ophangen,hang,3,4
+CES201606,355,14,belt,ophangen aan de muur als decoratie,ophangen muur decoratie,hanging wall decoration,3,4
+CES201606,759,19,belt,ophangen en dan onder limbodansen,ophangen onder limbo dansen,hang up under limbo dancing,4,4
+CES201606,505,16,belt,ophangtool,ophangtool,hanging tool,3,3
+CES201606,578,17,belt,oprapen,oprapen,pick up,3,3
+CES201606,580,17,belt,aan een paal vastbinden,paal vastbinden,tie up pole,3,4
+CES201606,357,14,belt,gebruiken om een paardrijzadel vast te maken,paardrijzadel vast,riding saddle,2,4
+CES201606,1465,36,belt,om pakketje binden,pakketje binden,bind package,2,4
+CES201606,1364,30,belt,paperclip,paperclip,paperclip,3,1
+CES201606,2041,49,belt,plant aan ophangen,plant ophangen,hang up plant,4,4
+CES201606,216,12,belt,een plint,plint,plinth,4,4
+CES201606,1890,46,belt,poetslap,poetslap,cleaning rag,4,2
+CES201606,1009,22,belt,riem over boedelbak binden,riem boedelbak binden,tie belt to estate bin,2,4
+CES201606,267,13,belt,je kan een riem gebruiken om een boom in te klimmen,riem boom klimmen,strap tree climbing,4,4
+CES201606,1699,43,belt,riem dicht doen en dan kan je daar weer andere dingen aan hangen,riem dicht weer dingen hangen,belt close again hang things,3,3
+CES201606,437,15,belt,je kunt met een riem handen boeien,riem handen boeien,strap hands cuffs,2,5
+CES201606,264,13,belt,je kan een riem gebruiken om spieren mee te strekken en zo leniger te worden ,riem spieren strekken leniger,belt muscles stretch more limber,4,5
+CES201606,269,13,belt,je kan een riem als tas gebruiken,riem tas,belt bag,4,1
+CES201606,218,12,belt,schoenen,schoenen,shoes,3,1
+CES201606,977,23,belt,schoenveter,schoenveter,shoelace,4,1
+CES201606,1805,45,belt,schommel,schommel,swing set,4,2
+CES201606,1888,46,belt,schommel,schommel,swing set,4,2
+CES201606,762,19,belt,om iets mee te schuren,schuren,sand,3,3
+CES201606,1880,46,belt,sekspeeltje,seksspeeltje,sex toy,3,5
+CES201606,2110,50,belt,op sexy wijze door je bilnaad halen,sexy wijze bilnaad halen,sexy buttocks,3,5
+CES201606,866,20,belt,als sierobject,sierobject,ornamental object,3,4
+CES201606,576,17,belt,iemand slaan,slaan,beat,2,5
+CES201606,754,19,belt,om mee te slaan,slaan,beat,2,5
+CES201606,868,20,belt,iemand ermee slaan,slaan,beat,2,5
+CES201606,1406,35,belt,ermee slaan,slaan,beat,2,5
+CES201606,1467,36,belt,mee slaan,slaan,beat,2,5
+CES201606,1566,39,belt,iemand mee slaan,slaan,beat,2,5
+CES201606,1647,42,belt,slaan,slaan,beat,2,5
+CES201606,1291,29,belt,sleeptouw,sleeptouw,tow rope,3,4
+CES201606,1463,36,belt,Als sling gebruiken voor je gebroken pols,sling gebroken pols,sling broken wrist,4,5
+CES201606,757,19,belt,slinger van maken,slinger,garland,3,4
+CES201606,980,23,belt,slingeren aan een boom,slingeren boom,swing tree,4,4
+CES201606,867,20,belt,sorry ik werd afgeleid,sorry afgeleid,sorry distracted,0,0
+CES201606,1694,43,belt,spanband,spanband,tension strap,3,4
+CES201606,435,15,belt,spank materiaal,spank materiaal,spanking material,2,5
+CES201606,2109,50,belt,spannen tussen twee hoogten en je hebt een waslijn,spannen tussen hoogten hebt waslijn,tension between heights you have clothesline,4,5
+CES201606,1360,30,belt,spelden,spelden,pins,0,0
+CES201606,986,23,belt,in spelletje met over een touw heen springen,spelletje touw heen springen,game of skipping rope,3,5
+CES201606,1161,26,belt,sport: riemen stuktrekken,sport riemen stuk trekken,tearing sports belts,5,4
+CES201606,988,23,belt,springtouw,springtouw,skipping rope,3,4
+CES201606,1696,43,belt,springtouw,springtouw,skipping rope,3,4
+CES201606,1289,29,belt,strop,strop,noose,2,5
+CES201606,358,14,belt,in stukjes knippen en dan heb je confetti van leer,stukjes knippen confetti leer,pieces of cut confetti leather,4,5
+CES201606,1949,47,belt,voor een tas als decoratie,tas decoratie,bag decoration,3,4
+CES201606,1999,48,belt,tas vastmakeen op fiets,tas vastmaken fiets,attach bag to bicycle,3,5
+CES201606,664,18,belt,om een tassen handvat van te maken ,tassen handvat,bags handle,3,5
+CES201606,1887,46,belt,telefoonhoesje,telefoonhoesje,phone case,3,1
+CES201606,978,23,belt,ipv tai rep(??),tiewrap,tie wrap,2,5
+CES201606,1292,29,belt,ty-rep,tiewrap,tie wrap,2,5
+CES201606,1692,43,belt,tierap,tiewrap,tie wrap,2,5
+CES201606,212,12,belt,touw,touw,rope,3,4
+CES201606,265,13,belt,als touw,touw,rope,3,4
+CES201606,433,15,belt,touw,touw,rope,3,4
+CES201606,1108,25,belt,touw,touw,rope,3,4
+CES201606,1205,27,belt,touw,touw,rope,3,4
+CES201606,1248,28,belt,als touw,touw,rope,3,4
+CES201606,1355,30,belt,touw,touw,rope,3,4
+CES201606,1803,45,belt,touw,touw,rope,3,4
+CES201606,1879,46,belt,touw,touw,rope,3,4
+CES201606,758,19,belt,om mee touw te trekken,touw trekken,pulling rope,3,5
+CES201606,975,23,belt,touwtrekken,touwtrekken,tug of war,3,5
+CES201606,1883,46,belt,V-snaar,v snaar,v string,3,1
+CES201606,1645,42,belt,Iets vast maken ,vast,fix,2,4
+CES201606,765,19,belt,om iets mee vast te binden,vast binden,tie,2,4
+CES201606,1944,47,belt,om iets vast te binden,vast binden,tie,2,4
+CES201606,870,20,belt,iets vastbinden,vastbinden,tie,2,4
+CES201606,1646,42,belt,vastbinden,vastbinden,tie,2,4
+CES201606,2131.2,51,belt, vastbinden trekken,vastbinden trekken,tie down pull,2,4
+CES201606,1245,28,belt,iets vastmaken aan de riem,vastmaken riem,fasten belt,2,4
+CES201606,1404,35,belt,iets ermee vastzetten,vastzetten,fasten,2,4
+CES201606,1365,30,belt,veer,veer,feather,3,1
+CES201606,768,19,belt,om te versieren,versieren,decorate,3,4
+CES201606,1293,29,belt,versiersel,versiersel,decoration,3,4
+CES201606,1945.1,47,belt,vroeger,vroeger,earlier,0,0
+CES201606,268,13,belt,als wapen,wapen,weapon,2,5
+CES201606,353,14,belt,als wapen (er iemand heul hard mee slaan),wapen,weapon,2,5
+CES201606,1288,29,belt,wapen,wapen,weapon,2,5
+CES201606,1527,38,belt,als wapen gebruiken,wapen,weapon,2,5
+CES201606,582,17,belt,er weer een koe van maken,weer koe,cow again,0,0
+CES201606,360,14,belt,iemand mee wurgen,wurgen,strangle,2,5
+CES201606,663,18,belt,om iemand mee te wurgen ,wurgen,strangle,2,5
+CES201606,1246,28,belt,iemand wurgen met een riem,wurgen riem,strangle belt,2,5
+CES201606,2130.2,51,belt, zoals bundel hout,zoals bundel hout,such as bundle of wood,0,0
+CES201606,1243,28,belt,mijn zus mee te spenken,zus spanken,sister spanking,2,5
+CES201606,213,12,belt,zweep,zweep,whip,2,5
+CES201606,434,15,belt,zweep,zweep,whip,2,5
+CES201606,504,16,belt,zweep,zweep,whip,2,5
+CES201606,987,23,belt,zweep,zweep,whip,2,5
+CES201606,1110,25,belt,zweep,zweep,whip,2,5
+CES201606,1206,27,belt,zweep,zweep,whip,2,5
+CES201606,1495,37,belt,als zweep gebruiken,zweep,whip,2,5
+CES201606,1695,43,belt,zweep,zweep,whip,2,5
+CES201606,1800,45,belt,zweep,zweep,whip,2,5
+CES201606,1878,46,belt,zweep,zweep,whip,2,5

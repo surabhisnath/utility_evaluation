@@ -1,0 +1,258 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater01,utility_rater01
+CES201606,817,20,brick,aangeven dat je in nood bent door er lawaai mee te maken,aangeven nood bent lawaai,indicate distress noise,4,3
+CES201606,911,23,brick,afbakening,afbakening,demarcation,2,4
+CES201606,463,16,brick,anker,anker,anchor,3,3
+CES201606,1970,48,brick,auto,auto,car,4,1
+CES201606,523,17,brick,bakken,bakken,baking,3,3
+CES201606,811,20,brick,bakken,bakken,baking,3,3
+CES201606,1969,48,brick,baksteenwerpen,baksteen werpen,throw brick,2,5
+CES201606,236,13,brick,je kan een baksteen gebruiken zodat je blaadjes niet weg waaien,baksteen zodat blaadjes niet weg waaien,brick so that leaves do not blow away,2,5
+CES201606,902,23,brick,balspel,balspel,ball game,3,3
+CES201606,1821,46,brick,balsport ervanger,balsport vervanger,ball sport substitute,3,3
+CES201606,912,23,brick,bankje,bankje,bench,3,3
+CES201606,461,16,brick,barbecue,barbecue,barbecue,3,4
+CES201606,291,14,brick,om op te bbq'en,barbecueën,barbecuing,3,4
+CES201606,617,18,brick,bed,bed,bed,3,4
+CES201606,2048,50,brick,Een bed van bouwen,bed bouwen,build bed,2,4
+CES201606,1415.4,36,brick,beeldhouwen,beeldhouwen,sculpt,2,4
+CES201606,525,17,brick,begraven,begraven,bury,3,3
+CES201606,1304,30,brick,betongieten in een mal,beton gieten mal,concrete pouring mold,2,3
+CES201606,1178,27,brick,bierflesje openen,bierflesje openen,open beer bottle,3,5
+CES201606,295,14,brick,iets bijschaven,bijschaven,refine,3,3
+CES201606,234,13,brick,als blokje voor een voetbal spel,blokje voetbal spel,block football game,3,4
+CES201606,393,15,brick,blokken,blokken,blocks,2,4
+CES201606,903,23,brick,blokken bouwen,blokken bouwen,building blocks,2,4
+CES201606,1657,43,brick,boekenlegger,boekenlegger,bookmark,3,2
+CES201606,1036,24,brick,boekensteun,boekensteun,bookend,2,5
+CES201606,1261,29,brick,boekensteun,boekensteun,bookend,2,5
+CES201606,1662,43,brick,boekensteun,boekensteun,bookend,2,5
+CES201606,1917,47,brick,boekensteun,boekensteun,bookend,2,5
+CES201606,915,23,brick,bord om te eten,bord eten,plate of food,3,3
+CES201606,286,14,brick,bouwen,bouwen,build,1,5
+CES201606,1381,35,brick,bouwen,bouwen,build,1,5
+CES201606,1415.1,36,brick,Bouwen,bouwen,build,1,5
+CES201606,1537,39,brick,bouwen,bouwen,build,1,5
+CES201606,521,17,brick,breken,breken,break,2,4
+CES201606,1968,48,brick,brug,brug,bridge,3,4
+CES201606,2064.1,51,brick,buitenoven maken,buitenoven,outdoor oven,3,3
+CES201606,1182,27,brick,contragewicht,contragewicht,counterweight,2,4
+CES201606,1581,40,brick,contragewicht,contragewicht,counterweight,2,4
+CES201606,466,16,brick,dak,dak,roof,3,4
+CES201606,172,12,brick,decoratie,decoratie,decoration,3,4
+CES201606,465,16,brick,decoratie,decoratie,decoration,3,4
+CES201606,1180,27,brick,decoratie,decoratie,decoration,3,4
+CES201606,1181,27,brick,deurklem,deurklem,door clamp,2,5
+CES201606,1582,40,brick,deurstopper,deurstopper,door stopper,2,5
+CES201606,1658,43,brick,deurstop,deurstopper,door stopper,2,5
+CES201606,1718,44,brick,Deurstopper,deurstopper,door stopper,2,5
+CES201606,1751,45,brick,deurstop,deurstopper,door stopper,2,5
+CES201606,1916,47,brick,deurstop,deurstopper,door stopper,2,5
+CES201606,2020,49,brick,deurstopper,deurstopper,door stopper,2,5
+CES201606,2058,51,brick,dingen kapot slaan,dingen kapot slaan,smash things,2,4
+CES201606,1613,41,brick,Doden,doden,kill,2,4
+CES201606,1070,25,brick,drumstel,drumstel,drum kit,4,2
+CES201606,929,22,brick,erop zitten als je het opstapelt,erop zitten opstapelt,sitting on it piles up,3,3
+CES201606,1134,26,brick,om evenwichtsoeveningen op te doen,evenwichtsoefeningen,balance exercises,3,4
+CES201606,1826,46,brick,eye opener,eye opener,eye opener,5,1
+CES201606,1383,35,brick,figuurtjes maken,figuurtjes,figures,3,3
+CES201606,810,20,brick,foto's ervan maken,foto s ervan,photos of it,4,3
+CES201606,238,13,brick,een garage,garage,garage,4,4
+CES201606,692,19,brick,om een gat te dichten,gat dichten,close gap,2,3
+CES201606,2049,50,brick,Gaten mee dichtmaken,gaten dichtmaken,close holes,2,3
+CES201606,1218,28,brick,gebouw,gebouw,building,1,5
+CES201606,299,14,brick,geluid maken,geluid,sound,3,3
+CES201606,1973,48,brick,geluidswal,geluidswal,noise barrier,2,3
+CES201606,1308,30,brick,geperst karton,geperst karton,pressed cardboard,2,2
+CES201606,390,15,brick,gewicht,gewicht,weight,2,4
+CES201606,462.3,16,brick,als gewicht aan een dobber oid (dus als anker),gewicht dobber,weight float,3,4
+CES201606,909,23,brick,gewicht voor fitness,gewicht fitness,weight fitness,3,4
+CES201606,1434,37,brick,gewicht voor gewichtheffen,gewicht gewichtheffen,weight lifting,3,4
+CES201606,1752,45,brick,gewichtsheffen,gewichtheffen,weight lifting,3,4
+CES201606,285,14,brick,gooien,gooien,throw,2,5
+CES201606,518,17,brick,gooien,gooien,throw,2,5
+CES201606,812,20,brick,ermee gooien,gooien,throw,2,5
+CES201606,901,23,brick,gooien,gooien,throw,2,5
+CES201606,1065,25,brick,om mee te gooien,gooien,throw,2,5
+CES201606,1538,39,brick,gooien,gooien,throw,2,5
+CES201606,1616,41,brick,gooien,gooien,throw,2,5
+CES201606,1914,47,brick,gooien,gooien,throw,2,5
+CES201606,1972,48,brick,graffitymuur,graffitimuur,graffiti wall,3,5
+CES201606,1828,46,brick,grondstof voor beeld,grondstof beeld,raw material image,2,4
+CES201606,1823,46,brick,grondstof voor grafel,grondstof gravel,raw material gravel,2,3
+CES201606,1580,40,brick,hamer,hamer,hammer,3,4
+CES201606,1753,45,brick,hamer,hamer,hammer,3,4
+CES201606,908,23,brick,hoed,hoed,hat,4,1
+CES201606,1066,25,brick,hoed,hoed,hat,4,1
+CES201606,1825,46,brick,homeopatisch medicijn (vermalen),homeopathisch medicijn,homeopathic medicine,4,2
+CES201606,1302,30,brick,houten blok,houten blok,wooden block,2,1
+CES201606,237,13,brick,huis,huis,house,1,5
+CES201606,806,20,brick,huis bouwen,huis bouwen,build house,1,5
+CES201606,1384,35,brick,huizen bouwen,huizen bouwen,building houses,1,5
+CES201606,1221,28,brick,hut,hut,hut,1,5
+CES201606,1035,24,brick,hut bouwen,hut bouwen,build hut,1,5
+CES201606,1748,45,brick,Inbreken,inbreken,hack,2,4
+CES201606,813,20,brick,iets ermee inslaan (een ruit),inslaan,stock up,2,5
+CES201606,1721,44,brick,Jenga mee spelen,JENGA spelen,Play JENGA,4,3
+CES201606,910,23,brick,jeu de boulen,jeu boule,bocce,4,4
+CES201606,2050,50,brick,met jeu-de-boulen,jeu boule,bocce,4,4
+CES201606,389,15,brick,jeux de boulle bal,jeu boules bal,bocce ball,4,4
+CES201606,524,17,brick,jongleren,jongleren,juggling,4,3
+CES201606,287,14,brick,iets kapot maken,kapot,Broken,2,4
+CES201606,1623,42,brick,Kapot gooien,kapot gooien,smash,2,4
+CES201606,1415.2,36,brick,karate,karate,karate,3,3
+CES201606,1303,30,brick,kleibonk,kleibonk,claybonk,3,1
+CES201606,1067,25,brick,klos,klos,bobbin,3,3
+CES201606,616,18,brick,konijnen hok,konijnen hok,rabbit hutch,2,5
+CES201606,2059,51,brick,krachttraining,krachttraining,weight training,3,4
+CES201606,1436,37,brick,krijt,krijt,chalk,3,4
+CES201606,928,22,brick,krijten,krijten,chalk,3,4
+CES201606,906,23,brick,krijtje,krijtje,chalk,3,4
+CES201606,1131,26,brick,kunstobject,kunstobject,art object,3,3
+CES201606,1822,46,brick,kunstobject,kunstobject,art object,3,3
+CES201606,907,23,brick,kunstvoorwerp,kunstvoorwerp,art object,3,3
+CES201606,1431,37,brick,kunstwerk\,kunstwerk,artwork,3,3
+CES201606,296,14,brick,iets laten zinken,laten zinken,sink,2,4
+CES201606,1626,42,brick,ieta laten zinken,laten zinken,sink,2,4
+CES201606,815,20,brick,lawaai maken,lawaai,noise,4,3
+CES201606,2062,51,brick,lekker koele ondergrond maken om op te liggen,lekker koele ondergrond liggen,lie on nice cool surface,3,3
+CES201606,1264,29,brick,li,li,li,0,0
+CES201606,1615,41,brick,Op liggen,liggen,lie,3,3
+CES201606,1624,42,brick,op liggen,liggen,lie,3,3
+CES201606,614,18,brick,lounge bank,lounge bank,lounge sofa,3,3
+CES201606,1747,45,brick,Mensen bekogelen,mensen bekogelen,pelting people,2,4
+CES201606,1829,46,brick,mensen stil krijgen,mensen stil krijgen,silence people,3,3
+CES201606,1132,26,brick,meubels ondersteunen,meubels ondersteunen,support furniture,2,3
+CES201606,1417,36,brick,mikado,mikado,mikado,4,1
+CES201606,693,19,brick,om over modder te kunnen lopen,modder lopen,walking in mud,4,4
+CES201606,388,15,brick,moordwapen,moordwapen,murder weapon,2,4
+CES201606,1818,46,brick,moordwapen,moordwapen,murder weapon,2,4
+CES201606,1260,29,brick,muur bouwen,muur bouwen,building wall,1,5
+CES201606,239,13,brick,een muurtje,muurtje,wall,1,5
+CES201606,691,19,brick,om een muurtje te bouwen,muurtje bouwen,build wall,1,5
+CES201606,816,20,brick,muziek maken,muziek,music,4,3
+CES201606,1819,46,brick,nagelbreker,nagelbreker,nail breaker,3,3
+CES201606,2061,51,brick,oefeningen voor de geest: muur doorbreken,oefeningen geest muur doorbreken,exercises to break mind wall,4,2
+CES201606,1069,25,brick,oefenmateriaal voor vechtsport,oefenmateriaal vechtsport,martial arts training equipment,4,3
+CES201606,2052,50,brick,onder iets leggen om de boel te verhogen,onder leggen boel verhogen,increase amount,2,4
+CES201606,527,17,brick,onder water zetten,onder water zetten,flood,2,4
+CES201606,696,19,brick,als ondersteuning voor iets anders,ondersteuning anders,support otherwise,2,4
+CES201606,168,12,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,687,19,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,916,23,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,1068,25,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,1263,29,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,1433,37,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,1508,38,brick,als onderzetter gebruiken,onderzetter,coaster,3,5
+CES201606,1719,44,brick,Onderzetter,onderzetter,coaster,3,5
+CES201606,1915,47,brick,onderzetter,onderzetter,coaster,3,5
+CES201606,290,14,brick,onderzettertje,onderzettertje,coaster,3,5
+CES201606,2060.2,51,brick,bijv dunne lijn van bakstenen waarop je kunt lopen,oorbeeld dunne lijn bakstenen waarop lopen,example of thin line of bricks on which to walk,3,4
+CES201606,526,17,brick,opgraven,opgraven,dig up,2,3
+CES201606,809,20,brick,gebruiken als opstapje,opstapje,stepping stone,2,5
+CES201606,1432,37,brick,opstapje,opstapje,stepping stone,2,5
+CES201606,1824,46,brick,opstapje,opstapje,stepping stone,2,5
+CES201606,2022,49,brick,als opstapje,opstapje,stepping stone,2,5
+CES201606,520,17,brick,\toren maken,oren,ears,2,5
+CES201606,1579,40,brick,Oven,oven,oven,3,3
+CES201606,2051,50,brick,paadje aanleggen in een moeras,paadje aanleggen moeras,building path in swamp,2,5
+CES201606,905,23,brick,papier houder,papier houder,paper holder,2,5
+CES201606,1305,30,brick,papier mache,Papier maché,Paper mache,3,3
+CES201606,1307,30,brick,piepschui,piepschuim,styrofoam,4,1
+CES201606,1918,47,brick,plank,plank,shelf,2,3
+CES201606,697,19,brick,om een plank op te leggen,plank leggen,lay plank,2,5
+CES201606,1659,43,brick,plantendrukkerdroogding,planten drukker droog ding,plants presser dry thing,2,3
+CES201606,1301,30,brick,plastic bak,plastic bak,plastic container,2,1
+CES201606,391,15,brick,podium voor mierentheater,podium mierentheater,stage ant theater,4,4
+CES201606,1175,27,brick,raam breken,raam breken,break window,2,5
+CES201606,2023,49,brick,raam ingooien,raam ingooien,smash window,2,5
+CES201606,1966,48,brick,racebaan,racebaan,race track,4,4
+CES201606,1415.3,36,brick,ramen ingooien,ramen ingooien,smashing windows,2,5
+CES201606,1919,47,brick,rug stuen tijdens yoga,rug steun tijdens yoga,back support during yoga,5,4
+CES201606,1219,28,brick,door de ruit meegooien,ruit gooien,throwing window,2,5
+CES201606,1507,38,brick,een ruit mee ingooien,ruit ingooien,smash window,2,5
+CES201606,1034,24,brick,ruit inslaan,ruit inslaan,smash window,2,5
+CES201606,1716,44,brick,Ruit mee inslaan,ruit inslaan,smash window,2,5
+CES201606,2047,50,brick,Ruiten ingooien,ruiten ingooien,smashing windows,2,5
+CES201606,1220,28,brick,ruitje intikken,ruitje intikken,tap in diamond,2,5
+CES201606,808,20,brick,gebruiken als schrijfsteen op ander steen-achtig materiaal,schrijfsteen ander steenachtig materiaal,writing stone other stone-like material,3,3
+CES201606,297,14,brick,mee schrijven op iets van steen,schrijven steen,writing stone,3,3
+CES201606,1133,26,brick,als schuurpapier gebruiken,schuurpapier,sandpaper,3,3
+CES201606,1661,43,brick,schuurpapier,schuurpapier,sandpaper,3,3
+CES201606,1827,46,brick,sekspeeltje,seksspeeltje,sex toy,5,2
+CES201606,1663,43,brick,servettenhouder dat ze niet wegwaaien,servettenhouder niet wegwaaien,napkin holder does not blow away,2,5
+CES201606,1539,39,brick,sjouwen,sjouwen,carry,2,3
+CES201606,394,15,brick,slagstok van een trommel,slagstok trommel,percussion stick drum,4,3
+CES201606,1614,41,brick,Op slapen,slapen,sleep,4,3
+CES201606,1625,42,brick,op slapen als kussen,slapen kussen,sleeping pillow,4,4
+CES201606,1583,40,brick,sokkel voor beeld,sokkel beeld,pedestal statue,3,5
+CES201606,2064.2,51,brick,soor bbq,soor barbecue,kind of barbecue,3,3
+CES201606,612,18,brick,speel attribbut,speel attribuut,play attribute,3,3
+CES201606,688,19,brick,speelmateriaal,speelmateriaal,play material,3,3
+CES201606,298,14,brick,een speer puntiger mee maken,speer puntiger,spear more pointed,3,4
+CES201606,1382,35,brick,spelen,spelen,play,3,3
+CES201606,2060.1,51,brick,spelletjes,spelletjes,games,3,3
+CES201606,1750,45,brick,spiegels blokkeren omdat je lelijk bent,spiegels blokkeren lelijk bent,blocking mirrors is ugly,4,3
+CES201606,689,19,brick,om spieren mee te trainen,spieren trainen,train muscles,3,4
+CES201606,1129,26,brick,Sport: baksteen werpen,sport baksteen werpen,sports brick throwing,3,5
+CES201606,1380,35,brick,stapelen,stapelen,stack,2,5
+CES201606,1416,36,brick,stapeken,stapelen,stack,2,5
+CES201606,1749,45,brick,Stenen eten (rare OCD),stenen eten,eating stones,4,1
+CES201606,1820,46,brick,steun,steun,support,3,3
+CES201606,620,18,brick,steun pilaar,steun pilaar,support pillar,2,4
+CES201606,615,18,brick,stoel,stoel,chair,3,3
+CES201606,914,23,brick,stoel,stoel,chair,3,3
+CES201606,1072,25,brick,stoel,stoel,chair,3,3
+CES201606,392,15,brick,stoepkrijt,stoepkrijt,sidewalk chalk,3,4
+CES201606,462.1,16,brick,straat,straat,street,1,5
+CES201606,805,20,brick,straat leggen,straat leggen,laying street,1,5
+CES201606,1660,43,brick,strijbout (eerst heet maken),strijkbout,iron,4,3
+CES201606,695,19,brick,om stuk te slaan (agressietraining),stuk slaan,smash,3,4
+CES201606,613,18,brick,tafel,tafel,table,2,3
+CES201606,1755,45,brick,zelf een tafel maken met bakstenen als tafelpoten,tafel bakstenen tafelpoten,table brick table legs,2,4
+CES201606,1754,45,brick,tafel hoger maken(meerdere bakstenen nodig),tafel hoger,table higher,2,4
+CES201606,1176,27,brick,tafel recht houden,tafel recht houden,keep table straight,2,3
+CES201606,926,22,brick,tafeltje,tafeltje,table,2,3
+CES201606,293,14,brick,om iets tegen te houden,tegen houden,prevent,3,3
+CES201606,1506,38,brick,je kan er mee tekenen,tekenen,draw,3,4
+CES201606,807,20,brick,tekst in schrijven,tekst schrijven,write text,3,4
+CES201606,818,20,brick,je kan ermee tellen,tellen,count,3,2
+CES201606,289,14,brick,timmeren,timmeren,carpentry,2,4
+CES201606,294,14,brick,toren maken,toren,tower,2,5
+CES201606,462.2,16,brick,toren,toren,tower,2,5
+CES201606,464,16,brick,toren,toren,tower,2,5
+CES201606,1967,48,brick,toren,toren,tower,2,5
+CES201606,292,14,brick,trapje,trapje,step,2,5
+CES201606,170,12,brick,een traptrede,traptrede,stair step,2,5
+CES201606,519,17,brick,vangen,vangen,catch,2,3
+CES201606,618,18,brick,vecht middel,vecht middel,fighting agent,2,4
+CES201606,1720,44,brick,Verhoging,verhoging,elevation,2,4
+CES201606,2063.2,51,brick,of verhoging voor iets anders,verhoging anders,increase otherwise,2,4
+CES201606,2063.1,51,brick,verhoging voor de bureaustoel,verhoging bureaustoel,office chair increase,2,4
+CES201606,904,23,brick,verhoging voor spreker,verhoging spreker,increase speaker,2,4
+CES201606,814,20,brick,verkruimelen,verkruimelen,crumble,2,4
+CES201606,1130,26,brick,verkruimelen en als vloer gebruiken,verkruimelen vloer,crumbling floor,2,4
+CES201606,169,12,brick,iets om iets mee te vermalen,vermalen,grind,3,4
+CES201606,235,13,brick,versieren met ogen en voelsprieten als vaderdag cadeautje,versieren ogen voelsprieten Vaderdag cadeautje,decorate eyes antennae Father's Day gift,4,4
+CES201606,288,14,brick,verstoppen,verstoppen,hide,3,3
+CES201606,927,22,brick,iemand ermee verwonden door ermee te gooien,verwonden gooien,throw to injure,2,5
+CES201606,1717,44,brick,Verzwaren van dingen,verzwaren dingen,make things worse,2,4
+CES201606,1306,30,brick,vlechtwerk van oude lappen stof,vlechtwerk oude lappen stof,wickerwork old pieces of cloth,4,1
+CES201606,694,19,brick,als voelmateriaal,voelmateriaal,tactile material,3,3
+CES201606,913,23,brick,voetenbank,voetenbank,footstool,2,5
+CES201606,171,12,brick,een voorwerp om mee te kleuren,voorwerp kleuren,object colour,3,3
+CES201606,930,22,brick,vuurtje maken tussen bakstenen,vuurtje tussen bakstenen,fire between bricks,2,5
+CES201606,1974,48,brick,wandelpad,wandelpad,walking path,1,5
+CES201606,467,16,brick,wapen,wapen,weapon,2,4
+CES201606,619,18,brick,wapen,wapen,weapon,2,4
+CES201606,1179,27,brick,wapen,wapen,weapon,2,4
+CES201606,1262,29,brick,wapen,wapen,weapon,2,4
+CES201606,1435,37,brick,wapen,wapen,weapon,2,4
+CES201606,690,19,brick,om water tegen te houden,water tegen houden,hold back water,2,3
+CES201606,1071,25,brick,wateropslag,wateropslag,water storage,4,3
+CES201606,686,19,brick,weegschaalgewicht,weegschaalgewicht,scale weight,2,4
+CES201606,1971,48,brick,wolkenkrabber,wolkenkrabber,skyscraper,1,5
+CES201606,522,17,brick,een woord van maken,woord,word,4,3
+CES201606,1033,24,brick,yoga,yoga,yoga,5,4
+CES201606,300,14,brick,om op te zitten,zitten,sit,3,4
+CES201606,2021,49,brick,om op te zitten,zitten,sit,3,4
+CES201606,1177,27,brick,zorgen dat papier niet weg waait,zorgen papier niet weg waait,make sure paper doesn't blow away,2,5

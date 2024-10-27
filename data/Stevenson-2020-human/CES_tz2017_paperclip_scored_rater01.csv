@@ -1,0 +1,782 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater01,utility_rater01
+CES201712,18003,1177,paperclip,a4,a,a,0,0
+CES201712,18220,1201,paperclip,alternatief voor knoop,alternatief knoop,alternative button,4,4
+CES201712,18250.1,1209,paperclip,als architecturele inspiratie gebruiken,architecturale inspiratie,architectural inspiration,4,4
+CES201712,17709,1137,paperclip,een armband maken,armband,bracelet,3,4
+CES201712,17789,1142,paperclip,armband,armband,bracelet,3,4
+CES201712,17919,1161,paperclip,armband,armband,bracelet,3,4
+CES201712,18082,1183,paperclip,armband van maken ,armband,bracelet,3,4
+CES201712,18135,1194,paperclip,armband,armband,bracelet,3,4
+CES201712,18274,1212,paperclip,armband,armband,bracelet,3,4
+CES201712,18328,1221,paperclip,armband van maken,armband,bracelet,3,4
+CES201712,18492,1241,paperclip,armband,armband,bracelet,3,4
+CES201712,17646,1131,paperclip,armabnd van maken veel aan elkaar rijgen,armband elkaar rijgen,string bracelet together,3,4
+CES201712,18365,1227,paperclip,art,art,art,3,1
+CES201712,18078,1183,paperclip,auto mee te bekrassen ,auto bekrassen,scratch car,2,5
+CES201712,18416,1232,paperclip,ballon kapot prikken,ballon kapot prikken,pop balloon,2,5
+CES201712,18253,1218,paperclip,bandjes van BH aan elkaar verbinden voor een kruiselings effect,bandjes bh elkaar verbinden kruiselings effect,bra straps connect together in crosswise effect,4,5
+CES201712,18188,1199,paperclip,gebruiken om bandjes van een jurk bij elkaar te houden op je rug,bandjes jurk elkaar houden rug,dress straps hold together back,4,5
+CES201712,18122,1196,paperclip,basischool,basisschool,primary school,0,0
+CES201712,18174,1203,paperclip,bedel voor aan je ketting,bedel ketting,charm necklace,3,4
+CES201712,18142,1202,paperclip,beestje,beestje,creature,3,1
+CES201712,17641.2,1130,paperclip, dat je hem in een beker moet flippen,beker flippen,cup flipping,4,5
+CES201712,16913,1128,paperclip,berg mee maken om in te springen,berg springen,mountain jumping,5,3
+CES201712,17953,1166,paperclip,beschilderen,beschilderen,paint,3,3
+CES201712,18314,1224,paperclip,beschilderen,beschilderen,paint,3,3
+CES201712,18389,1226,paperclip,bh bandjes bij elkaar doen aan de achterkant,bh bandjes elkaar achterkant,bra straps meet at the back,4,5
+CES201712,18076,1183,paperclip,bh bandjes naar elkaar toe doen,bh bandjes elkaar toe,bra straps together,4,5
+CES201712,18155,1182,paperclip,bh bandjes kruizen op rug ,bh bandjes kruizen rug,bra straps cross back,4,5
+CES201712,18181,1200,paperclip,kan je gebruiken om de bh strapsjes kruiselings te zetten zodat ie niet te zien is hij het dragen,bh straps kruiselings zetten zodat ie niet zien dragen,Place bra straps crosswise so that you cannot see them being worn,4,5
+CES201712,17964,1178,paperclip,bijeenhouder,bijeen houder,holder together,1,4
+CES201712,17881,1167,paperclip,bijeenhouden,bijeenhouden,hold together,1,4
+CES201712,17915,1161,paperclip,bijl,bijl,axe,0,0
+CES201712,18309,1224,paperclip,Blaadjes aan elkaar maken,blaadjes elkaar,leaves together,1,5
+CES201712,18467,1237,paperclip,Je kunt blaadjes bij elkaar halen ,blaadjes elkaar halen,pick up leaves,1,5
+CES201712,18194,1198,paperclip,blaadjes aan elkaar vastmaken,blaadjes elkaar vastmaken,attach leaves together,1,5
+CES201712,18178,1200,paperclip,om blaadjes vast te maken,blaadjes vast,leaves,1,5
+CES201712,17733,1138,paperclip,Blaadjes vasthouden,blaadjes vasthouden,hold leaves,1,5
+CES201712,18468,1237,paperclip,Je kunt een bladzijde van een boek mee onthouden door het op die bladzijde te clippen,bladzijde boek onthouden bladzijde klippen,page book remember page clip,2,5
+CES201712,17645,1131,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,17800,1134,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,17985,1144,paperclip,Al boekenlegger,boekenlegger,bookmark,2,5
+CES201712,17930,1168,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,17968,1178,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18075,1183,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18064,1189,paperclip,Boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18306,1206,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18436,1234,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18449,1235,paperclip,boekenlegger,boekenlegger,bookmark,2,5
+CES201712,18470,1237,paperclip,Je kunt het als boeklegger gebruiken,boeklegger,bookmark,2,5
+CES201712,17972,1163,paperclip,Bookmark,bookmark,bookmark,2,5
+CES201712,17865,1148,paperclip,boortje,boortje,drill,4,3
+CES201712,18304,1206,paperclip,bordprikker,bordprikker,plate picker,3,5
+CES201712,18412,1230,paperclip, bos bloemen bij elkaar binden,bos bloemen elkaar binden,bunch of flowers tie together,3,4
+CES201712,18366,1227,paperclip,boterham zakje,boterham zakje,sandwich bag,2,5
+CES201712,18398,1231,paperclip,te brede kleding smaller maken,brede kleding smaller,wide clothes narrower,2,4
+CES201712,18383,1228,paperclip,breken,breken,break,1,5
+CES201712,17876,1162,paperclip,om intebreken in een deur,breken deur,breaking door,3,4
+CES201712,18219,1201,paperclip,broche,broche,brooch,3,4
+CES201712,18285,1223,paperclip,broche,broche,brooch,3,4
+CES201712,18321,1219,paperclip,broekriem,broekriem,belt,5,3
+CES201712,17883,1167,paperclip,buigbaar,buigbaar,bendable,0,0
+CES201712,17808,1151,paperclip,buigen ,buigen,bend,1,5
+CES201712,18146,1192,paperclip,buigen,buigen,bend,1,5
+CES201712,18214,1217,paperclip,buigen,buigen,bend,1,5
+CES201712,18323,1219,paperclip,buigen,buigen,bend,1,5
+CES201712,18354,1225,paperclip,buigen],buigen,bend,1,5
+CES201712,18378,1228,paperclip,buigen,buigen,bend,1,5
+CES201712,17077,1129,paperclip,buigen tot een leuke vorm,buigen leuke vorm,bend nice shape,2,5
+CES201712,17858,1148,paperclip,bureau,bureau,desk,0,0
+CES201712,18131,1196,paperclip,bureau,bureau,desk,0,0
+CES201712,17863,1148,paperclip,clipje,clipje,clip,1,4
+CES201712,18004,1177,paperclip,clipje,clipje,clip,1,4
+CES201712,17729,1143,paperclip,coctail prikkers,cocktail prikkers,cocktail sticks,4,5
+CES201712,18357,1225,paperclip,creatief,creatief,creatively,0,0
+CES201712,18305,1206,paperclip,decoraties van maken,decoraties,decorations,3,3
+CES201712,18294,1213,paperclip,deur mee openen ,deur openen,open door,3,4
+CES201712,17929,1168,paperclip,deuren open maken,deuren open,doors open,3,4
+CES201712,18050,1174,paperclip,deuren open maken,deuren open,doors open,3,4
+CES201712,18229,1188,paperclip,deuren openen,deuren openen,open doors,3,4
+CES201712,18158,1190,paperclip,deuropener,deuropener,door opener,3,4
+CES201712,17950,1166,paperclip,deurslot openen,deurslot openen,open door lock,3,4
+CES201712,18290,1223,paperclip,een deurstop,deurstopper,door stopper,4,2
+CES201712,18008,1177,paperclip,dief,dief,thief,0,0
+CES201712,18477,1238,paperclip,tot een dier vouwen,dier vouwen,animal folding,2,4
+CES201712,18261.1,1207,paperclip,2 dingen,dingen,stuff,0,0
+CES201712,17763,1140,paperclip,om dingen mee aan elkaar te binden,dingen elkaar binden,tie things together,1,4
+CES201712,18057,1174,paperclip,andere dingen bij elkaar houden,dingen elkaar houden,things hold together,1,4
+CES201712,18367,1220,paperclip,om dingen mee bij elkaar te houden (papier bijv.),dingen elkaar houden,things hold together,1,4
+CES201712,17762,1140,paperclip,dingen bij elkaar te klippen,dingen elkaar klippen,things break apart,1,4
+CES201712,18052,1174,paperclip,gebruiken om dingen aan elkaar vast te maken,dingen elkaar vast,things stick together,1,4
+CES201712,18239,1208,paperclip,dingen aan elkaar vast maken,dingen elkaar vast,things stick together,1,4
+CES201712,18386,1226,paperclip,dingen aan elkaar vastmaken,dingen elkaar vastmaken,attaching things together,1,4
+CES201712,18363,1227,paperclip,dinen aan elkaar verbinden,dingen elkaar verbinden,connecting things together,1,4
+CES201712,17799,1134,paperclip,om dingen niet kwijt te raken,dingen niet kwijt raken,do not lose things,1,4
+CES201712,18278,1212,paperclip,dingen ophangen,dingen ophangen,hanging things,2,4
+CES201712,17782,1153,paperclip,dingen vastmaken,dingen vastmaken,fasten things,1,4
+CES201712,18279,1212,paperclip,dingen verbinden,dingen verbinden,connecting things,1,4
+CES201712,18179,1200,paperclip,documenten bij elkaar te houden,documenten elkaar houden,documents together,1,5
+CES201712,17774,1153,paperclip,doe het zelf tatoeage mee maken,doe tatoeage,do tattoo,5,3
+CES201712,17815,1151,paperclip,doorknippen ,doorknippen,cut,3,4
+CES201712,18149,1192,paperclip,doorprikken,doorprikken,puncture,2,4
+CES201712,18152,1192,paperclip,douchputje ontstoppen,douche putje ontstoppen,unclog shower drain,4,5
+CES201712,17898,1160,paperclip,een draaitol oneindig laten draaien,draaitol oneindig laten draaien,allow spinning top to spin indefinitely,5,2
+CES201712,17958,1158,paperclip,      n lang recht draad van maken,̩̩n lang recht draad,One long straight wire,1,3
+CES201712,18137,1194,paperclip,elastiekje ,elastiekje,rubber band,3,2
+CES201712,17712,1137,paperclip,Je kunt een elastiekje voor je haar ervan maken,elastiekje haar ervan,elastic hair from it,3,2
+CES201712,17991,1169,paperclip,elektrische geleider,elektrische geleider,electrical conductor,3,4
+CES201712,18124,1196,paperclip,bij elkaar houden,elkaar houden,keep together,1,4
+CES201712,18026,1165,paperclip,ergens iets mee doorprikken,ergens doorprikken,puncture somewhere,2,4
+CES201712,17637,1130,paperclip,je kan het gebruiken om ergens een gat in te maken,ergens gat,hole somewhere,2,4
+CES201712,18025,1165,paperclip,ergens aan vastmaken,ergens vastmaken,attach somewhere,1,4
+CES201712,18476,1238,paperclip,mee eten,eten,eat,4,3
+CES201712,18237,1208,paperclip,fidget ding,fidget ding,fidget thing,2,3
+CES201712,16911,1128,paperclip,figuurtje mee maken,figuurtje,figure,2,3
+CES201712,17783,1142,paperclip,figuurtjes van te maken,figuurtjes,figures,2,3
+CES201712,18264,1211,paperclip,figuurtjes van buigen,figuurtjes buigen,bending figures,2,3
+CES201712,18030,1186,paperclip,fotos ophangen,foto s ophangen,hang up photos,3,4
+CES201712,18392,1229,paperclip,gaatje mee prikken,gaatje prikken,poke hole,2,4
+CES201712,18169,1191,paperclip,gaatjes maken ,gaatjes,holes,2,4
+CES201712,18270,1216,paperclip,gaatjes mee maken in een papiertje,gaatjes papiertje,holes in paper,2,4
+CES201712,18203,1195,paperclip,gaatjes prikken in bijvoorbeeld papier,gaatjes prikken oorbeeld papier,poke holes in example paper,2,4
+CES201712,17757,1141,paperclip,gaatjes prikker,gaatjes prikker,hole picker,2,4
+CES201712,17787,1142,paperclip,gaatjes prikker,gaatjes prikker,hole picker,2,4
+CES201712,17941,1173,paperclip,gaten te prikken,gaten prikken,poke holes,2,4
+CES201712,17866,1148,paperclip,gatenprikker,gatenprikker,hole picker,2,4
+CES201712,18478,1239,paperclip,heb ik ook al egdaan,gedaan,done,0,0
+CES201712,18471,1237,paperclip,Je kunt er geld mee bij elkaar houden (papiergeld),geld elkaar houden,keep money together,1,5
+CES201712,17935,1173,paperclip,geld vast te houden,geld vast houden,hold money,1,5
+CES201712,17827,1155,paperclip,geldclip,geldclip,money clip,1,5
+CES201712,17737,1138,paperclip,Geleider,geleider,conductor,3,4
+CES201712,17745,1145,paperclip,als geleider voor twee elektrische signalen gebruiken,geleider elektrische signalen,conductor electrical signals,3,4
+CES201712,17780,1153,paperclip,geleiding voor draadjes van bijv computer,geleiding draadjes oorbeeld computer,conduction wires example computer,3,4
+CES201712,18161,1190,paperclip,gelijkdingsdraadje,geleidingsdraadje,guide wire,3,4
+CES201712,18371,1220,paperclip,als gesp gebruiken,gesp,belt buckle,4,3
+CES201712,17846,1148,paperclip,gewicht,gewicht,weight,3,2
+CES201712,18479,1240,paperclip,dit heb ik al gezien,gezien,seen,0,0
+CES201712,17988,1144,paperclip,Op glas om aan te geven dat deze van jou is,glas geven jou,glass give you,5,4
+CES201712,17886,1167,paperclip,goedkoop,goedkoop,cheap,0,0
+CES201712,18127,1196,paperclip,goedkoop,goedkoop,cheap,0,0
+CES201712,17819,1151,paperclip,gooien ,gooien,throw,1,3
+CES201712,18380,1228,paperclip,gooien,gooien,throw,1,3
+CES201712,18307,1206,paperclip,te grote broek bij elkaar houden,grote broek elkaar houden,big pants hold together,3,4
+CES201712,17864,1148,paperclip,haakje,haakje,hook,2,4
+CES201712,18362,1227,paperclip,in je haar doen,haar,hair,3,4
+CES201712,17963,1178,paperclip,haaraccesoire,haar accessoire,hair accessory,3,4
+CES201712,17718,1139,paperclip,haarclip,haar clip,hair clip,3,4
+CES201712,17792,1147,paperclip,haarclip,haar clip,hair clip,3,4
+CES201712,17839,1156,paperclip,haarclip,haar clip,hair clip,3,4
+CES201712,17902,1159,paperclip,haar clip,haar clip,hair clip,3,4
+CES201712,18108,1175,paperclip,haarclip,haar clip,hair clip,3,4
+CES201712,18319,1219,paperclip,haarclip,haar clip,hair clip,3,4
+CES201712,17705,1136,paperclip,haar klipje,haar clipje,hair clip,3,4
+CES201712,17753,1141,paperclip,haarclipje,haar clipje,hair clip,3,4
+CES201712,17781,1142,paperclip,haar klipje,haar clipje,hair clip,3,4
+CES201712,18029,1186,paperclip,haar clipje,haar clipje,hair clip,3,4
+CES201712,18222,1201,paperclip,haarklipje,haar clipje,hair clip,3,4
+CES201712,18368,1220,paperclip,als haarclipje,haar clipje,hair clip,3,4
+CES201712,18401,1231,paperclip,haarclipje van maken,haar clipje,hair clip,3,4
+CES201712,18291,1223,paperclip,haarelastiek,haar elastiek,hair elastic,3,4
+CES201712,17971,1163,paperclip,Haar bij elkaar houden,haar elkaar houden,hold hair together,3,4
+CES201712,18233,1188,paperclip,je haar uit je gezicht houden,haar gezicht houden,keep hair face,3,4
+CES201712,17986,1144,paperclip,Haarschuifje,haar schuifje,hair slider,3,4
+CES201712,18093,1180,paperclip,in je haar stoppen,haar stoppen,stop hair,3,4
+CES201712,17638,1130,paperclip,om je haar vast te zetten,haar vast zetten,pin hair down,3,4
+CES201712,18448,1235,paperclip,om je haar vast te zetten,haar vast zetten,pin hair down,3,4
+CES201712,18067,1181,paperclip,haar vasthouden,haar vasthouden,hold hair together,3,4
+CES201712,18151,1192,paperclip,haar vasthouden,haar vasthouden,hold hair together,3,4
+CES201712,17076,1129,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,17981,1154,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,17921,1161,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,17888,1164,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,18034,1179,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,18196,1198,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,18301,1206,paperclip,haarspeld,haarspeld,Bobby pin,3,4
+CES201712,18406,1230,paperclip,als haarspeld,haarspeld,Bobby pin,3,4
+CES201712,17675,1132,paperclip,als haarspeldje?,haarspeldje,hairclip,3,4
+CES201712,18012,1177,paperclip,haarspeldje,haarspeldje,hairclip,3,4
+CES201712,18189,1210,paperclip,haarspeltje,haarspeldje,hairclip,3,4
+CES201712,18129,1196,paperclip,handig,handig,useful,0,0
+CES201712,18359,1225,paperclip,handig,handig,useful,0,0
+CES201712,17906,1159,paperclip,hands-on verdediging,hands on verdediging,hands on defense,4,3
+CES201712,18447,1235,paperclip,om iets aan op te hangen,hangen,hang,2,4
+CES201712,18284,1223,paperclip,hanger aan ketting,hanger ketting,pendant necklace,2,4
+CES201712,18110,1175,paperclip,hangertje,hangertje,pendant,2,4
+CES201712,18090,1187,paperclip,in een hartjesvorm maken en als cadeautje geven op Valentijnsdag,hartjes vorm cadeautje geven Valentijnsdag,heart shape gift giving Valentine's Day,2,5
+CES201712,18117.2,1193,paperclip, van heel veel paperclips,heel paperclips,very paperclips,0,0
+CES201712,18071,1181,paperclip,om iets heen wikkelen,heen wikkelen,wrap around,2,4
+CES201712,18240,1208,paperclip,hek bovenkant,hek bovenkant,fence top,3,3
+CES201712,18241,1208,paperclip,hele nauwe knopjes mee indrukken,hele nauwe knopjes indrukken,pressing very tight buttons,2,5
+CES201712,18054,1174,paperclip,helemaal uit elkaar trekken en gebruiken als ijzerdraadje,helemaal elkaar trekken ijzerdraadje,pull iron wire completely apart,1,3
+CES201712,18332,1221,paperclip,hoofdband maken,hoofdband,headband,4,4
+CES201712,17939,1173,paperclip,horloge banden losmaken,horloge banden losmaken,loosen watch straps,4,4
+CES201712,17677,1132,paperclip,om je horlogebandjes te verwisselen,horlogebandjes verwisselen,change watch straps,4,4
+CES201712,18144,1202,paperclip,houdt een gat dicht,houdt gat dicht,keeps hole closed,3,3
+CES201712,18118,1196,paperclip,huiswerk,huiswerk,Homework,0,0
+CES201712,17868,1148,paperclip,hulpstuk,hulpstuk,attachment,0,0
+CES201712,17854,1148,paperclip,ijzer,ijzer,iron,1,3
+CES201712,18210,1217,paperclip,ijzer,ijzer,iron,1,3
+CES201712,17824,1155,paperclip,ijzerdraad van maken,ijzerdraad,iron wire,1,5
+CES201712,17845,1156,paperclip,ijzerdraad,ijzerdraad,iron wire,1,4
+CES201712,18434,1233,paperclip,gebruiken als ijzerdraad,ijzerdraad,iron wire,1,4
+CES201712,17908,1159,paperclip,ijzerdraad om dingen opte hangen,ijzerdraad dingen hangen,iron wire things hang,2,4
+CES201712,18330,1221,paperclip,ijzerdraad ergens voor gebruiken,ijzerdraad ergens,iron wire somewhere,1,4
+CES201712,17674,1132,paperclip,als ijzerdraad om een slot open te maken,ijzerdraad slot open,iron wire lock open,3,4
+CES201712,18159,1190,paperclip,ijzerdraadje,ijzerdraadje,iron wire,1,4
+CES201712,18197,1198,paperclip,ijzerdraadje om iets mee te prikken,ijzerdraadje prikken,pierce wire,2,4
+CES201712,18221,1201,paperclip,inbraakmiddel,inbraakmiddel,burglary agent,3,4
+CES201712,18009,1177,paperclip,inbreken,inbreken,break in,3,4
+CES201712,18228,1188,paperclip,inbreken,inbreken,break in,3,4
+CES201712,17852,1148,paperclip,inhaken,inhaken,hook up,1,4
+CES201712,17813,1151,paperclip,inpakken ,inpakken,packing up,1,3
+CES201712,17899,1160,paperclip,iphone open maken,iPhone open,iPhone open,2,5
+CES201712,17784,1142,paperclip,iphone mee te openen,iPhone openen,Open iPhone,2,5
+CES201712,18265,1211,paperclip,iphone openmaken om de simkaart erin te kunnen doen,iPhone openmaken simkaart erin,Open iPhone and insert SIM card,2,5
+CES201712,18056,1174,paperclip,gebruiken om je iphone sim kaart mee te vervangen,iPhone sim kaart vervangen,Replace iPhone SIM card,2,5
+CES201712,17844,1156,paperclip,iphone simcard remover,iPhone simcard remover,iPhone sim card remover,2,5
+CES201712,18230,1188,paperclip,iphone simkaarthouder openen,iPhone simkaart houder openen,Open iPhone SIM card holder,2,5
+CES201712,18246,1215,paperclip,iphone simkaart opendrukken,iPhone simkaart open drukken,Press open iPhone SIM card,2,5
+CES201712,18113,1193,paperclip,iphone simkaart vakje openen,iPhone simkaart vakje openen,Open iPhone SIM card compartment,2,5
+CES201712,18262,1207,paperclip,jas mee dicht maken,jas dicht,jacket closed,3,4
+CES201712,17932,1168,paperclip,jurk van maken,jurk,dress,3,2
+CES201712,17728,1143,paperclip,kaasprikker,kaasprikker,cheese stick,4,4
+CES201712,17894,1164,paperclip,kabelbinder,kabelbinder,cable tie,3,5
+CES201712,18010,1177,paperclip,kantoor,kantoor,office,0,0
+CES201712,18120,1196,paperclip,kantoor,kantoor,office,0,0
+CES201712,17855,1148,paperclip,kantoorartikel,kantoorartikel,office supplies,1,5
+CES201712,18130,1196,paperclip,kantoorspullen,kantoorspullen,office supplies,1,5
+CES201712,17952,1166,paperclip,kapot knippen,kapot knippen,cut to pieces,3,4
+CES201712,17926,1135,paperclip,kapot maken en met het puntje je iphone geheugenkaart eruit halen,kapot puntje iPhone geheugenkaart eruit halen,Remove broken point of iPhone memory card,2,5
+CES201712,17925,1135,paperclip,kapot maken en met de scherpe kant een lot krassen,kapot scherpe kant lot krassen,broken sharp edge can lots scratch,2,4
+CES201712,17701,1136,paperclip,om een kapotte rits aan je knoop te laten zitten,kapotte rits knoop laten zitten,leave broken zipper button in place,3,5
+CES201712,18085,1183,paperclip,kapstok,kapstok,coat rack,5,2
+CES201712,18356,1225,paperclip,karton,karton,cardboard,0,0
+CES201712,17999,1172,paperclip,als kerstbal haakje gebruiken,kerstbal haakje,Christmas ball hook,3,5
+CES201712,17909,1159,paperclip,kerstballen in kerstboom hangen,kerstballen kerstboom hangen,Christmas balls hanging on Christmas tree,3,5
+CES201712,17741,1145,paperclip,kerstboom versieren,kerstboom versieren,decorate Christmas tree,3,5
+CES201712,18172,1191,paperclip,kerven,kerven,carve,2,4
+CES201712,17702,1136,paperclip,ketting maken,ketting,chain,2,4
+CES201712,17984,1144,paperclip,Als ketting,ketting,chain,2,4
+CES201712,17853,1148,paperclip,ketting vanmaken,ketting,chain,2,4
+CES201712,17943,1152,paperclip,ketting,ketting,chain,2,4
+CES201712,17768,1153,paperclip,ketting,ketting,chain,2,5
+CES201712,17956,1158,paperclip,ketting mee maken ,ketting,chain,2,4
+CES201712,17931,1168,paperclip,ketting van maken,ketting,chain,2,5
+CES201712,18042,1176,paperclip,ketting,ketting,chain,2,4
+CES201712,18014,1177,paperclip,ketting,ketting,chain,2,4
+CES201712,18072,1183,paperclip,ketting,ketting,chain,2,4
+CES201712,18101,1184,paperclip,ketting,ketting,chain,2,4
+CES201712,18134,1194,paperclip,ketting,ketting,chain,2,4
+CES201712,18186,1199,paperclip,Je kan er een ketting van maken,ketting,chain,2,4
+CES201712,18257,1207,paperclip,ketting van maken,ketting,chain,2,4
+CES201712,18242,1208,paperclip,ketting ,ketting,chain,2,4
+CES201712,18271,1212,paperclip,ketting maken,ketting,chain,2,4
+CES201712,18327,1221,paperclip,ketting mee maken,ketting,chain,2,4
+CES201712,18299,1222,paperclip,ketting van maken,ketting,chain,2,4
+CES201712,18433,1233,paperclip,ketting maken,ketting,chain,2,4
+CES201712,17914,1157,paperclip,een ketting van maken door ze aan elkaar te verbinden,ketting elkaar verbinden,chain connect together,2,4
+CES201712,17997,1169,paperclip,ketting maken met meerdere,ketting meerdere,chain multiple,2,4
+CES201712,18315,1224,paperclip,ketting maken van meerdere paperclips aan elkaar,ketting meerdere paperclips elkaar,chain several paperclips together,2,4
+CES201712,18232,1188,paperclip,een ketting van paperclips maken,ketting paperclips,chain paperclips,2,4
+CES201712,18415,1232,paperclip,ketting rijgen,ketting rijgen,stringing chain,2,4
+CES201712,18252,1218,paperclip,kettingen van maken,kettingen,Chains,2,4
+CES201712,18223,1201,paperclip,kettinghangertje,kettinghangertje,chain pendant,2,4
+CES201712,18099,1184,paperclip,kleding assecoire,kleding accessoire,clothing accessory,2,4
+CES201712,18287,1223,paperclip,bij kleding decolotte bij elkaar te houden,kleding decollet̩ elkaar houden,clothes keep neckline together,2,4
+CES201712,17776,1153,paperclip,kleding bij elkaar hoe ehet zoiets ook alweer,kleding elkaar heet zoiets alweer,"clothing together, what it's called again",0,0
+CES201712,18156,1182,paperclip,kleding hanger shirt en broek aan elkaar koppelen,kleding hanger shirt broek elkaar koppelen,clothes hanger shirt pants link together,3,4
+CES201712,18195,1198,paperclip,kleding mee innemen,kleding innemen,taking clothes,4,4
+CES201712,18277,1212,paperclip,om je kleding vast te maken,kleding vast,clothing,2,4
+CES201712,18125,1196,paperclip,klein,klein,small,0,0
+CES201712,18259,1207,paperclip,gebruiken om iets uit een klein gaatje te halen,klein gaatje halen,make small hole,2,4
+CES201712,18374,1220,paperclip,gebruiken om kleine dingen mee los te krijgen,kleine dingen los krijgen,getting small things loose,2,4
+CES201712,18297,1213,paperclip,Om kleine dingen mee los te wrikken,kleine dingen los wrikken,prying small things loose,2,4
+CES201712,18061,1189,paperclip,Kleine oppervlakte schoon maken,kleine oppervlakte schoon,small area clean,2,4
+CES201712,17887,1167,paperclip,klem,klem,clamp,3,4
+CES201712,17884,1167,paperclip,kleuren,kleuren,colour,3,3
+CES201712,18046,1176,paperclip,kleuren,kleuren,colour,3,3
+CES201712,16912,1128,paperclip,klimrek mee maken,klimrek,climbing frame,5,2
+CES201712,18096,1180,paperclip,als knoop voor je broek,knoop broek,button pants,3,4
+CES201712,17722,1139,paperclip,om een knop ingedrukt te houden,knop ingedrukt houden,keep button pressed,3,4
+CES201712,17802,1134,paperclip,om mee te knutselen,knutselen,craft,2,4
+CES201712,17897,1160,paperclip,kompas maken,kompas,compass,5,2
+CES201712,17946,1152,paperclip,kompas bouwen,kompas bouwen,build compass,5,2
+CES201712,18043,1176,paperclip,koord,koord,cord,2,3
+CES201712,17857,1148,paperclip,koppelen,koppelen,link,1,5
+CES201712,17080,1129,paperclip,kortsluiting maken,kortsluiting,short circuit,3,4
+CES201712,17905,1159,paperclip,kortsluiting maken,kortsluiting,short circuit,3,4
+CES201712,18473,1238,paperclip,kortsluiting maken,kortsluiting,short circuit,3,4
+CES201712,18104,1184,paperclip,krabber om vies hoekje schoon te maken,krabber vies hoekje schoon,scraper dirty corner clean,2,4
+CES201712,17878,1162,paperclip,om kralen aan te rijgen,kralen rijgen,stringing beads,3,4
+CES201712,18040,1179,paperclip,om krasloten mee tekrassen,krasloten krassen,scratch cards scratch,2,5
+CES201712,17954,1166,paperclip,krassen,krassen,scratch,2,4
+CES201712,18171,1191,paperclip,krassen maken ,krassen,scratch,2,4
+CES201712,18069,1181,paperclip,gebruiken om te krassen in dingen,krassen dingen,scratch things,2,4
+CES201712,18231,1188,paperclip,iets krassen in een opppervlak,krassen oppervlak,scratch surface,2,4
+CES201712,18322,1219,paperclip,kunst,kunst,art,3,3
+CES201712,18288,1223,paperclip,Iets van kunst ervan maken,kunst ervan,art of it,3,3
+CES201712,17872,1162,paperclip,kunstwerj\k,kunstwerk,artwork,3,3
+CES201712,17873,1162,paperclip,kunstwerk,kunstwerk,artwork,3,3
+CES201712,18117.1,1193,paperclip,kunstwerk mee maken,kunstwerk,artwork,3,3
+CES201712,18141,1202,paperclip,kunstwerk,kunstwerk,artwork,3,3
+CES201712,18256,1207,paperclip,kunstwerk van maken,kunstwerk,artwork,3,3
+CES201712,18361,1225,paperclip,kwijt,kwijt,lost,0,0
+CES201712,18138,1194,paperclip,lamp,lamp,lamp,0,0
+CES201712,18018,1171,paperclip,lampion aan ophangen,lampion ophangen,hang up lantern,3,4
+CES201712,17820,1151,paperclip,laten vallen ,laten vallen,drop,1,3
+CES201712,18128,1196,paperclip,ligt,ligt,is,0,0
+CES201712,17859,1148,paperclip,lineaal,liniaal,ruler,4,2
+CES201712,17924,1135,paperclip,aan je lip hangen,lip hangen,lip hanging,3,5
+CES201712,17903,1159,paperclip,lockpick,lock pick,lock pick,3,4
+CES201712,17970,1163,paperclip,Lockpick,lock pick,lock pick,3,4
+CES201712,18036,1179,paperclip,lockpicker,lock picker,lock picker,3,4
+CES201712,17740,1145,paperclip,lockpicking,lock picking,lock picking,3,4
+CES201712,17822,1155,paperclip,lockpicking,lock picking,lock picking,3,4
+CES201712,18238,1208,paperclip,loper,loper,runner,3,4
+CES201712,17639,1130,paperclip,je kan er iets mee los trekken/haken (zoals een etiketje aan kleding),los trekken haken,pull loose hooks,3,4
+CES201712,18198,1198,paperclip,gebruiken om een magneet aan te trekken,magneet trekken,pull magnet,3,4
+CES201712,17760,1141,paperclip,magneetje,magneetje,magnet,3,4
+CES201712,18331,1221,paperclip,malienkolder ervan maken,mali  nkolder ervan,mali nkold of it,5,4
+CES201712,18095,1180,paperclip,als manchet knoop,manchet knoop,cuff button,4,4
+CES201712,18276,1212,paperclip,mapjes van paperclips,mapjes paperclips,folders paper clips,1,5
+CES201712,18089,1187,paperclip,gebruiken als markering van een bladzijde in een boek,markering bladzijde boek,marking page book,2,5
+CES201712,18053,1174,paperclip,meerdere paperclips aan elkaar vast maken om iets te verlengen,meerdere paperclips elkaar vast verlengen,several paper clips extend together attach,2,4
+CES201712,18041,1179,paperclip,mes,mes,knife,4,2
+CES201712,18346,1225,paperclip,metaak,metaal,metal,1,3
+CES201712,18347,1225,paperclip,metaal,metaal,metal,1,3
+CES201712,18204,1195,paperclip,mini schommel maken,mini schommel,mini swing,4,2
+CES201712,17805,1149,paperclip,mobiel openen ,mobiel openen,open mobile,2,5
+CES201712,18376,1228,paperclip,mobiel resetten,mobiel resetten,mobile reset,2,5
+CES201712,18493,1241,paperclip,moordwapen,moordwapen,murder weapon,3,2
+CES201712,17867,1148,paperclip,naai gerei,naai gerei,sewing tools,3,4
+CES201712,17719,1139,paperclip,als naald gebruiken,naald,needle,3,4
+CES201712,17755,1141,paperclip,naald,naald,needle,3,4
+CES201712,17786,1142,paperclip,naald,naald,needle,3,4
+CES201712,17825,1155,paperclip,gebruiken als naald,naald,needle,3,4
+CES201712,17843,1156,paperclip,naald,naald,needle,3,4
+CES201712,18109,1175,paperclip,naald,naald,needle,3,4
+CES201712,18035,1179,paperclip,naald,naald,needle,3,4
+CES201712,18286,1223,paperclip,als een naald,naald,needle,3,4
+CES201712,18403,1231,paperclip,gebruiken als naald,naald,needle,3,4
+CES201712,18491,1241,paperclip,naald,naald,needle,3,4
+CES201712,17993,1169,paperclip,nagels mee schoonmaken,nagels schoonmaken,cleaning nails,3,5
+CES201712,17724,1143,paperclip,nagelvijltje,nagelvijltje,nail file,0,0
+CES201712,18167,1191,paperclip,neus peuteren,neus peuteren,pick your nose,3,3
+CES201712,18400,1231,paperclip,neuspiercing van maken,neuspiercing,nose piercing,3,4
+CES201712,17860,1148,paperclip,nietje,nietje,staple,1,5
+CES201712,17770,1153,paperclip,nietje,nietje,staple,1,5
+CES201712,18358,1225,paperclip,nuttig,nuttig,useful,0,0
+CES201712,17778,1153,paperclip,oh ja veiligheidsspeld,oh veiligheidsspeld,oh safety pin,3,4
+CES201712,17850,1148,paperclip,ombuigen ,ombuigen,bend,1,4
+CES201712,18021,1165,paperclip,ombuigen,ombuigen,bend,1,4
+CES201712,18201,1195,paperclip,ombuigen,ombuigen,bend,1,4
+CES201712,18267,1216,paperclip,ombuigen,ombuigen,bend,1,4
+CES201712,18208,1195,paperclip,ombuigen tot mini-wip,ombuigen mini wip,bend mini seesaw,3,3
+CES201712,18372,1220,paperclip,ombuigen tot een oorbel,ombuigen oorbel,bend earring,2,4
+CES201712,18207,1195,paperclip,ombuigen tot poppetje,ombuigen poppetje,bend doll,2,4
+CES201712,18373,1220,paperclip,ombuigen tot een ring,ombuigen ring,bend ring,2,4
+CES201712,18205,1195,paperclip,ombuigen tot ringetje,ombuigen ringetje,bend ring,2,4
+CES201712,17743,1145,paperclip,ombuigen tot vishaak,ombuigen vishaak,bend fishing hook,3,4
+CES201712,18355,1225,paperclip,omvormen,omvormen,transform,1,4
+CES201712,18382,1228,paperclip,omvormen tot een figuur,omvormen figuur,transform figure,2,4
+CES201712,18311,1224,paperclip,Omvormen tot leuke vormpjes,omvormen leuke vormpjes,transform into nice shapes,2,4
+CES201712,18360,1225,paperclip,onmisbaar,onmisbaar,indispensable,0,0
+CES201712,17746,1145,paperclip,ontsnappen uit een gevangenis,ontsnappen gevangenis,escape prison,3,4
+CES201712,17949,1166,paperclip,ontvouwen,ontvouwen,unfold,1,4
+CES201712,18079,1183,paperclip,oog mee uit te steken,oog steken,eye stabbing,3,4
+CES201712,18081,1183,paperclip,in je oor jeuken ,oor jeuken,ear itching,3,3
+CES201712,17078,1129,paperclip,je oor mee schoonmaken,oor schoonmaken,ear cleaning,3,3
+CES201712,18474,1238,paperclip,oor mee schoonmaken,oor schoonmaken,ear cleaning,3,3
+CES201712,17771,1153,paperclip,oorstaafje,oor staafje,ear bar,3,3
+CES201712,17732,1138,paperclip,Oorbel,oorbel,earring,2,4
+CES201712,17758,1141,paperclip,oorbel,oorbel,earring,2,4
+CES201712,17788,1142,paperclip,oorbel,oorbel,earring,2,4
+CES201712,17982,1144,paperclip,Als oorbel,oorbel,earring,2,4
+CES201712,17862,1148,paperclip,oorbel,oorbel,earring,2,4
+CES201712,17806,1149,paperclip,oorbel,oorbel,earring,2,4
+CES201712,17891,1164,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18106,1175,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18073,1183,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18100,1184,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18206,1195,paperclip,als oorbel gebruiken,oorbel,earring,2,4
+CES201712,18217,1201,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18175,1203,paperclip,oorbel ,oorbel,earring,2,4
+CES201712,18255,1207,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18191,1210,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18272,1212,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18282,1223,paperclip,oorbee\l,oorbel,earring,2,4
+CES201712,18283,1223,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18390,1229,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18408,1230,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18445,1235,paperclip,oorbel,oorbel,earring,2,4
+CES201712,18489,1241,paperclip,oorbel,oorbel,earring,2,4
+CES201712,17636,1130,paperclip,als oorbel dragen,oorbel dragen,wear earring,2,4
+CES201712,18184,1199,paperclip,Een oorbel ervan maken,oorbel ervan,earring of it,2,4
+CES201712,17890,1164,paperclip,oorbelhanger,oorbel hanger,earring pendant,2,4
+CES201712,17643,1131,paperclip,oorbellen van maken,oorbellen,earrings,2,4
+CES201712,17706,1136,paperclip,oorbellen,oorbellen,earrings,2,4
+CES201712,17816,1151,paperclip,als oorbellen gebruiken ,oorbellen,earrings,2,4
+CES201712,18044,1176,paperclip,oorbellen,oorbellen,earrings,2,4
+CES201712,18251,1218,paperclip,oorbellen van maken,oorbellen,earrings,2,4
+CES201712,18298,1222,paperclip,oorring van maken,oorring,earring,2,4
+CES201712,18168,1191,paperclip,oorsmeer uit je oor halen ,oorsmeer oor halen,remove earwax from ear,3,3
+CES201712,17731,1143,paperclip,oortjesbinder zodat ze niet in de knoop komen,oortjesbinder zodat niet knoop komen,ear strap to prevent knots,3,4
+CES201712,18349,1225,paperclip,opbergen,opbergen,store,1,3
+CES201712,18353,1225,paperclip,opdracht,opdracht,Job,0,0
+CES201712,17821,1151,paperclip,open buigen,open buigen,bend open,1,4
+CES201712,18316,1219,paperclip,openhouder,open houder,open holder,1,1
+CES201712,18414,1232,paperclip,openen iphone simkaart gleufje ,openen iPhone simkaart gleufje,open iPhone SIM card slot,2,5
+CES201712,18092,1180,paperclip,openen van een slot,openen slot,open lock,2,5
+CES201712,18469,1237,paperclip,Je kunt het openmaken en in resetgaatjes van modems duwen ,openmaken resetgaatjes modems duwen,open reset holes and push modems,2,5
+CES201712,18333,1221,paperclip,ophangrekje ervan maken,ophang rekje ervan,hanging rack of it,3,4
+CES201712,17703,1136,paperclip,iets ophangen,ophangen,hang,2,4
+CES201712,17810,1151,paperclip,ophangen ,ophangen,hang,2,4
+CES201712,18051,1174,paperclip,iets aan ophangen,ophangen,hang,2,4
+CES201712,18387,1226,paperclip,iets aan ophangen,ophangen,hang,2,4
+CES201712,17814,1151,paperclip,oprollen ,oprollen,roll up,1,4
+CES201712,18119,1196,paperclip,ordenen,ordenen,organize,1,5
+CES201712,18312,1224,paperclip,ordenen met paperclips,ordenen paperclips,organize paper clips,1,5
+CES201712,18212,1217,paperclip,ovaal,ovaal,oval,0,0
+CES201712,17917,1161,paperclip,paperclip,paperclip,paperclip,0,0
+CES201712,18337,1214,paperclip,paperclip armband,paperclip armband,paperclip bracelet,2,4
+CES201712,18335,1214,paperclip,paperclip voor in je haar,paperclip haar,paperclip hair,3,4
+CES201712,18336,1214,paperclip,paperclip ketting,paperclip ketting,paperclip chain,2,4
+CES201712,18342,1214,paperclip,paperclip laars,paperclip laars,paperclip boot,4,1
+CES201712,18338,1214,paperclip,paperclip oorbel,paperclip oorbel,paperclip earring,2,4
+CES201712,18180,1200,paperclip,je kan een paperclip open vouwen en de uiteinden ervan gebruiken om je simkaart vakje van je telefoo,paperclip open vouwen uiteinden ervan simkaart vakje telefoon,"paperclip, open ends of it, SIM card compartment, phone",2,5
+CES201712,18340,1214,paperclip,paperclip portomonee,paperclip portemonnee,paperclip wallet,3,3
+CES201712,18115,1193,paperclip,paperclip recht maken zodat je dingen vastb kan maken,paperclip recht zodat dingen vast,paperclip straight so that things are stuck,1,4
+CES201712,18341,1214,paperclip,paperclip shirt,paperclip shirt,paperclip shirt,4,3
+CES201712,18334,1214,paperclip,paperclip slinger,paperclip slinger,paperclip garland,2,4
+CES201712,18339,1214,paperclip,paperclip tas,paperclip tas,paperclip bag,4,3
+CES201712,18404,1231,paperclip,paperclippen,paperclippen,paperclips,1,5
+CES201712,18199,1198,paperclip,veel paperclips in een doosje als muziekinstrument,paperclips doosje muziekinstrument,paperclips box musical instrument,4,5
+CES201712,18086,1187,paperclip,paperclips aan elkaar en een slinger van maken,paperclips elkaar slinger,paperclips together garland,2,4
+CES201712,18087.1,1187,paperclip,paperclips op een ondergrond plakken in een bepaalde vorm,paperclips ondergrond plakken bepaalde vorm,paperclips surface stick to certain shape,4,4
+CES201712,17880,1167,paperclip,papier,papier,paper,1,5
+CES201712,18011,1177,paperclip,papier,papier,paper,1,5
+CES201712,18209,1217,paperclip,papier,papier,paper,1,5
+CES201712,18343,1225,paperclip,papier,papier,paper,1,5
+CES201712,17739,1145,paperclip,papier bijeenhouden,papier bijeenhouden,keep paper together,1,5
+CES201712,17804,1149,paperclip,papier binden,papier binden,paper binding,1,5
+CES201712,18435,1234,paperclip,Papier binden,papier binden,paper binding,1,5
+CES201712,17847,1148,paperclip,papier binder,papier binder,paper binder,1,5
+CES201712,18027,1186,paperclip,papier bundelen,papier bundelen,bundling paper,1,5
+CES201712,18292,1213,paperclip,papier bundelen,papier bundelen,bundling paper,1,5
+CES201712,17075,1129,paperclip,papier aan elkaar maken,papier elkaar,paper together,1,5
+CES201712,17716,1139,paperclip,papier aan elkaar maken,papier elkaar,paper together,1,5
+CES201712,17769,1153,paperclip,papier bij elkaar,papier elkaar,paper together,1,5
+CES201712,18472,1238,paperclip,papier aan elkaar doen,papier elkaar,paper together,1,5
+CES201712,17642,1131,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17777,1142,paperclip,papier bij elkaar te houden,papier elkaar houden,hold paper together,1,5
+CES201712,17811,1151,paperclip,papier bij elkaar houden ,papier elkaar houden,hold paper together,1,5
+CES201712,17979,1154,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17955,1158,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17874,1162,paperclip,om papier bij elkaar te houden,papier elkaar houden,hold paper together,1,5
+CES201712,17969,1163,paperclip,Papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17998,1172,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17936,1173,paperclip,papier bij elkaar te houden,papier elkaar houden,hold paper together,1,5
+CES201712,18153,1182,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18098,1184,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18047,1185,paperclip,om papier bij elkaar te houden,papier elkaar houden,hold paper together,1,5
+CES201712,18058,1189,paperclip,Papier bijelkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18157,1190,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18166,1191,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18112,1193,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18163,1204,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18235,1208,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18248,1209,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18263,1211,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18275,1212,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18247,1215,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18266,1216,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18326,1221,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18375,1228,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,18413,1232,paperclip,papier bij elkaar houden,papier elkaar houden,hold paper together,1,5
+CES201712,17823,1155,paperclip,"papier aan elkaar ""clippen""",papier elkaar klippen,paper clipping apart,1,5
+CES201712,17948,1166,paperclip,papier aan elkaar voegen,papier elkaar voegen,paper together,1,5
+CES201712,18200,1195,paperclip,in papier haken,papier haken,crochet paper,1,5
+CES201712,17901,1159,paperclip,papier clippen,papier klippen,paper clippings,1,5
+CES201712,18300,1222,paperclip,papier organiseren,papier organiseren,organize paper,1,5
+CES201712,17944,1152,paperclip,papier samenhouen,papier samenhouden,holding paper together,1,5
+CES201712,18033,1179,paperclip,papier samenouden,papier samenhouden,holding paper together,1,5
+CES201712,17896,1160,paperclip,papier samenvoegen,papier samenvoegen,merge paper,1,5
+CES201712,17910,1157,paperclip,papier vast binden,papier vast binden,tie up paper,1,5
+CES201712,18017,1171,paperclip,om papier mee vast te houden,papier vast houden,hold paper,1,5
+CES201712,17923,1135,paperclip,papier mee vast klippen,papier vast klippen,clipping paper,1,5
+CES201712,18487,1241,paperclip,papier vastclippen,papier vast klippen,clipping paper,1,5
+CES201712,18049,1174,paperclip,papier vastbinden,papier vastbinden,tie up paper,1,5
+CES201712,18432,1233,paperclip,papier vastbinden,papier vastbinden,tie up paper,1,5
+CES201712,17707,1137,paperclip,papier mee vasthouden,papier vasthouden,hold paper,1,5
+CES201712,18395,1231,paperclip,papier mee vasthouden,papier vasthouden,hold paper,1,5
+CES201712,17791,1147,paperclip,papier vasthouder,papier vasthouder,paper holder,1,5
+CES201712,18139,1202,paperclip,papiervasthouder,papier vasthouder,paper holder,1,5
+CES201712,17798,1134,paperclip,papier vastmaken,papier vastmaken,attach paper,1,5
+CES201712,17989,1169,paperclip, papier vastmaken,papier vastmaken,attach paper,1,5
+CES201712,18065,1181,paperclip,papier vastmaken,papier vastmaken,attach paper,1,5
+CES201712,18216,1201,paperclip,papier vastmaken,papier vastmaken,attach paper,1,5
+CES201712,18405,1230,paperclip,papier vastmaken,papier vastmaken,attach paper,1,5
+CES201712,17870,1150,paperclip,papieren bij elkaar houden,papieren elkaar houden,hold papers together,1,5
+CES201712,18182,1199,paperclip,Om papieren mee bij elkaar te houden,papieren elkaar houden,hold papers together,1,5
+CES201712,18281,1223,paperclip,papieren bij elkaar houden,papieren elkaar houden,hold papers together,1,5
+CES201712,17673,1132,paperclip,papieren aan elkaar vast houden,papieren elkaar vast houden,papers holding together,1,5
+CES201712,17635,1130,paperclip,papieren samenhouden,papieren samenhouden,keep papers together,1,5
+CES201712,18227,1188,paperclip,papieren vastmaken,papieren vastmaken,attaching papers,1,5
+CES201712,18132,1194,paperclip,papieren vliegtuig,papieren vliegtuig,paper plane,2,4
+CES201712,18318,1219,paperclip,papierenbinder,papierenbinder,paper binder,1,5
+CES201712,18022,1165,paperclip,om een papiertje doen,papiertje,piece of paper,1,5
+CES201712,18391,1229,paperclip,papiertjes vast clippen,papiertjes vast klippen,clipping papers,1,5
+CES201712,17711,1137,paperclip,je kan hem als passer gebruiken,passer,compass,4,4
+CES201712,17922,1161,paperclip,pen,pen,pen,3,2
+CES201712,17796,1147,paperclip,piercer,piercer,piercer,3,4
+CES201712,18000,1172,paperclip,gebruiken als piercing,piercing,piercing,2,4
+CES201712,18074,1183,paperclip,piercing,piercing,piercing,2,4
+CES201712,18190,1210,paperclip,piercing,piercing,piercing,2,4
+CES201712,17916,1161,paperclip,pincet,pincet,tweezers,4,2
+CES201712,18348,1225,paperclip,plastic,plastic,plastic,0,0
+CES201712,18001,1172,paperclip,poppetjes maken van het ijzerdraad van de paperclip,poppetjes ijzerdraad paperclip,dolls iron wire paper clip,2,4
+CES201712,18417,1232,paperclip,poster ophangen aan haakje,poster ophangen haakje,hang poster on hook,3,4
+CES201712,17900,1160,paperclip,prikken,prikken,jab,2,4
+CES201712,17973,1163,paperclip,Prikken,prikken,jab,2,4
+CES201712,18070,1181,paperclip,mee prikken,prikken,jab,2,4
+CES201712,18213,1217,paperclip,prikken,prikken,jab,2,4
+CES201712,18310,1224,paperclip,iemand prikken,prikken,jab,2,4
+CES201712,18377,1228,paperclip,prikken,prikken,jab,2,4
+CES201712,17794,1147,paperclip,prikker,prikker,pricker,2,4
+CES201712,17869,1148,paperclip,doorprikker,prikker,pricker,2,4
+CES201712,18038,1179,paperclip,prikker,prikker,pricker,2,4
+CES201712,18160,1190,paperclip,prikker,prikker,pricker,2,4
+CES201712,18381,1228,paperclip,2 producten verbinden,producten verbinden,connecting products,1,4
+CES201712,17992,1169,paperclip,proefje met magneet,proefje magneet,sample magnet,3,4
+CES201712,18236,1208,paperclip,prul,prul,trash,0,0
+CES201712,18399,1231,paperclip,puistjes uitsteken,puistjes uitsteken,sticking out pimples,4,4
+CES201712,17837,1156,paperclip,punaise,punaise,pushpin,3,4
+CES201712,18249,1209,paperclip,Als puntig voorwerp gebruiken voor bijvoorbeeld resetknop,puntig voorwerp oorbeeld resetknop,pointed object example reset button,2,5
+CES201712,17856,1148,paperclip,puxxzzle,puzzel,puzzle,3,2
+CES201712,18088,1187,paperclip,een rand van paperclips maken om een spiegel heen,rand paperclips spiegel heen,edge of paperclips mirror,4,4
+CES201712,17938,1173,paperclip,reset knopjes drukken (die erg klein zijn),reset knopjes drukken,press reset buttons,2,5
+CES201712,17720,1139,paperclip,gebruiken om iets te resetten,resetten,reset,2,5
+CES201712,17749,1145,paperclip,om iets te resetten (bijv. mobiele telefoon),resetten,reset,2,5
+CES201712,18243,1208,paperclip,bij riem om samen te houden,riem samen houden,keep strap together,3,3
+CES201712,17082,1129,paperclip,een ring van maken,ring,ring,2,4
+CES201712,17708,1137,paperclip,Een ring van maken,ring,ring,2,4
+CES201712,17759,1141,paperclip,ring,ring,ring,2,4
+CES201712,17790,1142,paperclip,ring,ring,ring,2,4
+CES201712,17861,1148,paperclip,ring,ring,ring,2,4
+CES201712,17841,1156,paperclip,ring,ring,ring,2,4
+CES201712,17920,1161,paperclip,ring,ring,ring,2,4
+CES201712,17879,1162,paperclip,om een ring van te maken,ring,ring,2,4
+CES201712,17933,1168,paperclip,ring van maken,ring,ring,2,4
+CES201712,18107,1175,paperclip,ring,ring,ring,2,4
+CES201712,18083,1183,paperclip,ring van maken ,ring,ring,2,4
+CES201712,18162,1190,paperclip,ring,ring,ring,2,4
+CES201712,18136,1194,paperclip,ring,ring,ring,2,4
+CES201712,18218,1201,paperclip,ring,ring,ring,2,4
+CES201712,18329,1221,paperclip,ring van maken,ring,ring,2,4
+CES201712,18394,1229,paperclip,ring,ring,ring,2,4
+CES201712,18475,1238,paperclip,als ring gebruiken,ring,ring,2,4
+CES201712,17713,1137,paperclip,Je kan hem gebruiken als rits,ring,ring,3,5
+CES201712,18111,1175,paperclip,rits dingetje,rits dingetje,zipper thingy,3,5
+CES201712,18097,1180,paperclip,om je rits omhoog te houden,rits omhoog houden,keep zipper up,3,5
+CES201712,17893,1164,paperclip,ritsophouder,rits ophouder,zipper holder,3,5
+CES201712,17817,1151,paperclip,aan je rits vastmaken ,rits vastmaken,fasten zipper,3,5
+CES201712,17756,1141,paperclip,ritshangertje,ritshangertje,zipper hanger,3,5
+CES201712,17785,1142,paperclip,ritshangertje,ritshangertje,zipper hanger,3,5
+CES201712,18013,1177,paperclip,ritssluiting,ritssluiting,zipper,3,5
+CES201712,17975,1163,paperclip,Roller,roller,roller,0,0
+CES201712,18140,1202,paperclip,samenbinder,samenbinder,binder,1,4
+CES201712,17730,1143,paperclip,sat   prikker,sat̩prikker,skewer,4,4
+CES201712,17747,1145,paperclip,als sat   prikker,sat̩prikker,skewer,4,4
+CES201712,17767,1146,paperclip,sateprikker,sat̩prikker,skewer,4,4
+CES201712,17840,1156,paperclip,sateprikker,sat̩prikker,skewer,4,4
+CES201712,18225,1201,paperclip,sateprikker,sat̩prikker,skewer,4,4
+CES201712,18402,1231,paperclip,met de scherpe punt de baksteen beeldhouden,scherpe punt baksteen beeldhouwen,sharp point brick sculpting,3,3
+CES201712,17849,1148,paperclip,schieten ermee,schieten,shoot,4,4
+CES201712,18364,1227,paperclip,schieten met iets tussen de paperclip ,schieten tussen paperclip,shooting between paperclip,3,4
+CES201712,17742,1145,paperclip,schilderen en verkopen als kunst,schilderen verkopen kunst,painting sell art,3,3
+CES201712,18352,1225,paperclip,school,school,school,0,0
+CES201712,18002,1177,paperclip,schrift,schrift,writing,0,0
+CES201712,17966,1178,paperclip,schrijfmiddel ,schrijfmiddel,writing medium,3,2
+CES201712,18384,1228,paperclip,schrijven,schrijven,write,3,2
+CES201712,18411,1230,paperclip,sierraad van maken,sieraad,ornament,2,4
+CES201712,18187,1199,paperclip,Sieraden van maken,sieraden,jewellery,2,4
+CES201712,17907,1159,paperclip,sigarettenhouder maken die je op je hand kan vastmaken,sigarettenhouder hand vastmaken,cigarette holder hand fasten,5,3
+CES201712,18494,1241,paperclip,sim-dock van iphone (en andere telefoons) openen,sim dock iPhone openen,Open sim dock iPhone,2,5
+CES201712,18016,1171,paperclip,gebruiken om sim kaart iphone eruit te halen,sim kaart iPhone eruit halen,Remove SIM card from iPhone,2,5
+CES201712,17937,1173,paperclip,sim kaart van telefoon eruit te halen,sim kaart telefoon eruit halen,Remove SIM card from phone,2,5
+CES201712,17945,1152,paperclip,simcard eruit halen,simkaart eruit halen,remove SIM card,2,5
+CES201712,17875,1162,paperclip,om de simkaart uit een iphone te kunnen halen,simkaart iPhone halen,get iPhone SIM card,2,5
+CES201712,17676,1132,paperclip,om je simkaartje uit je mobiel te halen,simkaart mobiel halen,get mobile SIM card,2,5
+CES201712,17735,1138,paperclip,Simkaart uit telefoon drukken,simkaart telefoon drukken,press SIM card on phone,2,5
+CES201712,17765,1146,paperclip,simkaart uit de telefoon halen,simkaart telefoon halen,get phone SIM card,2,5
+CES201712,17871,1150,paperclip,je simkaart uit je telefoon halen,simkaart telefoon halen,get phone SIM card,2,5
+CES201712,18269,1216,paperclip,simkaart uit telefoon mee halen,simkaart telefoon halen,get phone SIM card,2,5
+CES201712,17725,1143,paperclip,simkaart tool,simkaart tool,sim card tool,2,5
+CES201712,17761,1140,paperclip,sleutel,sleutel,key,3,4
+CES201712,17754,1141,paperclip,sleutel,sleutel,key,3,4
+CES201712,17836,1156,paperclip,sleutel,sleutel,key,3,4
+CES201712,18007,1177,paperclip,sleutel,sleutel,key,3,4
+CES201712,17962,1178,paperclip,sleutel,sleutel,key,3,4
+CES201712,18245,1215,paperclip,sleutel,sleutel,key,3,4
+CES201712,18317,1219,paperclip,sleutel,sleutel,key,3,4
+CES201712,18224,1201,paperclip,sleutelbos,sleutelbos,keychain,3,5
+CES201712,17928,1168,paperclip,sluitelhanger van maken,sleutelhanger,keychain,3,5
+CES201712,18105,1175,paperclip,sleutelhanger,sleutelhanger,keychain,3,4
+CES201712,18102,1184,paperclip,sleutelhanger,sleutelhanger,keychain,3,4
+CES201712,18450,1235,paperclip,sleutelhanger-rondje,sleutelhanger rondje,key ring round,3,4
+CES201712,17795,1147,paperclip,sleutelhouder,sleutelhouder,key holder,3,5
+CES201712,17727,1143,paperclip,sleutelopener,sleutelopener,key opener,3,4
+CES201712,17889,1164,paperclip,sleutelring,sleutelring,key ring,3,5
+CES201712,17877,1162,paperclip,om sleutels aan te hangen,sleutels hangen,keys hanging,3,5
+CES201712,17994,1169,paperclip,slijpen om als naald te gebruiken,slijpen naald,sharpening needle,3,4
+CES201712,16914,1128,paperclip,slinger mee maken,slinger,garland,2,4
+CES201712,18019,1171,paperclip,slinger mee maken,slinger,garland,2,4
+CES201712,18031,1186,paperclip,slinger van maken,slinger,garland,2,4
+CES201712,18133,1194,paperclip,slinger,slinger,garland,2,4
+CES201712,18020,1171,paperclip,slinger mee vastmaken,slinger vastmaken,fasten sling,2,5
+CES201712,17967,1178,paperclip,slingers,slingers,garlands,2,4
+CES201712,17779,1142,paperclip,slot op te breken,slot breken,break lock,3,4
+CES201712,17081,1129,paperclip,het slot van een deur mee openen,slot deur openen,open door lock,3,4
+CES201712,17812,1151,paperclip,een slot van een deur mee openen ,slot deur openen,open door lock,3,4
+CES201712,17704,1136,paperclip,slot open maken,slot open,lock open,3,4
+CES201712,17710,1137,paperclip,Een slot ermee open maken,slot open,lock open,3,4
+CES201712,17772,1153,paperclip,slot mee open maken,slot open,lock open,3,4
+CES201712,17980,1154,paperclip,slot open maken,slot open,lock open,3,4
+CES201712,17895,1160,paperclip,slot open maken,slot open,lock open,3,4
+CES201712,18077,1183,paperclip,om een slot open te maken,slot open,lock open,3,4
+CES201712,18048,1185,paperclip,een slot open maken,slot open,lock open,3,4
+CES201712,18165,1191,paperclip,slot open maken,slot open,lock open,3,4
+CES201712,17801,1134,paperclip,om een slot mee open te breken,slot open breken,break open lock,3,4
+CES201712,17734,1138,paperclip,Slot open forceren,slot open forceren,force lock open,3,4
+CES201712,17990,1169,paperclip,slot openen,slot openen,open lock,3,4
+CES201712,18066,1181,paperclip,slot openen,slot openen,open lock,3,4
+CES201712,18028,1186,paperclip,slot openen,slot openen,open lock,3,4
+CES201712,18202,1195,paperclip,slot mee openen,slot openen,open lock,3,4
+CES201712,18183,1199,paperclip,Om een slot mee te openen,slot openen,open lock,3,4
+CES201712,18268,1216,paperclip,slot openen,slot openen,open lock,3,4
+CES201712,18437,1234,paperclip,slot openen,slot openen,open lock,3,4
+CES201712,18024,1165,paperclip,een slot mee openmaken,slot openmaken,open lock,3,4
+CES201712,18302,1206,paperclip,slot openmaken,slot openmaken,open lock,3,4
+CES201712,18388,1226,paperclip,een slot openmaken,slot openmaken,open lock,3,4
+CES201712,18396,1231,paperclip,slot openmaken,slot openmaken,open lock,3,4
+CES201712,17983,1144,paperclip,Om sloten open te maken,sloten open,locks open,3,4
+CES201712,18060,1189,paperclip,Sloten mee openen,sloten openen,open locks,3,4
+CES201712,18147,1192,paperclip,sloten openen,sloten openen,open locks,3,4
+CES201712,18258,1207,paperclip,sloten mee openen,sloten openen,open locks,3,4
+CES201712,18308,1224,paperclip,Sloten proberen te openen,sloten proberen openen,trying to open locks,3,4
+CES201712,18446,1235,paperclip,slotje van een ketting vervangen,slotje ketting vervangen,replace chain lock,3,5
+CES201712,18293,1213,paperclip,sluiting van een kledingstuk,sluiting kledingstuk,garment closure,3,4
+CES201712,17934,1168,paperclip,sluiting voor rits maken,sluiting rits,zipper closure,4,4
+CES201712,18379,1228,paperclip,smelten,smelten,melt,2,3
+CES201712,18103,1184,paperclip,snack prikker,snack prikker,snack stick,4,4
+CES201712,17773,1153,paperclip,iets snijden,snijden,cut,4,2
+CES201712,18385,1228,paperclip,snijden,snijden,cut,4,2
+CES201712,17750,1141,paperclip,snijplank,snijplank,cutting board,0,0
+CES201712,18087.2,1187,paperclip, soort schilderij,soort schilderij,kind of painting,3,3
+CES201712,18116,1193,paperclip,dus gebruiken als een soort ti-rip?,soort tiewrap,kind of tie wrap,2,5
+CES201712,18123,1196,paperclip,sorteren,sorteren,sort,1,3
+CES201712,18164,1204,paperclip,sparen,sparen,save,1,3
+CES201712,17641.1,1130,paperclip,je kan er een spel mee doen,spel,game,2,3
+CES201712,17775,1153,paperclip,speld,speld,pin,2,4
+CES201712,17826,1155,paperclip,gebruiken als speld,speld,pin,2,4
+CES201712,18145,1202,paperclip,speld,speld,pin,2,4
+CES201712,17957,1158,paperclip,mee spelen,spelen,play,2,4
+CES201712,17940,1173,paperclip,spelen,spelen,play,2,4
+CES201712,18094,1180,paperclip,mee spelen,spelen,play,2,4
+CES201712,17848,1148,paperclip,spelletje,spelletje,game,2,4
+CES201712,18037,1179,paperclip,spies,spies,skewer,3,4
+CES201712,17721,1139,paperclip,om een spijker uit de muur te krijgen,spijker muur krijgen,get nail wall,4,3
+CES201712,17736,1138,paperclip,Springveertje,springveertje,spring,4,3
+CES201712,18068,1181,paperclip,met staal letters uitbeelden,staal letters uitbeelden,depicting steel letters,2,4
+CES201712,17913,1157,paperclip,staaldraad om iets mee te binden,staaldraad binden,tying steel wire,1,4
+CES201712,18023,1165,paperclip,om een stapel papiertjes doen,stapel papiertjes,stack of papers,1,5
+CES201712,17723,1143,paperclip,Steekwapen,steekwapen,stabbing weapon,3,2
+CES201712,17744,1145,paperclip,steekwapen van maken,steekwapen,stabbing weapon,3,2
+CES201712,18059,1189,paperclip,Stof ergens uit krijgen,stof ergens krijgen,get dust somewhere,2,5
+CES201712,18055,1174,paperclip,stoffen bij elkaar houden,stoffen elkaar houden,substances hold together,2,4
+CES201712,17751,1141,paperclip,straat,straat,street,0,0
+CES201712,17672,1132,paperclip,ipv een stressballetje,stressballetje,stress ball,2,3
+CES201712,17904,1159,paperclip,stroom verbinden,stroom verbinden,connect power,3,4
+CES201712,18397,1231,paperclip,suikerpak dichtmaken,suiker pak dichtmaken,close sugar pack,2,5
+CES201712,18063,1189,paperclip,Tshirt mouwen mee opgerold houden,t shirt mouwen opgerold houden,keep t-shirt sleeves rolled up,5,5
+CES201712,18393,1229,paperclip,tanden stoker,tanden stoker,tooth picker,3,4
+CES201712,17644,1131,paperclip,tandenstoker,tandenstoker,toothpick,3,4
+CES201712,17838,1156,paperclip,tandenstoker,tandenstoker,toothpick,3,4
+CES201712,17965,1178,paperclip,tandenstoker,tandenstoker,toothpick,3,4
+CES201712,18080,1183,paperclip,als tandenstoker,tandenstoker,toothpick,3,4
+CES201712,18226,1201,paperclip,tandenstoker,tandenstoker,toothpick,3,4
+CES201712,18303,1206,paperclip,tandenstoker,tandenstoker,toothpick,3,4
+CES201712,18295,1213,paperclip,tandenstoker ,tandenstoker,toothpick,3,4
+CES201712,18234,1188,paperclip,tas repareren,tas repareren,repair bag,3,3
+CES201712,17818,1151,paperclip,aan je tas vastmaken ,tas vastmaken,fasten bag,3,4
+CES201712,17911,1157,paperclip,telefoon openmaken (iphone),telefoon openmaken,open phone,2,5
+CES201712,18289,1223,paperclip,aan je telefoon plakken als houder,telefoon plakken houder,phone stick holder,5,3
+CES201712,17640,1130,paperclip,je kan je telefoon resetten,telefoon resetten,reset phone,2,5
+CES201712,17974,1163,paperclip,Telefoon resetten,telefoon resetten,reset phone,2,5
+CES201712,18185,1199,paperclip,Je telefoonsimkaart eruit halen door dit te gebruiken (iphone),telefoon simkaart eruit halen,Remove phone SIM card,2,5
+CES201712,18193,1210,paperclip,tepelklem,tepelklem,nipple clamp,5,5
+CES201712,17803,1134,paperclip,tijdens het leren je werk geordend houden,tijdens leren werk geordend houden,keep work organized while learning,1,5
+CES201712,17882,1167,paperclip,tin,tin,tin,0,0
+CES201712,18280,1212,paperclip,touw van paperclips,touw paperclips,rope paper clips,2,4
+CES201712,18084,1183,paperclip,touw aan het plafond haken ,touw plafond haken,rope ceiling hooks,3,4
+CES201712,18407,1230,paperclip,twee touwen aan elkaar verbinden door paperclip uit te buigen,touwen elkaar verbinden paperclip buigen,connecting ropes together paper clip bending,2,3
+CES201712,17079,1129,paperclip,tussen de deur doen om te kijken of ie open is geweest,tussen deur kijken ie open,it look open between doors,5,4
+CES201712,17764,1140,paperclip,om tussen kleine kiertjes iets te kunnen pakken,tussen kleine kiertjes pakken,between small cracks,2,5
+CES201712,18177,1203,paperclip,tussen je plakband plakken zodat je het beginnetje niet kwijt raakt,tussen plakband plakken zodat beginnetje niet kwijt raakt,between adhesive tape so that beginning does not get lost,4,5
+CES201712,17912,1157,paperclip,iets tussen je tanden weghalen (tandenstoker),tussen tanden weghalen,remove between teeth,3,4
+CES201712,18370,1220,paperclip,uitbuigen en gebruiken om twee dingen aan elkaar te binden,uitbuigen dingen elkaar binden,bend things bind together,1,4
+CES201712,18369,1220,paperclip,uitbuigen en als elastiekje voor je haar gebruiken,uitbuigen elastiekje haar,bend hair elastic band,3,2
+CES201712,18170,1191,paperclip,uittrekken,uittrekken,pull out,1,4
+CES201712,18324,1219,paperclip,uitvouwen,uitvouwen,Unfold,1,4
+CES201712,18410,1230,paperclip,uitvouwen en tekensjabloon van maken,uitvouwen tekensjabloon,expand drawing template,5,4
+CES201712,17717,1139,paperclip,om iets vast te houden,vast houden,cling,1,4
+CES201712,18006,1177,paperclip,vastklippen,vast klippen,clip,1,4
+CES201712,18350,1225,paperclip,vastklippen,vast klippen,clip,1,4
+CES201712,17797,1134,paperclip,iets vast koppelen,vast koppelen,connect firmly,1,4
+CES201712,17752,1141,paperclip,iets vasthouden,vasthouden,cling,1,4
+CES201712,18344,1225,paperclip,vasthouden,vasthouden,cling,1,4
+CES201712,18143,1202,paperclip,vasthouder van je naam op t-shirt,vasthouder naam t shirt,attach name t shirt,2,4
+CES201712,17700,1136,paperclip,iets vastmaken,vastmaken,fasten,1,4
+CES201712,18005,1177,paperclip,vastmaken,vastmaken,fasten,1,4
+CES201712,18260,1207,paperclip,iets mee vastmaken,vastmaken,fasten,1,4
+CES201712,18351,1225,paperclip,vastmaken,vastmaken,fasten,1,4
+CES201712,17927,1135,paperclip,vastmaken aan een andere paperclip,vastmaken paperclip,attach paper clip,1,5
+CES201712,18091,1180,paperclip,vastmaken van papier,vastmaken papier,attach paper,1,4
+CES201712,18254,1218,paperclip,vastmaken van papier aan voorwerpen zoals een plantenbak,vastmaken papier voorwerpen zoals plantenbak,Attach paper objects such as planter,1,5
+CES201712,17978,1170,paperclip,vastzet mechanisme,vastzet mechanisme,locking mechanism,1,4
+CES201712,17976,1170,paperclip,veiligheidsspel,veiligheidsspel,safety game,3,4
+CES201712,17977,1170,paperclip,veiligheidsspeld,veiligheidsspeld,safety pin,3,4
+CES201712,18444,1235,paperclip,veiligheidsspeld,veiligheidsspeld,safety pin,3,4
+CES201712,18148,1192,paperclip,verbinden,verbinden,connect,1,4
+CES201712,17892,1164,paperclip,verbindingsstuk,verbindingsstuk,connecting piece,1,4
+CES201712,17851,1148,paperclip,verbuigen,verbuigen,bend,1,4
+CES201712,18045,1176,paperclip,verbuigen,verbuigen,bend,1,4
+CES201712,18296,1213,paperclip,verbuigen en dan dingen aan ophangen ,verbuigen dingen ophangen,bend things up,2,4
+CES201712,17951,1166,paperclip,verhitten,verhitten,heat,2,4
+CES201712,17748,1145,paperclip,als verhoging voor een stoel die wiebelt,verhoging stoel wiebelt,booster seat wobbles,4,2
+CES201712,18062,1189,paperclip,Gebruiken als verlengstuk,verlengstuk,extension,2,4
+CES201712,18488,1241,paperclip,vervanging voor een gebroken rits,vervanging gebroken rits,replacement broken zipper,3,5
+CES201712,17766,1146,paperclip,vervanging van een naald,vervanging naald,replacement needle,3,4
+CES201712,18192,1210,paperclip,vervanging van wattenstaafje,vervanging wattenstaafje,replacement cotton swab,3,3
+CES201712,17809,1151,paperclip,verven ,verven,paint,3,3
+CES201712,17738,1138,paperclip,Vervormbaar ijzerdraad,vervormbaar ijzerdraad,malleable iron wire,1,4
+CES201712,18215,1217,paperclip,vervormen,vervormen,deform,1,4
+CES201712,17961,1158,paperclip,vervormen tot armband,vervormen armband,deform bracelet,3,4
+CES201712,17960,1158,paperclip,vervormen tot oorbel,vervormen oorbel,deform earring,3,4
+CES201712,17959,1158,paperclip,vervormen tot ring,vervormen ring,deform ring,3,4
+CES201712,18173,1191,paperclip,iemand verwonden,verwonden,injure,3,3
+CES201712,18313,1224,paperclip,verzamelen,verzamelen,collect,1,3
+CES201712,18325,1219,paperclip,veter,veter,lace,5,2
+CES201712,17714,1137,paperclip,Je kunt hem ook gebruiken om viezige dingen uit je oor/neus te halen,viezige dingen oor neus halen,pick dirty things from your nose,3,3
+CES201712,18176,1203,paperclip,om viezigheid onder je nagels vandaan te halen ,viezigheid onder nagels vandaan halen,removing dirt from under nails,3,5
+CES201712,17678,1132,paperclip,om viezigheid/stof uit kleine gaatjes te halen,viezigheid stof kleine gaatjes halen,dirt dust small holes,2,5
+CES201712,17942,1152,paperclip,vishaak,vishaak,fishhook,3,4
+CES201712,17918,1161,paperclip,vishaak,vishaak,fishhook,3,4
+CES201712,17995,1169,paperclip,vishaak,vishaak,fishhook,3,4
+CES201712,18490,1241,paperclip,vishaak,vishaak,fishhook,3,4
+CES201712,17828,1155,paperclip,vishaakje,vishaakje,fishhook,3,4
+CES201712,18154,1182,paperclip,vodafone chip uit mobiel krijgen (iphone) ,Vodafone chip mobiel krijgen,Get Vodafone chip mobile,2,5
+CES201712,17807,1149,paperclip,voorwerpen aan elkaar binden,voorwerpen elkaar binden,objects bind together,1,4
+CES201712,18261.2,1207,paperclip, voorwerpen met elkaar verbinden,voorwerpen elkaar verbinden,connect objects together,1,4
+CES201712,18150,1192,paperclip,vormen maken,vormen,forms,2,4
+CES201712,18015,1171,paperclip,vormpjes mee maken,vormpjes,shapes,2,4
+CES201712,18114,1193,paperclip,vormpjes mee maken,vormpjes,shapes,2,4
+CES201712,17715,1137,paperclip,of vuil onder je nagels vandaan,vuil onder nagels vandaan,dirt from under nails,3,5
+CES201712,17793,1147,paperclip,vuilwroeter,vuil wroeter,dirty rooter,3,4
+CES201712,17947,1152,paperclip,vuur maken,vuur,firework,0,0
+CES201712,17842,1156,paperclip,wapen,wapen,weapon,3,2
+CES201712,18244,1208,paperclip,wapen,wapen,weapon,3,2
+CES201712,18320,1219,paperclip,wapen,wapen,weapon,3,2
+CES201712,18039,1179,paperclip,wasknijper,wasknijper,clothespin,4,4
+CES201712,18032,1186,paperclip,als wasknijper,wasknijper,clothespin,4,4
+CES201712,18409,1230,paperclip,wasknijper,wasknijper,clothespin,4,4
+CES201712,18273,1212,paperclip,waslijn ,waslijn,washing line,5,3
+CES201712,18121,1196,paperclip,werk,werk,work,0,0
+CES201712,18211,1217,paperclip,word,word,become,0,0
+CES201712,17996,1169,paperclip,zak dicht maken,zak dicht,bag closed,2,5
+CES201712,17987,1144,paperclip,Zakjes dichtklemmen,zakjes dichtklemmen,clamp bags closed,2,5
+CES201712,17726,1143,paperclip,zelfelectrocutie tool voor in het stopcontact,zelfelektrocutie tool stopcontact,self-electrocution tool socket,4,4
+CES201712,18250.2,1209,paperclip, zie Sporthal de Paperclip in leidsche rijn,zie sporthal paperclip Leidsche Rijn,see sports hall paperclip Leidsche Rijn,0,0
+CES201712,17885,1167,paperclip,zilver,zilver,silver,0,0
+CES201712,18126,1196,paperclip,zilver,zilver,silver,0,0
+CES201712,18345,1225,paperclip,zilver,zilver,silver,0,0

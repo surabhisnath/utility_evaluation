@@ -1,0 +1,275 @@
+research_id,response_id,respondent_id,object,original_response,cleaned_response,translated_response,originality_rater01,utility_rater01
+CES201606,584,17,stick,iemand aaien,aaien,pet,3,5
+CES201606,998,23,stick,iets aanwijzen,aanwijzen,assign,2,5
+CES201606,1653,42,stick,iets aanwijsen,aanwijzen,assign,2,5
+CES201606,2005,48,stick,iets aanwijzen,aanwijzen,assign,2,5
+CES201606,228,12,stick,een aanwijzer,aanwijzer,pointer,2,5
+CES201606,1502,37,stick,aanwijzer,aanwijzer,pointer,2,5
+CES201606,787,19,stick,om iets af te dekken,af dekken,cover,3,2
+CES201606,992,23,stick,afbakening,afbakening,demarcation,3,4
+CES201606,776,19,stick,om een afbakening aan te duiden,afbakening duiden,indicate demarcation,3,4
+CES201606,2147.1,51,stick,afscheiding,afscheiding,secretion,3,4
+CES201606,885,20,stick,doen alsof je erop kunt vliegen,alsof erop vliegen,as if flying on it,3,5
+CES201606,883,20,stick,doen alsof het een toverstaf is,alsof toverstaf,as if magic wand,3,5
+CES201606,2142.2,51,stick, appels uit appelboom,appels appelboom,apples apple tree,0,0
+CES201606,1167,26,stick,apporteren,apporteren,fetch,1,1
+CES201606,1899,46,stick,bal,bal,ball,0,0
+CES201606,591,17,stick,begraven,begraven,bury,2,4
+CES201606,1605,40,stick,beaschilderen als kunsrvoorwerp,beschilderen kunstvoorwerp,painting art object,3,3
+CES201606,1702,43,stick,bestek,bestek,specifications,3,4
+CES201606,1368,30,stick,betonnenafgietsel in een mal,betonnen afgietsel mal,concrete casting mold,3,3
+CES201606,884,20,stick,als bezemsteel gebruiken,bezemsteel,broomstick,2,3
+CES201606,371,14,stick,op bijten als je heel veel pijn krijgt (als je been eraf wordt gezaagd zonder verdoving),bijten heel pijn krijgt,biting becomes very painful,3,4
+CES201606,1367,30,stick,blaaspijpje,blaaspijpje,blowpipe,4,3
+CES201606,1116,25,stick,boomerang,boemerang,boomerang,4,3
+CES201606,2011,48,stick,boomhut,boomhut,Treehouse,2,3
+CES201606,2002,48,stick,boshut bouwen,boshut bouwen,build forest hut,2,3
+CES201606,370,14,stick,als brandhout gebruiken,brandhout,firewood,1,5
+CES201606,510,16,stick,brandhout,brandhout,firewood,1,5
+CES201606,2044,49,stick,brandstof,brandstof,fuel,1,5
+CES201606,778,19,stick,om te breken,breken,break,1,4
+CES201606,2121,50,stick,breken,breken,break,1,4
+CES201606,2010,48,stick,brug bouwen,brug bouwen,build bridge,2,3
+CES201606,1164,26,stick,gebruiken om constructies mee te verstevingen,constructies verstevigen,strengthen structures,2,3
+CES201606,2146,51,stick,dakje maken van stokken en doeken,dakje stokken doeken,roof sticks cloths,3,3
+CES201606,586,17,stick,dansen,dansen,dancing,0,0
+CES201606,1574,39,stick,als decoratie in huis,decoratie huis,decoration house,3,3
+CES201606,1742,44,stick,deegroller,deegroller,rolling pin,3,3
+CES201606,2043,49,stick,degen,degen,epee,3,4
+CES201606,1892,46,stick,deur dicht houden,deur dicht houden,keep door closed,2,4
+CES201606,995,23,stick,een deur niet dicht laten vallen,deur niet dicht laten vallen,don't let door close,1,5
+CES201606,1952,47,stick,deur tegen houden,deur tegen houden,stop door,2,4
+CES201606,367,14,stick,de deur mee vergrendelen,deur vergrendelen,lock door,2,4
+CES201606,2129,50,stick,eenb deurklink tegenhouden,deurklink tegenhouden,stop door handle,2,4
+CES201606,444,15,stick,deurstopper,deurstopper,door stopper,1,5
+CES201606,1115,25,stick,deurstopper,deurstopper,door stopper,1,5
+CES201606,675,18,stick,gebruiken om een dierenhok mee te maken ,dieren hok,animal cage,3,3
+CES201606,220,12,stick,een dildo,dildo,dildo,4,3
+CES201606,442,15,stick,dildo,dildo,dildo,4,3
+CES201606,225,12,stick,een ding om gordijnen aan op te honge,ding gordijnen hangen,hanging thing curtains,2,4
+CES201606,1573,39,stick,dingen aan op te hangen,dingen hangen,things hang,2,4
+CES201606,1061,24,stick,je kan er dingen aan ophangen,dingen ophangen,hanging things,2,4
+CES201606,1572,39,stick,om in dingen te prikken,dingen prikken,things sting,2,5
+CES201606,2145.2,51,stick, doek omheen,doek omheen,cloth around it,3,4
+CES201606,878,20,stick,je kan het doormidden breken,doormidden breken,break in half,1,4
+CES201606,595,17,stick,er een doos mee openmaken,doos openmaken,open box,2,4
+CES201606,782,19,stick,mee te drummen,drummen,play drums,2,4
+CES201606,1902,46,stick,eetstokjes,eetstokjes,chopsticks,1,5
+CES201606,1298,29,stick,eten,eten,eat,2,4
+CES201606,222,12,stick,een fakker,fakkel,torch,2,4
+CES201606,2124,50,stick,of fierljeppen,fierljeppen,canal vaulting,2,3
+CES201606,1481,36,stick,figuur mee leggen,figuur leggen,lay figure,3,4
+CES201606,1898,46,stick,frisbee,frisbee,frisbee,5,2
+CES201606,1655,42,stick,in een gat steken,gat steken,poke hole,1,5
+CES201606,366,14,stick,geluid maken,geluid,sound,1,5
+CES201606,880,20,stick,de gezondheid van een boom aflezen,gezondheid boom aflezen,health tree reading,4,3
+CES201606,1744,44,stick,Gong mee slaan,gong slaan,strike gong,2,4
+CES201606,589,17,stick,gooien,gooien,throw,1,5
+CES201606,879.1,20,stick,ermee gooien,gooien,throw,1,5
+CES201606,1649,42,stick,gooien,gooien,throw,1,5
+CES201606,881,20,stick,gooien voor de hond,gooien hond,throwing dog,1,5
+CES201606,1703,43,stick,gordijnen rode,gordijnen rode,curtains rod,2,4
+CES201606,1956,47,stick,als gordijnroede,gordijnroede,curtain rod,2,4
+CES201606,1119,25,stick,als iets om te grijpen wanneer je in het water ligt bijvoorbeeld,grijpen wanneer water ligt oorbeeld,grab when water is lying around example,2,4
+CES201606,1901,46,stick,gril spit,gril spit,grill spit,2,5
+CES201606,2126.1,50,stick,in de grond prikken,grond prikken,dig ground,2,5
+CES201606,1739,44,stick,In de grond steken om een plaats aan te duiden,grond steken plaats duiden,ground sticking place indicate,2,5
+CES201606,1740,44,stick,Iets mee in de grond tekenen,grond tekenen,drawing ground,2,4
+CES201606,1165.1,26,stick,gebruiken om mee te handwerken (vlechten,handwerken vlechten,needlework braiding,3,3
+CES201606,2127,50,stick,He-man nadoen,He Man nadoen,Imitate He Man,4,4
+CES201606,2144,51,stick,heel veel spelletjes en verbeelding: apporteren met de honden of toverstok van fee,heel spelletjes verbeelding apporteren honden toverstok fee,very games imagination fetch dogs magic wand fairy,2,5
+CES201606,587,17,stick,er over heen springen,heen springen,jump around,2,5
+CES201606,1410,35,stick,als hefboom gebruiken,hefboom,lever,2,5
+CES201606,2147.2,51,stick, hekken voetbaldoel,hekken voetbaldoel,fences football goal,2,5
+CES201606,1705,43,stick,heksje mee spelen,heksje spelen,play witch,2,5
+CES201606,2007,48,stick,hengel maken,hengel,fishing rod,3,4
+CES201606,679,18,stick,hockeyen,hockeyen,play hockey,4,4
+CES201606,1252,28,stick,als hockeystik,hockeystick,hockey stick,4,4
+CES201606,1477,36,stick,Hond mee slaan,hond slaan,hitting dog,5,5
+CES201606,1254,28,stick,om honden mee te  vermaken,honden vermaken,entertain dogs,1,5
+CES201606,1604,40,stick,hondenspeelgoed,hondenspeelgoed,dog toys,1,5
+CES201606,1900,46,stick,hondenspeeltje,hondenspeeltje,dog toy,1,5
+CES201606,507,16,stick,honkbalknuppel,honkbalknuppel,baseball bat,3,5
+CES201606,1253,28,stick,als honkbalknupel,honkbalknuppel,baseball bat,3,5
+CES201606,2142.1,51,stick,iets hoogs wegkrijgen,hoog wegkrijgen,get high,2,4
+CES201606,1706,43,stick,hoogspringen,hoogspringen,high jump,4,3
+CES201606,777,19,stick,om een hoogte aan te geven,hoogte geven,give information,3,5
+CES201606,1213,27,stick,houdfiguur uit slijpen,houdfiguur slijpen,sharpening holding figure,4,3
+CES201606,2141,51,stick,hulpmiddel lopen,hulpmiddel lopen,walking aid,2,4
+CES201606,671,18,stick,om een hut mee te bouwen ,hut bouwen,build hut,2,3
+CES201606,785,19,stick,om een hut mee te bouwen,hut bouwen,build hut,2,3
+CES201606,993,23,stick,een hut bouwen,hut bouwen,build hut,2,3
+CES201606,1211,27,stick,hut bouwen,hut bouwen,build hut,2,3
+CES201606,1571,39,stick,om een hut mee te bouwen,hut bouwen,build hut,2,3
+CES201606,882,20,stick,een ijsvogel op laten landen,ijsvogel laten landen,landing kingfisher,4,3
+CES201606,1366,30,stick,ijzeren buis,ijzeren buis,iron pipe,0,0
+CES201606,672,18,stick,om een kano mee te bouwen ,kano bouwen,build canoe,4,3
+CES201606,994,23,stick,iets kapot slaan,kapot slaan,smash,2,4
+CES201606,224,12,stick,een kapstop,kapstok,coat rack,3,3
+CES201606,1499,37,stick,kapstok,kapstok,coat rack,3,3
+CES201606,1700,43,stick,kapstok,kapstok,coat rack,3,3
+CES201606,1954,47,stick,iets van de kast halen,kast halen,get closet,3,4
+CES201606,1369,30,stick,keramiek,keramiek,ceramics,0,0
+CES201606,1701,43,stick,kettinkjes houer,kettinkjes houder,necklace holder,3,4
+CES201606,594,17,stick,er een kip op zetten,kip zetten,put chicken,5,4
+CES201606,1955,47,stick,als kledingrek,kledingrek,clothing rack,3,4
+CES201606,1483,36,stick,als klem gebruike,klem,clamp,3,3
+CES201606,1026,22,stick,knapzakje mee maken,knapzakje,knapsack,3,4
+CES201606,373,14,stick,mee krabben op je rug als je jeuk hebt,krabben rug jeuk hebt,scratch your back itch,2,4
+CES201606,226,12,stick,een krabber,krabber,scraper,2,4
+CES201606,1808,45,stick,kunst,kunst,art,3,3
+CES201606,1168,26,stick,kunstwerk van maken,kunstwerk,artwork,3,3
+CES201606,877,20,stick,en dan lakken,lakken,lacquer,2,3
+CES201606,783,19,stick,om een lengte aan te geven,lengte geven,give length,3,4
+CES201606,1570,39,stick,om op te leunen,leunen,lean,3,4
+CES201606,1654,42,stick,als limbo gebruiken,limbo,limbo,3,4
+CES201606,2128,50,stick,limbodansen,limbo dansen,limbo dancing,3,4
+CES201606,440,15,stick,limbo koord,limbo koord,limbo cord,3,4
+CES201606,1707,43,stick,limbo stok,limbo stok,limbo stick,3,4
+CES201606,771,19,stick,om mee te lopen,lopen,walk,2,4
+CES201606,779,19,stick,om op te lopen,lopen,walk,2,4
+CES201606,446,15,stick,marionette,marionet,puppet,4,3
+CES201606,1738,44,stick,Martelwerktuig,martelwerktuig,instrument of torture,3,4
+CES201606,674,18,stick,om meubels mee te bouwen \,meubels bouwen,building furniture,2,3
+CES201606,1897,46,stick,moordwapen*,moordwapen,murder weapon,4,4
+CES201606,2042,49,stick,moordwapen,moordwapen,murder weapon,4,4
+CES201606,1896,46,stick,moorwapen,moorwapen,murder weapon,4,4
+CES201606,1482,36,stick,motorkap open houden,motorkap open houden,keep hood open,2,4
+CES201606,1953,47,stick,om een muis van onder de bank weg te jagen,muis onder bank weg jagen,chase mouse away from under couch,2,4
+CES201606,1001,23,stick,muziekmaken,muziekmaken,make music,3,4
+CES201606,670,18,stick,nordic walking tsok ,nordic walking stok,nordic walking stick,2,4
+CES201606,1650,42,stick,iets omhoog houden ,omhoog houden,hold up,2,4
+CES201606,1608,40,stick,ondersteunen,ondersteunen,support,2,4
+CES201606,2012,48,stick,ondersteunen bij lopen,ondersteunen lopen,support walking,2,4
+CES201606,1056,24,stick,ondersteuning bij het lopen,ondersteuning lopen,walking support,2,4
+CES201606,1408,35,stick,als ondersteuning bij lopen,ondersteuning lopen,walking support,2,4
+CES201606,1532,38,stick,ondersteuning voor planten,ondersteuning planten,support plants,2,4
+CES201606,1060,24,stick,ondersteuning voor planten bij het groeien,ondersteuning planten groeien,support plants growing,2,4
+CES201606,1370,30,stick,opgerold blik,opgerold blik,rolled up look,0,0
+CES201606,1371,30,stick,opgerolde c of keukenrollen en deze doordrenken met papier mache en laten drogen,opgerolde wc keukenrollen doordrenken papier maché laten drogen,soak rolled up toilet paper towels in paper mache and allow to dry,3,2
+CES201606,592,17,stick,opgraven,opgraven,dig up,2,5
+CES201606,1478,36,stick,je aan optrekken,optrekken,pull up,3,4
+CES201606,439,15,stick,paal,paal,pole,3,4
+CES201606,511,16,stick,paal,paal,pole,3,4
+CES201606,1117,25,stick,paal om op te staan,paal staan,stand on pole,3,4
+CES201606,1651,42,stick,paaldansen,paaldansen,pole dancing,3,4
+CES201606,365,14,stick,bij het paardrijden om je paard sneller te laten gaan (zweepje),paardrijden paard sneller laten gaan,horse riding make horse go faster,2,4
+CES201606,2009,48,stick,pijl van maken,pijl,arrow,3,4
+CES201606,1480,36,stick,planten opbinden,planten opbinden,tie up plants,2,4
+CES201606,1951,47,stick,planten steunen,planten steunen,support plants,2,4
+CES201606,1249,28,stick,om poep mee van je schoen te halen,poep schoen halen,pick up poop shoe,2,5
+CES201606,1023,22,stick,poolstok springen,polsstok springen,pole vaulting,3,4
+CES201606,2123,50,stick,polsstokhoogspringen,polsstokhoogspringen,pole vaulting,3,4
+CES201606,2145.1,51,stick,prikken in de grond,prikken grond,prick ground,2,5
+CES201606,443,15,stick,prikker,prikker,pricker,2,5
+CES201606,775,19,stick,om een punt aan te duiden,punt duiden,indicate point,2,5
+CES201606,368,14,stick,een raam inslaan,raam inslaan,smash window,2,4
+CES201606,996,23,stick,een raam niet dicht laten vallen,raam niet dicht laten vallen,do not let window close,1,5
+CES201606,275,13,stick,het raam mee open houden,raam open houden,keep window open,1,5
+CES201606,1891,46,stick,raam open houden,raam open houden,keep window open,1,5
+CES201606,1210,27,stick,ramen breken,ramen breken,breaking windows,2,4
+CES201606,274,13,stick,de regenpijp mee ontstoppen ,regenpijp ontstoppen,unclog drainpipe,3,4
+CES201606,1704,43,stick,*roede,roede,rod,3,4
+CES201606,1812,45,stick,roeispaan,roeispaan,oar,3,4
+CES201606,369,14,stick,mee roeren in een pan,roeren pan,stirring pan,3,5
+CES201606,1296,29,stick,roerijzer,roerijzer,stirrer,3,3
+CES201606,448,15,stick,je kunt je rug recht zetten met een stok,rug recht zetten stok,straighten back stick,4,3
+CES201606,1501,37,stick,ruggenkrabber,ruggenkrabber,back scratcher,2,4
+CES201606,593,17,stick,er samen aan trekken,samen trekken,constrict,3,5
+CES201606,271,13,stick,als je er op schrijft en in de tuin drukt bij je planten laat het zien welke plant het is,schrijft tuin drukt planten laat zien welke plant,writes garden prints plants shows which plant,3,4
+CES201606,876,20,stick,je kan het schuren,schuren,sand,2,4
+CES201606,1895,46,stick,seksspeeltje,seksspeeltje,sex toy,4,3
+CES201606,875,20,stick,al sierobject,sierobject,ornamental object,3,3
+CES201606,364,14,stick,iemand mee slaan,slaan,beat,2,5
+CES201606,583,17,stick,iemand slaan,slaan,beat,2,5
+CES201606,772,19,stick,om mee te slaan,slaan,beat,2,5
+CES201606,874,20,stick,iemand ermee slaan,slaan,beat,2,5
+CES201606,1025,22,stick,ermee slaan,slaan,beat,2,5
+CES201606,1055,24,stick,je kunt er mee slaan,slaan,beat,2,5
+CES201606,1118,25,stick,om mee te slaan,slaan,beat,2,5
+CES201606,1250,28,stick,iemand mee slaan,slaan,beat,2,5
+CES201606,1531,38,stick,slaan,slaan,beat,2,5
+CES201606,1648,42,stick,Slaan,slaan,beat,2,5
+CES201606,441,15,stick,je kunt iemand slaan met een stok,slaan stok,hitting stick,2,5
+CES201606,1409,35,stick,als slagboom gebruikewn,slagboom,barrier,3,4
+CES201606,449,15,stick,spalk,spalk,splint,2,4
+CES201606,1212,27,stick,spalk,spalk,splint,2,4
+CES201606,509,16,stick,speelgoed,speelgoed,toys,2,4
+CES201606,1059,24,stick,speelgoed voor een hond,speelgoed hond,toy dog,1,5
+CES201606,272,13,stick,als speer,speer,javelin,2,4
+CES201606,447,15,stick,speer,speer,javelin,2,4
+CES201606,1500,37,stick,speer,speer,javelin,2,4
+CES201606,1743,44,stick,Speer,speer,javelin,2,4
+CES201606,2045,49,stick,speer,speer,javelin,2,4
+CES201606,2008,48,stick,speerwerpen,speerwerpen,javelin throwing,2,4
+CES201606,2125,50,stick,speerwerpen,speerwerpen,javelin throwing,2,4
+CES201606,1024,22,stick,spelen met de hond,spelen hond,play dog,1,5
+CES201606,1652,42,stick,op staan,staan,stand,2,5
+CES201606,512,16,stick,stang,stang,Rod,1,5
+CES201606,1893,46,stick,stoel,stoel,chair,3,3
+CES201606,678,18,stick,als stoel poor ,stoel poot,chair leg,3,3
+CES201606,221,12,stick,een stoelpoot,stoelpoot,chair leg,3,3
+CES201606,1807,45,stick,stok achter de deur,stok achter deur,big stick,3,4
+CES201606,1162,26,stick,heeft een stok een toepassing?,stok toepassing,stick application,0,0
+CES201606,2004,48,stick,stokgevecht,stokgevecht,stick fight,2,4
+CES201606,588,17,stick,hem in twee stokken zagen,stokken zagen,sawing sticks,1,5
+CES201606,1255,28,stick,voor stokslagen,stokslagen,caning,2,4
+CES201606,676,18,stick,sushi eten met twee stokjes ,sushi eten stokjes,sushi food chopsticks,3,4
+CES201606,677,18,stick,als tafel poot ,tafel poot,table leg,3,3
+CES201606,227,12,stick,een tafelpoot,tafelpoot,table leg,3,3
+CES201606,1606,40,stick,tafelpoot,tafelpoot,table leg,3,3
+CES201606,1120,25,stick,tafelpoot wanneer je tafelpoot is afgebroken,tafelpoot wanneer tafelpoot afgebroken,table leg when table leg broken off,3,3
+CES201606,1165.2,26,stick, andere technieken waarbij h et werk aan ????????n kant vast moet,technieken waarbij h et werk n kant vast,techniques where work is fixed on one side,0,0
+CES201606,784,19,stick,om iets te tekeken (in zand bijv),tekenen,draw,2,4
+CES201606,991,23,stick,tekenen in zand,tekenen zand,drawing sand,2,5
+CES201606,2122,50,stick,tekenen ermee in het zand,tekenen zand,drawing sand,2,5
+CES201606,2006,48,stick,tekening in zand maken,tekening zand,drawing sand,2,5
+CES201606,2145.3,51,stick, is tent,tent,tent,3,3
+CES201606,1407,35,stick,tent bouwen,tent bouwen,build tent,3,3
+CES201606,1057,24,stick,tent mee opzetten,tent opzetten,pitch tent,3,3
+CES201606,1295,29,stick,tentijzer,tentijzer,tent iron,3,3
+CES201606,781,19,stick,om mee te tikken,tikken,tap,2,4
+CES201606,999,23,stick,iemand aan tikken,tikken,tap,2,4
+CES201606,585,17,stick,een tomaatje wegslaan,tomaatje wegslaan,throw away tomato,4,4
+CES201606,997,23,stick,touw('stok) trekken,touw trekken,pulling rope,3,4
+CES201606,445,15,stick,tralie,tralie,trellis,4,3
+CES201606,780,19,stick,om mee te trekken,trekken,Pull,3,5
+CES201606,1479,36,stick,tuinhek mee maken,tuinhek,garden gate,2,4
+CES201606,1251,28,stick,tussen iemands spaken steken zodat die valt,tussen iemands spaken steken zodat valt,stick between someone's spokes so that it falls,3,4
+CES201606,1022,22,stick,tussen twee palen om erop te zitten,tussen palen erop zitten,sit on it between posts,3,3
+CES201606,673,18,stick,uithollen en klein maken voor een rietje ,uithollen klein rietje,hollow out small straw,3,4
+CES201606,590,17,stick,vangen,vangen,catch,2,4
+CES201606,774,19,stick,om iets in vast te prikken,vast prikken,pin down,3,5
+CES201606,1163,26,stick,vastzetten van dingen,vastzetten dingen,pin things down,2,4
+CES201606,879.2,20,stick, zo ver mogelijk als speerwerpen,ver mogelijk speerwerpen,throwing javelin as far as possible,2,5
+CES201606,372,14,stick,als verlengde van je eigen arm gebruiken ,verlengde eigen arm,extend own arm,3,5
+CES201606,788,19,stick,om te versieren,versieren,decorate,3,3
+CES201606,2143,51,stick,iets verstopt onders iets laags tevoorschijn toveren,verstopt onder laag tevoorschijn toveren,hidden under layer,2,3
+CES201606,219,12,stick,een vibrator,vibrator,vibrator,5,2
+CES201606,374,14,stick,als vijzel gebruiken,vijzel,mortar,4,3
+CES201606,273,13,stick,om vissen te vangen,vissen vangen,catching fish,4,3
+CES201606,1058,24,stick,vlag uithangen,vlag uithangen,fly flag,2,4
+CES201606,1297,29,stick,vlaggemast,vlaggenmast,flagpole,2,4
+CES201606,1000,23,stick,vliegenmepper,vliegenmepper,fly swatter,4,2
+CES201606,2126.2,50,stick, je voorhoofd erop en rondjes draaien als je graag duizelig wilt worden,voorhoofd erop rondjes draaien graag duizelig wilt,"turn your forehead in circles, feel dizzy",4,4
+CES201606,1209,27,stick,vuur maken ,vuur,firework,2,4
+CES201606,1809,45,stick,vuur,vuur,firework,2,4
+CES201606,2003,48,stick,vuur maken,vuur,firework,2,4
+CES201606,786,19,stick,voor vuurtje maken,vuurtje,fire,2,4
+CES201606,669,18,stick,wandel stok ,wandel stok,walking stick,2,4
+CES201606,1530,38,stick,mee wandelen,wandelen,walk,2,4
+CES201606,1607,40,stick,wandelen,wandelen,walk,2,4
+CES201606,363,14,stick,als wandelstok,wandelstok,walking stick,2,4
+CES201606,873,20,stick,als wandelstok,wandelstok,walking stick,2,4
+CES201606,1208,27,stick,wandelstok,wandelstok,walking stick,2,4
+CES201606,223,12,stick,een wapen,wapen,weapon,3,5
+CES201606,270,13,stick,als wapen,wapen,weapon,3,5
+CES201606,508,16,stick,wapen,wapen,weapon,3,5
+CES201606,1294,29,stick,wapen ,wapen,weapon,3,5
+CES201606,1166,26,stick,weefraam maken,weefraam,loom,4,3
+CES201606,1811,45,stick,wegversperrer,wegversperring,roadblock,3,3
+CES201606,1810,45,stick,wigwam,wigwam,wigwam,3,4
+CES201606,773,19,stick,om iets aan te wijzen,wijzen,ways,1,5
+CES201606,1002,23,stick,ipv zwaard,zwaard,sword,2,4
+CES201606,1894,46,stick,zwaard,zwaard,sword,2,4
+CES201606,1741,44,stick,Zwaardvechten,zwaardvechten,sword fighting,2,4

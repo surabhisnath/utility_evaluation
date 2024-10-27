@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrollable Table with Selectable Numbers</title>
+  <style>
+    /* Ensure everything respects the box-sizing model */
+    * {
+      box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /* Main table container */
+    .table-container {
+      width: 50%;
+      margin: 0 auto;
+      height: 80vh; /* 80% of the viewport height */
+      overflow-y: auto;
+      overflow-x: hidden; /* Disable horizontal scrolling */
+      position: relative;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed; /* Ensures even column widths */
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      position: sticky;
+      top: 0;
+      z-index: 2; /* Keep the header on top */
+    }
+
+    tbody {
+      display: block;
+      height: calc(80vh - 40px); /* Adjust height to fit within the container, subtracting the header height */
+      overflow-y: auto;
+      width: 100%;
+    }
+
+    /* Prevent horizontal scrolling */
+    thead, tbody tr {
+      display: table;
+      width: 100%;
+      table-layout: fixed;
+    }
+
+    tbody tr {
+      width: 100%;
+    }
+
+    /* Remove horizontal scrollbar */
+    .table-container {
+      overflow-x: hidden;
+    }
+
+    button {
+      display: block;
+      margin: 20px auto;
+      font-size: 15px;
+    }
+
+    /* Styles for the number boxes */
+    .number-boxes {
+      display: flex;
+      justify-content: center;
+      column-gap: 0;    
+}
+
+    .number-box {
+      width: 30px;
+      height: 30px;
+      border: 1px solid black;
+      margin: 0 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    .number-box.selected {
+      background-color: hsl(120, 39%, 79%);;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+
+<h2 style="text-align: center;">Rate the Utility of Object Alternate Uses</h2>
+
+<div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Object</th>
+        <th>Alternate Use</th>
+        <th>Utility Rating: 1 (lowest) - 5 (highest)</th>
+      </tr>
+    </thead>
+    <tbody id="ratingTable">
+    </tbody>
+  </table>
+</div>
+
+<button onclick="submitRatings()">Submit Ratings</button>
+
+<script>
+// Generate 100 rows of sample data
+const data = Array.from({ length: 100 }, (_, i) => ({
+  object: `Object ${i + 1}`,
+  use: `Alternate Use ${i + 1}`
+}));
+
+// Function to dynamically create the table
+function createTable() {
+  const tableBody = document.getElementById('ratingTable');
+
+  data.forEach((item, index) => {
+    // Create a new row
+    const row = document.createElement('tr');
+
+    // Create cells for object, use, and rating
+    const objectCell = document.createElement('td');
+    objectCell.textContent = item.object;
+    row.appendChild(objectCell);
+
+    const useCell = document.createElement('td');
+    useCell.textContent = item.use;
+    row.appendChild(useCell);
+
+    const ratingCell = document.createElement('td');
+    ratingCell.className = 'number-boxes';
+
+    // Create the 5 number boxes
+    for (let i = 1; i <= 5; i++) {
+      const numberBox = document.createElement('div');
+      numberBox.className = 'number-box';
+      numberBox.textContent = i;
+
+      // Handle box click
+      numberBox.addEventListener('click', () => {
+        if (numberBox.classList.contains('selected')) {
+          // If the box is already selected, deselect it
+          numberBox.classList.remove('selected');
+        } else {
+          // Otherwise, deselect all siblings and select the clicked box
+          ratingCell.querySelectorAll('.number-box').forEach(box => box.classList.remove('selected'));
+          numberBox.classList.add('selected');
+        }
+      });
+
+      ratingCell.appendChild(numberBox);
+    }
+
+    row.appendChild(ratingCell);
+    tableBody.appendChild(row);
+  });
+}
+
+// Function to handle the submission of ratings
+function submitRatings() {
+  const ratings = [];
+  let allRated = true;
+
+  document.querySelectorAll('tbody tr').forEach((row, index) => {
+    const selectedBox = row.querySelector('.number-box.selected');
+
+    if (selectedBox) {
+      ratings.push({
+        object: data[index].object,
+        use: data[index].use,
+        rating: selectedBox.textContent
+      });
+    } else {
+      allRated = false;
+    }
+  });
+
+  if (!allRated) {
+    alert("Please rate all items before submitting.");
+  } else {
+    console.log(ratings);
+    alert("Thank you! Your ratings have been submitted.");
+  }
+}
+
+// Call the function to create the table
+createTable();
+</script>
+
+</body>
+</html>
