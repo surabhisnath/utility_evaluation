@@ -1,202 +1,163 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Scrollable Table with Selectable Numbers</title>
-  <style>
-    /* Ensure everything respects the box-sizing model */
-    * {
-      box-sizing: border-box;
-      font-family: Arial, Helvetica, sans-serif;
-    }
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Surabhi S Nath">
+    <script src="js/sweetalert.min.js"></script>
+    <title>Utility Evaluation</title>
+    <link href="css/utility_evaluation.css" rel="stylesheet" type="text/css">
+  </head>
 
-    /* Main table container */
-    .table-container {
-      width: 50%;
-      margin: 0 auto;
-      height: 80vh; /* 80% of the viewport height */
-      overflow-y: auto;
-      overflow-x: hidden; /* Disable horizontal scrolling */
-      position: relative;
-    }
+  <body>
+    <div id="page_welcome" class="center-screen" id="welcome" style="display:block;">
+      <center>
+      <h1>Welcome</h1>
+      <h4>If you would like to participate in our experiment, please click on Start.<br>
+      The experiment will enter full screen mode.</h4><br>
+      <button class='button' onclick="loadconsent()">Start</button>
+    </div>
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      table-layout: fixed; /* Ensures even column widths */
-    }
+    <div id="page_consent" class="center-screen" id="consent" style="display:none;">
+      <center>
+      <h1>Consent placeholder</h1>
+      <p>Some text here</p>
+      <button class='button' onclick="loaddataprotection()">Yes, I consent to participate</button>
+      <button class='button' onclick="exit('page_consent')">No, I do not consent to participate</button>
+    </div>
 
-    th, td {
-      border: 1px solid black;
-      padding: 8px;
-      text-align: center;
-    }
+    <div id="page_dataprotection" class="center-screen" id="consent" style="display:none;">
+      <center>
+      <h1>Legal Declaration of Consent under Data Protection Law</h1>
+      <!-- <p><a target="_blank" rel="noopener noreferrer" href="https://kyblab.tuebingen.mpg.de/fma/dataprotection.pdf">Please click here to view our Data Protection Information Sheet, yours to keep.</a></p>
+      <p>I have received and took note of the written Data Protection Information Sheet for this study. In doing so, I had sufficient time and opportunity to ask questions about data protection and reconsider my participation in the study. </p>
+      <p>I am aware that:</p>
+      <ul>
+          <li>the processing and use of the collected data occur in a pseudonymized form within the scope of the legally prescribed provisions.
+              As a general rule, the storage occurs in the form of questionnaires, as well as on electronic data media, for 10 years
+              or longer, if this is required by the purpose of the study.</li>
+          <li>by providing further personal data in pseudonymized form, collected personal data may be used for the preparation of anonymized
+              scientific research work and may also be published and used in an anonymized form in medical journals, scientific publications
+              and publicly accessible scientific databases, so that a direct assignment to my person cannot be established.</li>
+          <li>the information obtained during this study may also be sent in an anonymized form to cooperation partners within the
+              scope of the European General Data Protection Regulation for scientific purposes and to cooperation partners outside of the
+              European Union, i.e. to countries with a lower data protection level (this also applies to the USA).</li>
+          <li>the data collected within the scope of the study can also be used and processed in the future inside of the Institute.</li>
+      </ul>
+      <p>I was informed about my rights, that at any time:</p>
+      <ul>
+            <li>I can withdraw this declaration of consent.</li>
+            <li>I can request information about my stored data and request the correction or blocking of data.</li>
+            <li>by cancellation of my participation in the study, I can request that my personal data collected until that time are immediately deleted or anonymized.</li>
+            <li>I can request that my data are handed out to me or to third parties (if technically feasible).</li>
+      </ul>
 
-    th {
-      background-color: #f2f2f2;
-      position: sticky;
-      top: 0;
-      z-index: 2; /* Keep the header on top */
-    }
+      <p>I herewith declare that:</p>
+      <ul>
+            <li>I have been adequately informed about the collection and processing of my data and rights.</li>
+            <li>I consent to the collection and processing of personal data within the scope of the study and its pseudonymized disclosure so that
+              only the persons conducting the study can establish a link between the data and my person.</li>
+      </ul>
+      <p>By selecting the consent option below, I agree to participate in online studies or experiments using learning, and I consent to the use of my data described in the Data Protection Information Sheet and confirm having received a copy of the Data Protection Sheet.</p>
+      <p>Note: If you do not consent to participate in this study or have your data used as outlined in the Data Protection Information Sheet, then this experiment will now close and you will not proceed any further. No information about you will be retained. </p>
+      <br> -->
+      <button class='button' onclick="loadinstructions()">Yes, I consent to participate</button>
+      <button class='button' onclick="exit('page_dataprotection')">No, I do not consent to participate</button>
+    </div>
 
-    tbody {
-      display: block;
-      height: calc(80vh - 40px); /* Adjust height to fit within the container, subtracting the header height */
-      overflow-y: auto;
-      width: 100%;
-    }
+    <div id="page_exit" class="center-screen" id="exit" style="display:none;">
+      <center>
+      <h4>You did not consent to participate. Thank you for your time!<br>You may now close this tab.</h4>
+    </div>
 
-    /* Prevent horizontal scrolling */
-    thead, tbody tr {
-      display: table;
-      width: 100%;
-      table-layout: fixed;
-    }
+    <div id="page_instructions" class="center-screen" style="display:none;">
+      <center>
+      <h1>INSTRUCTIONS</h1>
+        <br>
+        <h4>Thank you for participating in our study.</h4><br><br>
+        <h4>In this study, you will be rating the utility of responses.</h4>
+        <button class='button' onclick="loadinstructions2()">Continue</button>
+    </div>
 
-    tbody tr {
-      width: 100%;
-    }
+    <div id="page_instructions2" class="center-screen" style="display:none;">
+      <center>
+      <h1>INSTRUCTIONS</h1>
+        <br>
+        <h4>Thank you for participating in our study.</h4><br><br>
+        <button class='button' onclick="loadmain1()">Continue</button>
+    </div>
 
-    /* Remove horizontal scrollbar */
-    .table-container {
-      overflow-x: hidden;
-    }
+    <div id="main_page1" class="center-screen" id="welcome" style="display:none;">
+      <center>
+      <h2 style="text-align: center;">Rate the Utility of Object Alternate Uses</h2><br>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Object</th>
+              <th>Alternate Use</th>
+              <th>Utility Rating: 1 (lowest) - 5 (highest)</th>
+            </tr>
+          </thead>
+          <tbody id="ratingTable1">
+          </tbody>
+        </table>
+      </div>
+      <button class='button' onclick="submitRatings1()">Submit Ratings</button>
+    </div>
 
-    button {
-      display: block;
-      margin: 20px auto;
-      font-size: 15px;
-    }
+    <div id="main_page2" class="center-screen" id="welcome" style="display:none;">
+      <center>
+      <h2 style="text-align: center;">Rate the Utility of Object Alternate Uses</h2><br>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Object</th>
+              <th>Alternate Use</th>
+              <th>Utility Rating: 1 (lowest) - 5 (highest)</th>
+            </tr>
+          </thead>
+          <tbody id="ratingTable2">
+          </tbody>
+        </table>
+      </div>
+      <button class='button' onclick="submitRatings2()">Submit Ratings</button>
+    </div>
 
-    /* Styles for the number boxes */
-    .number-boxes {
-      display: flex;
-      justify-content: center;
-      column-gap: 0;    
-}
+    <div id="main_page3" class="center-screen" id="welcome" style="display:none;">
+      <center>
+      <h2 style="text-align: center;">Rate the Utility of Object Alternate Uses</h2><br>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Object</th>
+              <th>Alternate Use</th>
+              <th>Utility Rating: 1 (lowest) - 5 (highest)</th>
+            </tr>
+          </thead>
+          <tbody id="ratingTable3">
+          </tbody>
+        </table>
+      </div>
+      <button class='button' onclick="submitRatings3()">Submit Ratings</button>
+    </div>
 
-    .number-box {
-      width: 30px;
-      height: 30px;
-      border: 1px solid black;
-      margin: 0 0px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      cursor: pointer;
-      transition: background-color 0.2s;
-    }
+    <div id="page_questionsintro" class="center-screen" style="display:none;">
+      <center>
+      <h1>Final Questions</h1>
+      <h4>Thank you for completing the task.</h4>
+      <h4>In the following section, we will ask you some questions about yourself and your experience with the task. This helps our research.</h4><br>
+      <button class="button" onclick="gotoquestions1()" style="display:block">Continue</button>
+    </div>
 
-    .number-box.selected {
-      background-color: hsl(120, 39%, 79%);;
-      color: black;
-    }
-  </style>
-</head>
-<body>
-
-<h2 style="text-align: center;">Rate the Utility of Object Alternate Uses</h2>
-
-<div class="table-container">
-  <table>
-    <thead>
-      <tr>
-        <th>Object</th>
-        <th>Alternate Use</th>
-        <th>Utility Rating: 1 (lowest) - 5 (highest)</th>
-      </tr>
-    </thead>
-    <tbody id="ratingTable">
-    </tbody>
-  </table>
-</div>
-
-<button onclick="submitRatings()">Submit Ratings</button>
-
-<script>
-// Generate 100 rows of sample data
-const data = Array.from({ length: 100 }, (_, i) => ({
-  object: `Object ${i + 1}`,
-  use: `Alternate Use ${i + 1}`
-}));
-
-// Function to dynamically create the table
-function createTable() {
-  const tableBody = document.getElementById('ratingTable');
-
-  data.forEach((item, index) => {
-    // Create a new row
-    const row = document.createElement('tr');
-
-    // Create cells for object, use, and rating
-    const objectCell = document.createElement('td');
-    objectCell.textContent = item.object;
-    row.appendChild(objectCell);
-
-    const useCell = document.createElement('td');
-    useCell.textContent = item.use;
-    row.appendChild(useCell);
-
-    const ratingCell = document.createElement('td');
-    ratingCell.className = 'number-boxes';
-
-    // Create the 5 number boxes
-    for (let i = 1; i <= 5; i++) {
-      const numberBox = document.createElement('div');
-      numberBox.className = 'number-box';
-      numberBox.textContent = i;
-
-      // Handle box click
-      numberBox.addEventListener('click', () => {
-        if (numberBox.classList.contains('selected')) {
-          // If the box is already selected, deselect it
-          numberBox.classList.remove('selected');
-        } else {
-          // Otherwise, deselect all siblings and select the clicked box
-          ratingCell.querySelectorAll('.number-box').forEach(box => box.classList.remove('selected'));
-          numberBox.classList.add('selected');
-        }
-      });
-
-      ratingCell.appendChild(numberBox);
-    }
-
-    row.appendChild(ratingCell);
-    tableBody.appendChild(row);
-  });
-}
-
-// Function to handle the submission of ratings
-function submitRatings() {
-  const ratings = [];
-  let allRated = true;
-
-  document.querySelectorAll('tbody tr').forEach((row, index) => {
-    const selectedBox = row.querySelector('.number-box.selected');
-
-    if (selectedBox) {
-      ratings.push({
-        object: data[index].object,
-        use: data[index].use,
-        rating: selectedBox.textContent
-      });
-    } else {
-      allRated = false;
-    }
-  });
-
-  if (!allRated) {
-    alert("Please rate all items before submitting.");
-  } else {
-    console.log(ratings);
-    alert("Thank you! Your ratings have been submitted.");
-  }
-}
-
-// Call the function to create the table
-createTable();
-</script>
-
-</body>
+    <div id="page_end" class="center-screen" id="end" style="display:none;">
+      <center>
+      <h4>Thank you for participating in our study! Your responses have been recorded. Your completion code is: <b>SRBHNTH</b><br>You may now close this tab.</h4>
+    </div>
+    
+    <script src="js/utility_evaluation.js"></script>
+  </body>
 </html>
