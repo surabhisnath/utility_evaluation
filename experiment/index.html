@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Surabhi S Nath">
+    <script src="js/jquery.min.js"></script>
     <script src="js/sweetalert.min.js"></script>
     <title>Utility Evaluation</title>
     <link href="css/utility_evaluation.css" rel="stylesheet" type="text/css">
@@ -19,51 +20,47 @@
       <button class='button' onclick="loadconsent()">Start</button>
     </div>
 
-    <div id="page_consent" class="center-screen" id="consent" style="display:none;">
+    <div id="page_consent" class="center-screen" id="consent" style="display:none; width: 80%">
       <center>
-      <h1>Consent placeholder</h1>
-      <p>Some text here</p>
-      <button class='button' onclick="loaddataprotection()">Yes, I consent to participate</button>
-      <button class='button' onclick="exit('page_consent')">No, I do not consent to participate</button>
+      <h1>Information Letter</h1>
+      <h2>Investigating how People rate Utility</h2>
+      <p>Dear participant,<br>
+      Welcome to our study! This takes place at the Faculty of Social and Behavioral Sciences of the University of Amsterdam (UvA).<br>      <br>
+      It is important that you learn about the procedure of this study before it starts, so please read the following text carefully. If anything is unclear to you, feel free to ask the researcher directly, or contact us through email: c.e.stevenson@uva.nl. We are happy to answer any questions you may have.<br>
+      <b>Goal of the study:</b> This study examines how people rate utility/feasibility of responses in a task.<br>
+      <b>Study procedure:</b> In this study you will rate the utility of 3 sets of 100 responses.<br>
+      <b>This study takes approximately 20 minutes.</b><br>
+      <b>Voluntary Participation:</b> Your participation in this study is voluntary: you are not obligated to participate. You may decide to stop your participation during the study, and you can also decide to withdraw after the study. You do not have to provide a reason for stopping.<br>
+      <b>Privacy:</b> We do not collect any personal data in this study.<br>
+      <b>Data sharing:</b> The results of this study will be shared with other researchers and/or will be shared through a public database (open access). The results may be used in other future research, which may investigate a different topic than the study you are currently participating in.<br>
+      <b>Further information:</b> If you have any questions about the study, either before you participate or afterwards, please feel free to contact the principal investigator: dr. Claire Stevenson, c.e.stevenson@uva.nl. You can direct any formal complaints about this study to the member of the Ethics Review Board of the Faculty of Social and Behavioral Sciences of the University of Amsterdam, Dr. Lourens Waldorp, l.j.waldorp@uva.nl.<br>
+      <br>
+      Kind regards,<br>
+      Dr. Claire Stevenson<br>
+      c.e.stevenson@uva.nl</p>
+      <button class='button' onclick="loadconsent2()">Continue</button>
+      <button class='button' onclick="exit('page_consent')">Exit</button>
     </div>
 
-    <div id="page_dataprotection" class="center-screen" id="consent" style="display:none;">
+    <div id="page_consent2" class="center-screen" id="consent2" style="display:none; width: 80%">
       <center>
-      <h1>Legal Declaration of Consent under Data Protection Law</h1>
-      <!-- <p><a target="_blank" rel="noopener noreferrer" href="https://kyblab.tuebingen.mpg.de/fma/dataprotection.pdf">Please click here to view our Data Protection Information Sheet, yours to keep.</a></p>
-      <p>I have received and took note of the written Data Protection Information Sheet for this study. In doing so, I had sufficient time and opportunity to ask questions about data protection and reconsider my participation in the study. </p>
-      <p>I am aware that:</p>
+      <h1>Informed Consent</h1>
+      <!-- <p><a target="_blank" rel="noopener noreferrer" href="https://kyblab.tuebingen.mpg.de/fma/dataprotection.pdf">Please click here to view our Data Protection Information Sheet, yours to keep.</a></p> -->
+      <p>You have just received information about the study. By signing this form you state that you understand the study procedure. And if you decide to participate, please provide your permission below so that we can include your responses in our research.
+      I hereby declare that:<br></p>
       <ul>
-          <li>the processing and use of the collected data occur in a pseudonymized form within the scope of the legally prescribed provisions.
-              As a general rule, the storage occurs in the form of questionnaires, as well as on electronic data media, for 10 years
-              or longer, if this is required by the purpose of the study.</li>
-          <li>by providing further personal data in pseudonymized form, collected personal data may be used for the preparation of anonymized
-              scientific research work and may also be published and used in an anonymized form in medical journals, scientific publications
-              and publicly accessible scientific databases, so that a direct assignment to my person cannot be established.</li>
-          <li>the information obtained during this study may also be sent in an anonymized form to cooperation partners within the
-              scope of the European General Data Protection Regulation for scientific purposes and to cooperation partners outside of the
-              European Union, i.e. to countries with a lower data protection level (this also applies to the USA).</li>
-          <li>the data collected within the scope of the study can also be used and processed in the future inside of the Institute.</li>
+      <li>I am 16 years or older.</li>
+      <li>I have read and understood the information.</li>
+      <li>I agree to participate in the study and consent to the use of my data.</li>
+      <li>I reserve the right to withdraw this consent without providing a reason.</li>
+      <li>I reserve the right to quit the study at any time.</li>
       </ul>
-      <p>I was informed about my rights, that at any time:</p>
-      <ul>
-            <li>I can withdraw this declaration of consent.</li>
-            <li>I can request information about my stored data and request the correction or blocking of data.</li>
-            <li>by cancellation of my participation in the study, I can request that my personal data collected until that time are immediately deleted or anonymized.</li>
-            <li>I can request that my data are handed out to me or to third parties (if technically feasible).</li>
-      </ul>
-
-      <p>I herewith declare that:</p>
-      <ul>
-            <li>I have been adequately informed about the collection and processing of my data and rights.</li>
-            <li>I consent to the collection and processing of personal data within the scope of the study and its pseudonymized disclosure so that
-              only the persons conducting the study can establish a link between the data and my person.</li>
-      </ul>
-      <p>By selecting the consent option below, I agree to participate in online studies or experiments using learning, and I consent to the use of my data described in the Data Protection Information Sheet and confirm having received a copy of the Data Protection Sheet.</p>
-      <p>Note: If you do not consent to participate in this study or have your data used as outlined in the Data Protection Information Sheet, then this experiment will now close and you will not proceed any further. No information about you will be retained. </p>
-      <br> -->
-      <button class='button' onclick="loadinstructions()">Yes, I consent to participate</button>
-      <button class='button' onclick="exit('page_dataprotection')">No, I do not consent to participate</button>
+      <br>
+      <p>Click here to download the information and informed consent.</p><br><br>
+      I agree and wish to participate in this study.<br>
+      <button class='button' onclick="loadinstructions()">Yes, I will participate</button><br>
+      I do <u>not</u> agree to participate, or do <u>not</u> meet the conditions.<br>
+      <button class='button' onclick="exit('page_consent2')">No, I will not participate</button>
     </div>
 
     <div id="page_exit" class="center-screen" id="exit" style="display:none;">
@@ -84,8 +81,9 @@
       <center>
       <h1>INSTRUCTIONS</h1>
         <br>
-        <h4>Thank you for participating in our study.</h4><br><br>
-        <button class='button' onclick="loadmain1()">Continue</button>
+        <h4>More instructions and maybe examples come here.</h4><br><br>
+        <h4>Click on <b>Start</b> to begin!</h4>
+        <button class='button' onclick="loadmain1()"><b>Start</b></button>
     </div>
 
     <div id="main_page1" class="center-screen" id="welcome" style="display:none;">
@@ -153,9 +151,161 @@
       <button class="button" onclick="gotoquestions1()" style="display:block">Continue</button>
     </div>
 
+    <div id="page_questions1" class="center-screen" style="display:none; width: 80%">
+      <center>
+      <h4 style="text-align:center; font-weight:bold">What gender do you identify with?*</h4>
+      <label><input type="radio" name="q1" value="male">&nbspMale</label>
+      <label><input type="radio" name="q1" value="female">&nbspFemale</label>
+      <label><input type="radio" name="q1" value="other">&nbspOther</label>
+      <label><input type="radio" name="q1" value="nosay">&nbspPrefer not to say</label>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">How old are you (in years)?*</h4><br>
+      <input type="text" id="age" name="age" size="50%" required>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">What is your nationality?*</h4><br>
+      <input type="text" id="nationality" name="nationality" size="50%" required><br>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">What device did you use to complete this study?*</h4>
+      <label><input type="radio" name="q4" value="desktop">&nbspDesktop</label>
+      <label><input type="radio" name="q4" value="laptop">&nbspLaptop</label>
+      <label><input type="radio" name="q4" value="tablet">&nbspTablet</label>
+      <label><input type="radio" name="q4" value="mobile">&nbspMobile</label>
+      <label><input type="radio" name="q4" value="other">&nbspOther</label>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">What pointing device did you use to complete this study?*</h4>
+      <label><input type="radio" name="q5" value="mouse">&nbspMouse</label>
+      <label><input type="radio" name="q5" value="trackpad">&nbspTrackpad</label>
+      <label><input type="radio" name="q5" value="touchscreen">&nbspTouchscreen</label>
+      <label><input type="radio" name="q5" value="other2">&nbspOther</label>
+      <br><br>
+      <button class="button" onclick="gotoquestions2()" style="display:block">Continue</button>
+    </div>
+
+    <div id="page_questions2" class="center-screen" id="exit" style="display:none; width: 80%">
+      <center>
+      <h4 style="text-align:center; font-weight:bold">What strategy did you use to rate utility?*</h4><br>
+      <textarea name="Text1" id="strategy" cols="50%" rows="3"></textarea><br><br>
+      
+      <h4 style="text-align: center; font-weight: bold;">
+        Did you use any of the following strategies?*
+      </h4>
+
+      <div style="width: 100%; max-width: 100%; text-align: left;" class="responsive_margin_left">
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_1" name="featurematching" />
+          <label for="featurematching" style="margin-left: 10px;">
+            Matched properties of the object and alternate use to judge utility
+          </label>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_2" name="simulation" />
+          <label for="simulation" style="margin-left: 10px;">
+            Considered the future consequences of using the object as specified in the
+            alternate use to judge utility
+          </label>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_3" name="disassembly" />
+          <label for="disassembly" style="margin-left: 10px;">
+            Disassembled the object into parts to check if the alternate use can be
+            constructed suitably
+          </label>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_4" name="reasoning" />
+          <label for="reasoning" style="margin-left: 10px;">
+            Used common sense reasoning to judge if the alternate use would work
+          </label>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_5" name="consistency" />
+          <label for="consistency" style="margin-left: 10px;">
+            Ensured that alternate uses that meant similar things received similar
+            utility scores
+          </label>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <input type="checkbox" id="strategy_6" name="other" />
+          <label for="other" style="margin-left: 10px;">
+            Some other strategy - mentioned in previous answer
+          </label>
+        </div>
+      </div>
+      <br>
+      <h4 style="text-align:center; font-weight:bold">What types of responses did you rate as utility 1 (lowest)?*</h4><br>
+      <textarea name="Text2" id="utility1" cols="50%" rows="3"></textarea><br><br>
+      <h4 style="text-align:center; font-weight:bold">What types of responses did you rate as utility 2 (medium low)?*</h4><br>
+      <textarea name="Text3" id="utility2" cols="50%" rows="3"></textarea><br><br>
+      <h4 style="text-align:center; font-weight:bold">What types of responses did you rate as utility 3 (medium)?*</h4><br>
+      <textarea name="Text4" id="utility3" cols="50%" rows="3"></textarea><br><br>
+      <h4 style="text-align:center; font-weight:bold">What types of responses did you rate as utility 4 (medium high)?*</h4><br>
+      <textarea name="Text5" id="utility4" cols="50%" rows="3"></textarea><br><br>
+      <h4 style="text-align:center; font-weight:bold">What types of responses did you rate as utility 5 (highest)?*</h4><br>
+      <textarea name="Text6" id="utility5" cols="50%" rows="3"></textarea><br><br>
+      <br>
+      <button class="button" onclick="gotoquestions3()" style="display:block">Continue</button>
+    </div>
+
+    <div id="page_questions3" class="center-screen" id="exit" style="display:none;">
+      <center>
+      <h4 style="text-align:center; font-weight:bold">Did your ratings span 1 through 5 for each object<br>(i.e. each score (1,2,3,4,5) was given atleast once for each object)?*</h4><br>
+      <div class="center-screen" style="display:block; width:60%">
+        <center>
+        <label class="pull-left">Not at all</label>
+        <label class="pull-right">Definitely</label>
+        <input type="range" min="0" max="10" value="5" id="span" class="slider"><br>
+      </div>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">How biased were your ratings<br>(i.e. you rated it a certain score more often than other scores)?*</h4><br>
+      <div class="center-screen" style="display:block; width:60%">
+        <center>
+        <label class="pull-left">Not at all biased</label>
+        <label class="pull-right">Very biased</label>
+        <input type="range" min="0" max="10" value="5" id="bias" class="slider"><br>
+      </div>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">How consistent were your ratings<br>(i.e. responses that meant similar things got similar ratings)?*</h4><br>
+      <div class="center-screen" style="display:block; width:60%">
+        <center>
+        <label class="pull-left">Not at all consistent</label>
+        <label class="pull-right">Very consistent</label>
+        <input type="range" min="0" max="10" value="5" id="consistency" class="slider"><br>
+      </div>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">How confident are you in your ratings?*</h4><br>
+      <div class="center-screen" style="display:block; width:60%">
+        <center>
+        <label class="pull-left">Not at all confident</label>
+        <label class="pull-right">Very confident</label>
+        <input type="range" min="0" max="10" value="5" id="confidence" class="slider"><br>
+      </div>
+      <br><br>
+      <h4 style="text-align:center; font-weight:bold">How difficult was it to rate utility?*</h4><br>
+      <div class="center-screen" style="display:block; width:60%">
+        <center>
+        <label class="pull-left">Not at all difficult</label>
+        <label class="pull-right">Very difficult</label>
+        <input type="range" min="0" max="10" value="5" id="difficulty" class="slider"><br>
+      </div>
+      <br>
+      <button class="button" onclick="gotoquestions4()" style="display:block">Continue</button>
+    </div>
+
+    <div id="page_questions4" class="center-screen" id="exit" style="display:none;">
+      <center>
+      <h4 style="text-align:center; font-weight:bold">Is there anything else you would like to tell us?</h4><br>
+      <textarea name="Text" id="opencomments" cols="50%" rows="6"></textarea><br><br>
+      <button class="button" onclick="endexecution()" style="display:block">Finish</button>
+    </div>
+
     <div id="page_end" class="center-screen" id="end" style="display:none;">
       <center>
-      <h4>Thank you for participating in our study! Your responses have been recorded. Your completion code is: <b>SRBHNTH</b><br>You may now close this tab.</h4>
+      <h4>Thank you for participating in our study! Your responses have been recorded. Your completion code is: <b>SRBHNTH</b><br><br></h4>
+      <h4><b>Debriefing:</b><br>
+      In this study you rated the utility of responses produced by humans and LLMs in the alternate uses task.<br>
+      With your data, we will try training models to help automate utility scoring, a very key component of creativity evaluation.<br>
+      For more information about our research and the results, please contact the principal investigator Dr. Claire Stevenson, c.e.stevenson@uva.nl.</h4><br>
+      <h4>You may now close this tab.</h4>
     </div>
     
     <script src="js/utility_evaluation.js"></script>

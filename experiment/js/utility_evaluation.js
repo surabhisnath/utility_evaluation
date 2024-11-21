@@ -1,3 +1,92 @@
+var subject_id = Math.random().toString(36).substr(2, 8);
+const timestamp = gettimestamp();
+var slider1moved = false;
+var slider2moved = false;
+var slider3moved = false;
+var slider4moved = false;
+var slider5moved = false;
+var dictionary = {
+    "subject_id": subject_id,
+    "start_time": timestamp,
+    "end_time": "",
+
+    "objectsinorder": [],
+    "responses1": [],
+    "responses2": [],
+    "responses3": [],
+
+    "ratings1": [],
+    "ratings2": [],
+    "ratings3": [],
+
+    "ratings1clicks": [],
+    "ratings2clicks": [],
+    "ratings3clicks": [],
+
+    "gender": "",
+    "age": "",
+    "nationality": "",
+    "device": "",
+    "mouse": "",
+
+    "strategy": "",
+    "strategy_mcq": [],
+    "utility1": "",
+    "utility2": "",
+    "utility3": "",
+    "utility4": "",
+    "utility5": "",
+
+    "spread": -1,
+    "bias": -1,
+    "consistency": -1,
+    "confidence": -1,
+    "difficulty": -1,
+    "objectdifference": "",
+    "consistencyovertime": -1,
+    "noveltycreativityconfound": -1,
+
+    "opencomments": ""
+};
+
+function twoDigit(n) {
+    if(n < 10) {
+        return "0" + n;
+    } 
+    else {
+        return n;
+    }
+}
+
+function threeDigit(n) {
+    if(n < 10) {
+        return "00" + n;
+    } 
+    else if(n < 100) {
+        return "0" + n;
+    } 
+    else {
+        return n;
+    }
+}
+
+function gettimestamp(subset = 0)
+{
+    var date = new Date();
+    var year = date.getFullYear();
+    var month = date.getMonth();
+    var day = date.getDate();
+    var hour = date.getHours();
+    var minute = date.getMinutes();
+    var second = date.getSeconds();
+    var millisecond = date.getMilliseconds();
+    if (subset == 1)
+        return twoDigit(hour) + "-" + twoDigit(minute) + "-" + twoDigit(second) + "-" + threeDigit(millisecond);
+    if (subset == 2)
+        return date;
+    return year + "-" + twoDigit(month + 1) + "-" + twoDigit(day) + "-" + twoDigit(hour) + "-" + twoDigit(minute) + "-" + twoDigit(second) + "-" + threeDigit(millisecond);
+}
+
 function clickStart(hide, show) 
 {
     document.getElementById(hide).style.display = "none";
@@ -42,9 +131,9 @@ function loadconsent()
     requestFullScreen(elem);
 }
 
-function loaddataprotection()
+function loadconsent2()
 {
-    clickStart("page_consent", "page_dataprotection");
+    clickStart("page_consent", "page_consent2");
     var elem = document.body;
 	requestFullScreen(elem);
 }
@@ -70,7 +159,7 @@ function exit(page)
 
 function loadinstructions()
 {
-    clickStart("page_dataprotection", "page_instructions");
+    clickStart("page_consent2", "page_instructions");
     var elem = document.body; // Make the body go full screen.
     requestFullScreen(elem);
 }
@@ -107,12 +196,12 @@ function loadmain3()
 }
 
 // Generate 100 rows of sample data
-const data1 = Array.from({ length: 10 }, (_, i) => ({
+const data1 = Array.from({ length: 3 }, (_, i) => ({
     object: `Object 1`,
     use: `Alternate Use 1_${i + 1}`
 }));
 
-const data2 = Array.from({ length: 5 }, (_, i) => ({
+const data2 = Array.from({ length: 1 }, (_, i) => ({
     object: `Object 2`,
     use: `Alternate Use 2_${i + 1}`
 }));
@@ -121,7 +210,6 @@ const data3 = Array.from({ length: 1 }, (_, i) => ({
     object: `Object 3`,
     use: `Alternate Use 3_${i + 1}`
 }));
-
 
 // Function to dynamically create the table
 function createTable1() {
@@ -194,8 +282,9 @@ function submitRatings1()
     } 
 
     else {
-        console.log(ratings);
-        // swal("Thank you! Your ratings have been submitted.");
+        dictionary["ratings1"] = ratings
+        console.log(dictionary["ratings1"]);
+        swal("Thank you for completing the first set of ratings. Please proceed to next object.");
         loadmain2();
     }
 }
@@ -271,8 +360,9 @@ function submitRatings2()
     } 
 
     else {
-        console.log(ratings);
-        // swal("Thank you! Your ratings have been submitted.");
+        dictionary["ratings2"] = ratings
+        console.log(dictionary["ratings2"]);
+        swal("Thank you for completing the first second of ratings. Please proceed to last object.");
         loadmain3();
     }
 }
@@ -348,8 +438,8 @@ function submitRatings3()
     } 
 
     else {
-        console.log(ratings);
-        // swal("Thank you! Your ratings have been submitted.");
+        dictionary["ratings3"] = ratings
+        console.log(dictionary["ratings3"]);
         loadquestions();
     }
 }
@@ -361,6 +451,103 @@ function loadquestions()
     requestFullScreen(elem);
 }
 
+function gotoquestions1()
+{
+    clickStart("page_questionsintro", "page_questions1");
+    var elem = document.body;
+	requestFullScreen(elem);
+}
+
+function gotoquestions2()
+{
+    var checkq1 = document.querySelector('input[name="q1"]:checked');
+    var checkq2 = document.getElementById('age').value;
+    var checkq3 = document.getElementById('nationality').value;
+    var checkq4 = document.querySelector('input[name="q4"]:checked');
+    var checkq5 = document.querySelector('input[name="q5"]:checked');
+    
+    if (checkq1 == null || checkq2 == "" || checkq3 == "" || checkq4 == null || checkq5 == null)
+        swal("Some questions have missing responses!")
+    else
+    {
+        dictionary["gender"] = checkq1.value;
+        dictionary["age"] = checkq2;
+        dictionary["nationality"] = checkq3;
+        dictionary["device"] = checkq4.value;
+        dictionary["mouse"] = checkq5.value;
+        clickStart("page_questions1", "page_questions2");
+        var elem = document.body;
+		requestFullScreen(elem);
+    }
+}
+
+function gotoquestions3()
+{
+
+    var checkbeh1 = document.getElementById('strategy').value;
+
+    var checkmcq1 = document.querySelector('input[name="featurematching"]:checked');
+    var checkmcq2 = document.querySelector('input[name="simulation"]:checked');
+    var checkmcq3 = document.querySelector('input[name="disassembly"]:checked');
+    var checkmcq4 = document.querySelector('input[name="reasoning"]:checked');
+    var checkmcq5 = document.querySelector('input[name="consistency"]:checked');
+    var checkmcq6 = document.querySelector('input[name="other"]:checked');
+
+    var checkbeh2 = document.getElementById('utility1').value;
+    var checkbeh3 = document.getElementById('utility2').value;
+    var checkbeh4 = document.getElementById('utility3').value;
+    var checkbeh5 = document.getElementById('utility4').value;
+    var checkbeh6 = document.getElementById('utility5').value;
+
+    if (checkbeh1 == "" || checkbeh2 == "" || checkbeh3 == "" || checkbeh4 == "" || checkbeh5 == "" || checkbeh6 == "")
+    swal("Some questions have missing responses!");
+
+    else if (checkmcq1 == null && checkmcq2 == null && checkmcq3 == null && checkmcq4 == null && checkmcq5 == null && checkmcq6 == null)
+        swal("Some questions have missing responses!")
+
+    else
+    {
+        dictionary["strategy"] = checkbeh1;
+        dictionary["strategy_mcq"] = dictionary["strategy_mcq"].concat([checkmcq1, checkmcq2, checkmcq3, checkmcq4, checkmcq5, checkmcq6]);
+        dictionary["utility1"] = checkbeh2;
+        dictionary["utility2"] = checkbeh3;
+        dictionary["utility3"] = checkbeh4;
+        dictionary["utility4"] = checkbeh5;
+        dictionary["utility5"] = checkbeh6;
+        
+        clickStart("page_questions2", "page_questions3");
+        var elem = document.body;
+        requestFullScreen(elem);
+
+        document.getElementById('span').addEventListener('input', function() {slider1moved = true;})
+        document.getElementById('bias').addEventListener('input', function() {slider2moved = true;})
+        document.getElementById('consistency').addEventListener('input', function() {slider3moved = true;})
+        document.getElementById('confidence').addEventListener('input', function() {slider4moved = true;})
+        document.getElementById('difficulty').addEventListener('input', function() {slider5moved = true;})
+    }
+}
+
+function gotoquestions4()
+{
+    if (slider1moved == false || slider2moved == false || slider3moved == false || slider4moved == false || slider5moved == false)
+        swal("Some questions have missing responses!");
+    else
+    {
+        var checkslider1 = document.getElementById('span').value;
+        var checkslider2 = document.getElementById('bias').value;
+        var checkslider3 = document.getElementById('consistency').value;
+        var checkslider4 = document.getElementById('confidence').value;
+        var checkslider5 = document.getElementById('difficulty').value;
+        dictionary["span"] = checkslider1;
+        dictionary["bias"] = checkslider2;
+        dictionary["consistency"] = checkslider3;
+        dictionary["confidence"] = checkslider4;
+        dictionary["difficulty"] = checkslider5;
+        clickStart("page_questions3", "page_questions4");
+        var elem = document.body;
+        requestFullScreen(elem);
+    }
+}
 
 function endexecution()
 {
@@ -369,10 +556,17 @@ function endexecution()
         cancelFullScreen();
     }
 
-    // dictionary["end_time"] = gettimestamp();
-    // dictionary["opencomments"] = document.getElementById('opencomments').value;
-    // dictionary["average_clicks_per_grid"] = dictionary["clicks_per_grid"].reduce((a, b) => a + b, 0) / dictionary["clicks_per_grid"].length || 0;
+    dictionary["end_time"] = gettimestamp();
+    dictionary["opencomments"] = document.getElementById('opencomments').value;
+    console.log(dictionary);
     // jsPsych.data.get().push(dictionary);
     // saveData("data_" + dictionary["start_time"] + "__" + dictionary["end_time"] + "_" + subject_id, JSON.stringify(jsPsych.data.get()));
-    // clickStart("page_questions6", "page_end");
+    saveData("data_" + dictionary["start_time"] + "__" + dictionary["end_time"] + "_" + subject_id, JSON.stringify(dictionary, null, 2));
+    clickStart("page_questions4", "page_end");
+}
+
+function saveData(name, data)
+{
+    var filename = "./data/" + name + ".json";
+    $.post("write_data.php", {postresult: data + "\n", postfile: filename })
 }

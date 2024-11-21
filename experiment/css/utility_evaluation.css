@@ -206,3 +206,82 @@ button {
   font-family: "Open Sans", "Arial", sans-serif;
   font-size: large;
 }
+
+.slider {
+  -webkit-appearance: none;
+  width: 50%;
+  height: 25px;
+  border-radius: 5px;
+  background: lightgray;
+  outline: #000;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  cursor: pointer;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-color: transparent;
+  border-radius: 50%;
+  background: blue;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-color: transparent;
+  border-radius: 50%;
+  background: blue;
+  cursor: pointer;
+}
+
+.slider::-ms-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-color: transparent;
+  border-radius: 50%;
+  background: blue;
+  cursor: pointer;
+}
+
+.pull-left{float:left}
+.pull-right{float:right}
+
+
+.responsive_margin_left {
+  margin-left: 30%; /* Default margin for larger screens */
+}
+
+@media screen and (max-width: 1800px) {
+  .responsive_margin_left {
+    margin-left: 25%; /* Adjust margin for medium screens */
+  }
+}
+
+@media screen and (max-width: 1550px) {
+  .responsive_margin_left {
+    margin-left: 20%; /* Adjust margin for medium screens */
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  .responsive_margin_left {
+    margin-left: 15%; /* Adjust margin for medium screens */
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .responsive_margin_left {
+    margin-left: 5%; /* Adjust margin for small screens */
+  }
+}
