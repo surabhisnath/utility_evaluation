@@ -195,6 +195,9 @@ function loadmain3()
     requestFullScreen(elem);
 }
 
+objects = ["belt", ""];
+
+
 // Generate 100 rows of sample data
 const data1 = Array.from({ length: 3 }, (_, i) => ({
     object: `Object 1`,
